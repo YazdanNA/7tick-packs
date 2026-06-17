@@ -1,0 +1,41 @@
+{
+  "id": "en_to_fr_A1__shopping",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__shopping",
+  "words": [
+    {
+      "base_word": "bag",
+      "source_word": "bag",
+      "target_word": "sac",
+      "source_phonetic": "/bæɡ/",
+      "target_phonetic": "/sak/",
+      "source_example": "He carried a heavy bag.",
+      "target_example": "Il portait un sac lourd.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "buy",
+      "source_word": "buy",
+      "target_word": "acheter",
+      "source_phonetic": "/baɪ/",
+      "target_phonetic": "/aʃte/",
+      "source_example": "I want to buy a new phone.",
+      "target_example": "Je veux acheter un nouveau téléphone.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheap",
+      "source_word": "cheap",
+      "target_word": "bon marché",
+      "source_phonetic": "/tʃiːp/",
+      "target_phonetic": "/bɔ̃ maʁ.ʃe/",
+      "source_example": "Cycling is a cheap way to get around.",
+      "target_example": "Le vélo est un moyen de transport bon marché.",
+      "topic": "shopping",
+      "level": "A1"
+    }
+  ]
+}

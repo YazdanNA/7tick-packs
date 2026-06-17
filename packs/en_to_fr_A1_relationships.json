@@ -1,0 +1,41 @@
+{
+  "id": "en_to_fr_A1__relationships",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__relationships",
+  "words": [
+    {
+      "base_word": "boyfriend",
+      "source_word": "boyfriend",
+      "target_word": "petit ami",
+      "source_phonetic": "/ˈbɔɪfrend/",
+      "target_phonetic": "/pəti ami/",
+      "source_example": "She has a new boyfriend.",
+      "target_example": "Elle a un nouveau petit ami.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friend",
+      "source_word": "friend",
+      "target_word": "ami",
+      "source_phonetic": "/frend/",
+      "target_phonetic": "/a.mi/",
+      "source_example": "This is my friend Tom.",
+      "target_example": "Voici mon ami Tom.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friendly",
+      "source_word": "friendly",
+      "target_word": "amical",
+      "source_phonetic": "/ˈfrendli/",
+      "target_phonetic": "/a.mi.kal/",
+      "source_example": "Everyone was very friendly towards me.",
+      "target_example": "Tout le monde était très amical avec moi.",
+      "topic": "relationships",
+      "level": "A1"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "en_to_fa_A1__relationships",
+  "source": "en",
+  "target": "fa",
+  "group": "A1__relationships",
+  "words": [
+    {
+      "base_word": "boyfriend",
+      "source_word": "boyfriend",
+      "target_word": "دوست پسر",
+      "source_phonetic": "/ˈbɔɪfrend/",
+      "target_phonetic": "dust pesar",
+      "source_example": "She has a new boyfriend.",
+      "target_example": "او یک دوست پسر جدید دارد.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friend",
+      "source_word": "friend",
+      "target_word": "دوست",
+      "source_phonetic": "/frend/",
+      "target_phonetic": "dust",
+      "source_example": "This is my friend Tom.",
+      "target_example": "این تام، دوست من است.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friendly",
+      "source_word": "friendly",
+      "target_word": "دوستانه",
+      "source_phonetic": "/ˈfrendli/",
+      "target_phonetic": "dustāne",
+      "source_example": "Everyone was very friendly towards me.",
+      "target_example": "همه با من بسیار دوستانه برخورد کردند.",
+      "topic": "relationships",
+      "level": "A1"
+    }
+  ]
+}

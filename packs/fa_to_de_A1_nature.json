@@ -1,0 +1,52 @@
+{
+  "id": "fa_to_de_A1__nature",
+  "source": "fa",
+  "target": "de",
+  "group": "A1__nature",
+  "words": [
+    {
+      "base_word": "air",
+      "source_word": "هوا",
+      "target_word": "Luft",
+      "source_phonetic": "havā",
+      "target_phonetic": "/lʊft/",
+      "source_example": "بیایید بریم بیرون برای هوای تازه.",
+      "target_example": "Lass uns etwas frische Luft schnappen.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fire",
+      "source_word": "آتش",
+      "target_word": "Feuer",
+      "source_phonetic": "ātash",
+      "target_phonetic": "/ˈfɔʏɐ/",
+      "source_example": "آتش به خوبی می‌سوخت.",
+      "target_example": "Das Feuer brannte hell.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "flower",
+      "source_word": "گل",
+      "target_word": "Blume",
+      "source_phonetic": "gol",
+      "target_phonetic": "/ˈbluːmə/",
+      "source_example": "این گیاه یک گل زیبای قرمز روشن دارد.",
+      "target_example": "Die Pflanze hat eine schöne leuchtend rote Blume.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fly",
+      "source_word": "پرواز کردن",
+      "target_word": "fliegen",
+      "source_phonetic": "parvāz kardan",
+      "target_phonetic": "/ˈfliːɡən/",
+      "source_example": "یک لک‌لک به آرامی از کنار ما پرواز کرد.",
+      "target_example": "Ein Storch flog langsam vorbei.",
+      "topic": "nature",
+      "level": "A1"
+    }
+  ]
+}

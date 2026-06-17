@@ -1,0 +1,19 @@
+{
+  "id": "en_to_fr_A1__grammar",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__grammar",
+  "words": [
+    {
+      "base_word": "do",
+      "source_word": "do",
+      "target_word": "faire (auxiliaire)",
+      "source_phonetic": "/duː/",
+      "target_phonetic": "/fɛʁ/",
+      "source_example": "I don't like fish.",
+      "target_example": "Je n'aime pas le poisson.",
+      "topic": "grammar",
+      "level": "A1"
+    }
+  ]
+}

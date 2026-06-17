@@ -1,0 +1,30 @@
+{
+  "id": "fa_to_de_A1__weather",
+  "source": "fa",
+  "target": "de",
+  "group": "A1__weather",
+  "words": [
+    {
+      "base_word": "cold",
+      "source_word": "سرد",
+      "target_word": "kalt",
+      "source_phonetic": "sard",
+      "target_phonetic": "/kalt/",
+      "source_example": "من سردم است. گرمایش را زیاد کن.",
+      "target_example": "Mir ist kalt. Dreh die Heizung auf.",
+      "topic": "weather",
+      "level": "A1"
+    },
+    {
+      "base_word": "cool",
+      "source_word": "خنک",
+      "target_word": "kühl",
+      "source_phonetic": "xonak",
+      "target_phonetic": "/kyːl/",
+      "source_example": "برای آخر هفته هوای خنک‌تر پیش‌بینی شده است.",
+      "target_example": "Für das Wochenende wird kühleres Wetter vorhergesagt.",
+      "topic": "weather",
+      "level": "A1"
+    }
+  ]
+}

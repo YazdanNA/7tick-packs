@@ -1,0 +1,30 @@
+{
+  "id": "fa_to_de_A1__work",
+  "source": "fa",
+  "target": "de",
+  "group": "A1__work",
+  "words": [
+    {
+      "base_word": "career",
+      "source_word": "حرفه",
+      "target_word": "Karriere",
+      "source_phonetic": "herfe",
+      "target_phonetic": "/kaˈʁiːʁə/",
+      "source_example": "او برنامه دارد که حرفه‌ای در پزشکی دنبال کند.",
+      "target_example": "Sie plant eine Karriere in der Medizin.",
+      "topic": "work",
+      "level": "A1"
+    },
+    {
+      "base_word": "farmer",
+      "source_word": "کشاورز",
+      "target_word": "Bauer",
+      "source_phonetic": "kešāvarz",
+      "target_phonetic": "/ˈbaʊɐ/",
+      "source_example": "کشاورز سبزیجات می‌کارد.",
+      "target_example": "Der Bauer baut Gemüse an.",
+      "topic": "work",
+      "level": "A1"
+    }
+  ]
+}

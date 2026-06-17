@@ -1,0 +1,188 @@
+{
+  "id": "en_to_fr_a1_001",
+  "source": "en",
+  "target": "fr",
+  "level": "A1",
+  "words": [
+    {
+      "source_word": "a",
+      "target_word": "un",
+      "source_phonetic": "/eɪ/",
+      "target_phonetic": "/œ̃/",
+      "source_example": "I saw a man.",
+      "target_example": "J'ai vu un homme.",
+      "base_word": "a"
+    },
+    {
+      "source_word": "about",
+      "target_word": "environ",
+      "source_phonetic": "/əˈbaʊt/",
+      "target_phonetic": "/ɑ̃viʁɔ̃/",
+      "source_example": "It costs about $10.",
+      "target_example": "Ça coûte environ 10 dollars.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "about",
+      "target_word": "sur",
+      "source_phonetic": "/əˈbaʊt/",
+      "target_phonetic": "/syʁ/",
+      "source_example": "I read a book about flowers.",
+      "target_example": "J'ai lu un livre sur les fleurs.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "above",
+      "target_word": "au-dessus",
+      "source_phonetic": "/əˈbʌv/",
+      "target_phonetic": "/odəsy/",
+      "source_example": "Put it on the shelf above.",
+      "target_example": "Mets-le sur l'étagère du dessus.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "above",
+      "target_word": "au-dessus de",
+      "source_phonetic": "/əˈbʌv/",
+      "target_phonetic": "/odəsy də/",
+      "source_example": "The water came above our knees.",
+      "target_example": "L'eau est montée au-dessus de nos genoux.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "across",
+      "target_word": "de l'autre côté",
+      "source_phonetic": "/əˈkrɔːs/",
+      "target_phonetic": "/də lotʁ kote/",
+      "source_example": "We can't swim across—it's too wide.",
+      "target_example": "On ne peut pas traverser à la nage – c'est trop large.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "across",
+      "target_word": "à travers",
+      "source_phonetic": "/əˈkrɔːs/",
+      "target_phonetic": "/a tʁavɛʁ/",
+      "source_example": "He walked across the field.",
+      "target_example": "Il a traversé le champ à pied.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "action",
+      "target_word": "action",
+      "source_phonetic": "/ˈækʃn/",
+      "target_phonetic": "/aksjɔ̃/",
+      "source_example": "Firefighters took action immediately.",
+      "target_example": "Les pompiers ont agi immédiatement.",
+      "base_word": "action"
+    },
+    {
+      "source_word": "activity",
+      "target_word": "activité",
+      "source_phonetic": "/ækˈtɪvəti/",
+      "target_phonetic": "/aktivite/",
+      "source_example": "The club offers many activities, like tennis and swimming.",
+      "target_example": "Le club propose de nombreuses activités, comme le tennis et la natation.",
+      "base_word": "activity"
+    },
+    {
+      "source_word": "actor",
+      "target_word": "acteur",
+      "source_phonetic": "/ˈæktər/",
+      "target_phonetic": "/aktœʁ/",
+      "source_example": "Both lead actors gave outstanding performances.",
+      "target_example": "Les deux acteurs principaux ont donné des performances exceptionnelles.",
+      "base_word": "actor"
+    },
+    {
+      "source_word": "actress",
+      "target_word": "actrice",
+      "source_phonetic": "/ˈæktrəs/",
+      "target_phonetic": "/aktʁis/",
+      "source_example": "The Oscar-winning actress is taking a break from filming.",
+      "target_example": "L'actrice oscarisée fait une pause dans le tournage.",
+      "base_word": "actress"
+    },
+    {
+      "source_word": "add",
+      "target_word": "ajouter",
+      "source_phonetic": "/æd/",
+      "target_phonetic": "/aʒute/",
+      "source_example": "Add the flour to the bowl and mix well.",
+      "target_example": "Ajoutez la farine dans le bol et mélangez bien.",
+      "base_word": "add"
+    },
+    {
+      "source_word": "address",
+      "target_word": "adresse",
+      "source_phonetic": "/əˈdres/",
+      "target_phonetic": "/adʁɛs/",
+      "source_example": "Could you write down your address and phone number?",
+      "target_example": "Pourrais-tu écrire ton adresse et ton numéro de téléphone ?",
+      "base_word": "address"
+    },
+    {
+      "source_word": "adult",
+      "target_word": "adulte",
+      "source_phonetic": "/ˈædʌlt/",
+      "target_phonetic": "/adylt/",
+      "source_example": "Children must be accompanied by an adult.",
+      "target_example": "Les enfants doivent être accompagnés d'un adulte.",
+      "base_word": "adult"
+    },
+    {
+      "source_word": "advice",
+      "target_word": "conseil",
+      "source_phonetic": "/ədˈvaɪs/",
+      "target_phonetic": "/kɔ̃sɛj/",
+      "source_example": "Let me give you a piece of advice: always double-check.",
+      "target_example": "Laisse-moi te donner un conseil : vérifie toujours deux fois.",
+      "base_word": "advice"
+    },
+    {
+      "source_word": "afraid",
+      "target_word": "effrayé",
+      "source_phonetic": "/əˈfreɪd/",
+      "target_phonetic": "/efʁɛje/",
+      "source_example": "Don't be afraid—it's perfectly safe.",
+      "target_example": "N'aie pas peur – c'est parfaitement sûr.",
+      "base_word": "afraid"
+    },
+    {
+      "source_word": "after",
+      "target_word": "après",
+      "source_phonetic": "/ˈæftər/",
+      "target_phonetic": "/apʁɛ/",
+      "source_example": "We'll leave after lunch.",
+      "target_example": "Nous partons après le déjeuner.",
+      "base_word": "after"
+    },
+    {
+      "source_word": "afternoon",
+      "target_word": "après-midi",
+      "source_phonetic": "/ˌæftərˈnuːn/",
+      "target_phonetic": "/apʁɛmidi/",
+      "source_example": "We went shopping in the afternoon.",
+      "target_example": "Nous sommes allés faire du shopping l'après-midi.",
+      "base_word": "afternoon"
+    },
+    {
+      "source_word": "again",
+      "target_word": "encore",
+      "source_phonetic": "/əˈɡeɪn/",
+      "target_phonetic": "/ɑ̃kɔʁ/",
+      "source_example": "Try again—practice makes perfect.",
+      "target_example": "Essaye encore – c'est en forgeant qu'on devient forgeron.",
+      "base_word": "again"
+    },
+    {
+      "source_word": "age",
+      "target_word": "âge",
+      "source_phonetic": "/eɪdʒ/",
+      "target_phonetic": "/aʒ/",
+      "source_example": "You're the same age as my brother.",
+      "target_example": "Tu as le même âge que mon frère.",
+      "base_word": "age"
+    }
+  ]
+}

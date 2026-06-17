@@ -1,0 +1,250 @@
+{
+  "id": "en_to_de_A1__time",
+  "source": "en",
+  "target": "de",
+  "group": "A1__time",
+  "words": [
+    {
+      "base_word": "ago",
+      "source_word": "ago",
+      "target_word": "vor",
+      "source_phonetic": "/əˈɡəʊ/",
+      "target_phonetic": "/foːɐ̯/",
+      "source_example": "I saw him two weeks ago.",
+      "target_example": "Ich habe ihn vor zwei Wochen gesehen.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "always",
+      "source_word": "always",
+      "target_word": "immer",
+      "source_phonetic": "/ˈɔːlweɪz/",
+      "target_phonetic": "/ˈɪmɐ/",
+      "source_example": "She always wakes up early.",
+      "target_example": "Sie wacht immer früh auf.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "April",
+      "source_word": "April",
+      "target_word": "April",
+      "source_phonetic": "/ˈeɪprəl/",
+      "target_phonetic": "/aˈpʁɪl/",
+      "source_example": "My birthday is in April.",
+      "target_example": "Mein Geburtstag ist im April.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "around",
+      "source_word": "around",
+      "target_word": "ungefähr",
+      "source_phonetic": "/əˈraʊnd/",
+      "target_phonetic": "/ˈʊnɡəfɛːɐ/",
+      "source_example": "I'll come around five o'clock.",
+      "target_example": "Ich komme ungefähr um fünf Uhr.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "at",
+      "source_word": "at",
+      "target_word": "um",
+      "source_phonetic": "/æt/",
+      "target_phonetic": "/ʊm/",
+      "source_example": "The meeting starts at 3.",
+      "target_example": "Die Sitzung beginnt um 3.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "August",
+      "source_word": "August",
+      "target_word": "August",
+      "source_phonetic": "/ˈɔːɡəst/",
+      "target_phonetic": "/ˈaʊɡʊst/",
+      "source_example": "We are going on holiday in August.",
+      "target_example": "Wir fahren im August in den Urlaub.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "autumn",
+      "source_word": "autumn",
+      "target_word": "Herbst",
+      "source_phonetic": "/ˈɔːtəm/",
+      "target_phonetic": "/hɛʁpst/",
+      "source_example": "The leaves fall in autumn.",
+      "target_example": "Im Herbst fallen die Blätter.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "before",
+      "source_word": "before",
+      "target_word": "vor",
+      "source_phonetic": "/bɪˈfɔːr/",
+      "target_phonetic": "/foːɐ̯/",
+      "source_example": "He arrived before me.",
+      "target_example": "Er kam vor mir an.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "beginning",
+      "source_word": "beginning",
+      "target_word": "Anfang",
+      "source_phonetic": "/bɪˈɡɪnɪŋ/",
+      "target_phonetic": "/ˈanfaŋ/",
+      "source_example": "We missed the beginning of the movie.",
+      "target_example": "Wir haben den Anfang des Films verpasst.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "birthday",
+      "source_word": "birthday",
+      "target_word": "Geburtstag",
+      "source_phonetic": "/ˈbɜːrθdeɪ/",
+      "target_phonetic": "/ɡəˈbuːɐ̯tsˌtaːk/",
+      "source_example": "Happy Birthday!",
+      "target_example": "Alles Gute zum Geburtstag!",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "century",
+      "source_word": "century",
+      "target_word": "Jahrhundert",
+      "source_phonetic": "/ˈsentʃəri/",
+      "target_phonetic": "/jaːɐ̯ˈhʊndɐt/",
+      "source_example": "A century ago, Valparaiso was the country's main port.",
+      "target_example": "Vor einem Jahrhundert war Valparaiso der wichtigste Hafen des Landes.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "clock",
+      "source_word": "clock",
+      "target_word": "Uhr",
+      "source_phonetic": "/klɒk/",
+      "target_phonetic": "/uːɐ̯/",
+      "source_example": "The clock struck twelve.",
+      "target_example": "Die Uhr schlug zwölf.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "date",
+      "source_word": "date",
+      "target_word": "Datum",
+      "source_phonetic": "/deɪt/",
+      "target_phonetic": "/ˈdaːtʊm/",
+      "source_example": "What's the date today?",
+      "target_example": "Welches Datum haben wir heute?",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "day",
+      "source_word": "day",
+      "target_word": "Tag",
+      "source_phonetic": "/deɪ/",
+      "target_phonetic": "/taːk/",
+      "source_example": "What day is it today?",
+      "target_example": "Welcher Tag ist heute?",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "December",
+      "source_word": "December",
+      "target_word": "Dezember",
+      "source_phonetic": "/dɪˈsembə/",
+      "target_phonetic": "/deˈtsɛmbɐ/",
+      "source_example": "She was born in December.",
+      "target_example": "Sie wurde im Dezember geboren.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "during",
+      "source_word": "during",
+      "target_word": "während",
+      "source_phonetic": "/ˈdjʊərɪŋ/",
+      "target_phonetic": "/ˈvɛːʁənt/",
+      "source_example": "Please remain seated during the performance.",
+      "target_example": "Bitte bleiben Sie während der Vorstellung sitzen.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "early",
+      "source_word": "early",
+      "target_word": "früh",
+      "source_phonetic": "/ˈɜːli/",
+      "target_phonetic": "/fʁyː/",
+      "source_example": "the early morning",
+      "target_example": "der frühe Morgen",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "early",
+      "source_word": "early",
+      "target_word": "früh",
+      "source_phonetic": "/ˈɜːli/",
+      "target_phonetic": "/fʁyː/",
+      "source_example": "We arrived early the next day.",
+      "target_example": "Wir kamen am nächsten Tag früh an.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "end",
+      "source_word": "end",
+      "target_word": "Ende",
+      "source_phonetic": "/end/",
+      "target_phonetic": "/ˈɛndə/",
+      "source_example": "The end of the book was very sad.",
+      "target_example": "Das Ende des Buches war sehr traurig.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "evening",
+      "source_word": "evening",
+      "target_word": "Abend",
+      "source_phonetic": "/ˈiːvnɪŋ/",
+      "target_phonetic": "/ˈaːbənt/",
+      "source_example": "What do you usually do in the evening?",
+      "target_example": "Was machst du normalerweise am Abend?",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "February",
+      "source_word": "February",
+      "target_word": "Februar",
+      "source_phonetic": "/ˈfebruəri/",
+      "target_phonetic": "/ˈfeːbʁuaːɐ̯/",
+      "source_example": "She was born in February.",
+      "target_example": "Sie wurde im Februar geboren.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "Friday",
+      "source_word": "Friday",
+      "target_word": "Freitag",
+      "source_phonetic": "/ˈfraɪdi/",
+      "target_phonetic": "/ˈfʁaɪtaːk/",
+      "source_example": "It's Friday today, isn't it?",
+      "target_example": "Heute ist Freitag, nicht wahr?",
+      "topic": "time",
+      "level": "A1"
+    }
+  ]
+}

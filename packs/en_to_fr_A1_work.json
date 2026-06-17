@@ -1,0 +1,30 @@
+{
+  "id": "en_to_fr_A1__work",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__work",
+  "words": [
+    {
+      "base_word": "career",
+      "source_word": "career",
+      "target_word": "carrière",
+      "source_phonetic": "/kəˈrɪr/",
+      "target_phonetic": "/ka.ʁjɛʁ/",
+      "source_example": "She plans to pursue a career in medicine.",
+      "target_example": "Elle envisage une carrière dans la médecine.",
+      "topic": "work",
+      "level": "A1"
+    },
+    {
+      "base_word": "farmer",
+      "source_word": "farmer",
+      "target_word": "agriculteur",
+      "source_phonetic": "/ˈfɑːmə/",
+      "target_phonetic": "/a.ɡʁi.kyl.tœʁ/",
+      "source_example": "The farmer grows vegetables.",
+      "target_example": "L'agriculteur cultive des légumes.",
+      "topic": "work",
+      "level": "A1"
+    }
+  ]
+}

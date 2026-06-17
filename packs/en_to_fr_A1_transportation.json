@@ -1,0 +1,85 @@
+{
+  "id": "en_to_fr_A1__transportation",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__transportation",
+  "words": [
+    {
+      "base_word": "bicycle",
+      "source_word": "bicycle",
+      "target_word": "vélo",
+      "source_phonetic": "/ˈbaɪsɪkl/",
+      "target_phonetic": "/velo/",
+      "source_example": "He got on his bicycle and rode off.",
+      "target_example": "Il est monté sur son vélo et est parti.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "bike",
+      "source_word": "bike",
+      "target_word": "vélo",
+      "source_phonetic": "/baɪk/",
+      "target_phonetic": "/velo/",
+      "source_example": "I go to work by bike.",
+      "target_example": "Je vais au travail en vélo.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "boat",
+      "source_word": "boat",
+      "target_word": "bateau",
+      "source_phonetic": "/bəʊt/",
+      "target_phonetic": "/bato/",
+      "source_example": "We went for a boat trip.",
+      "target_example": "Nous avons fait une promenade en bateau.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "bus",
+      "source_word": "bus",
+      "target_word": "bus",
+      "source_phonetic": "/bʌs/",
+      "target_phonetic": "/bys/",
+      "source_example": "I go to work by bus.",
+      "target_example": "Je vais au travail en bus.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "car",
+      "source_word": "car",
+      "target_word": "voiture",
+      "source_phonetic": "/kɑːr/",
+      "target_phonetic": "/vwa.tyʁ/",
+      "source_example": "Paula got into the car and drove off.",
+      "target_example": "Paula est montée dans la voiture et est partie.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "drive",
+      "source_word": "drive",
+      "target_word": "conduire",
+      "source_phonetic": "/draɪv/",
+      "target_phonetic": "/kɔ̃.dɥiʁ/",
+      "source_example": "Can you drive?",
+      "target_example": "Sais-tu conduire ?",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "driver",
+      "source_word": "driver",
+      "target_word": "conducteur",
+      "source_phonetic": "/ˈdraɪvə/",
+      "target_phonetic": "/kɔ̃.dyk.tœʁ/",
+      "source_example": "She's a good driver.",
+      "target_example": "C'est une bonne conductrice.",
+      "topic": "transportation",
+      "level": "A1"
+    }
+  ]
+}

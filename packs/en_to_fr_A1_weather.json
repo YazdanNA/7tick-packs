@@ -1,0 +1,30 @@
+{
+  "id": "en_to_fr_A1__weather",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__weather",
+  "words": [
+    {
+      "base_word": "cold",
+      "source_word": "cold",
+      "target_word": "froid",
+      "source_phonetic": "/kəʊld/",
+      "target_phonetic": "/fʁwa/",
+      "source_example": "I'm cold. Turn the heating up.",
+      "target_example": "J'ai froid. Augmente le chauffage.",
+      "topic": "weather",
+      "level": "A1"
+    },
+    {
+      "base_word": "cool",
+      "source_word": "cool",
+      "target_word": "frais",
+      "source_phonetic": "/kuːl/",
+      "target_phonetic": "/fʁɛ/",
+      "source_example": "Cooler weather is forecast for the weekend.",
+      "target_example": "Un temps plus frais est prévu pour le week-end.",
+      "topic": "weather",
+      "level": "A1"
+    }
+  ]
+}

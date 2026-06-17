@@ -1,0 +1,140 @@
+{
+  "id": "en_to_fa_A1__family",
+  "source": "en",
+  "target": "fa",
+  "group": "A1__family",
+  "words": [
+    {
+      "base_word": "aunt",
+      "source_word": "aunt",
+      "target_word": "عمه / خاله",
+      "source_phonetic": "/ænt/",
+      "target_phonetic": "ʻamme / khāle",
+      "source_example": "My aunt lives in Canada.",
+      "target_example": "عمه/خاله‌ام در کانادا زندگی می‌کند.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "baby",
+      "source_word": "baby",
+      "target_word": "نوزاد",
+      "source_phonetic": "/ˈbeɪbi/",
+      "target_phonetic": "nowzād",
+      "source_example": "The baby is sleeping.",
+      "target_example": "نوزاد در حال خواب است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "born",
+      "source_word": "born",
+      "target_word": "متولد شده",
+      "source_phonetic": "/bɔːrn/",
+      "target_phonetic": "motavalled shode",
+      "source_example": "I was born in 1976.",
+      "target_example": "من در سال ۱۹۷۶ متولد شدم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "boy",
+      "source_word": "boy",
+      "target_word": "پسر",
+      "source_phonetic": "/bɔɪ/",
+      "target_phonetic": "pesar",
+      "source_example": "He's a little boy.",
+      "target_example": "او یک پسر کوچک است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "brother",
+      "source_word": "brother",
+      "target_word": "برادر",
+      "source_phonetic": "/ˈbrʌðər/",
+      "target_phonetic": "barādar",
+      "source_example": "He's my brother.",
+      "target_example": "او برادر من است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "child",
+      "source_word": "child",
+      "target_word": "کودک",
+      "source_phonetic": "/tʃaɪld/",
+      "target_phonetic": "kudak",
+      "source_example": "I lived in London as a child.",
+      "target_example": "من در کودکی در لندن زندگی می‌کردم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "cousin",
+      "source_word": "cousin",
+      "target_word": "پسرعمو/دخترعمو",
+      "source_phonetic": "/ˈkʌzn/",
+      "target_phonetic": "pesar'amu / doxtar'amu",
+      "source_example": "She's my cousin.",
+      "target_example": "او پسرعموی من است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "dad",
+      "source_word": "dad",
+      "target_word": "بابا",
+      "source_phonetic": "/dæd/",
+      "target_phonetic": "bābā",
+      "source_example": "That's my dad over there.",
+      "target_example": "آن بابای من آنجاست.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "daughter",
+      "source_word": "daughter",
+      "target_word": "دختر",
+      "source_phonetic": "/ˈdɔːtə/",
+      "target_phonetic": "dokhtar",
+      "source_example": "We have two sons and a daughter.",
+      "target_example": "ما دو پسر و یک دختر داریم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "family",
+      "target_word": "خانوادگی",
+      "source_phonetic": "/ˈfæməli/",
+      "target_phonetic": "khānevādegi",
+      "source_example": "We had a family dinner last night.",
+      "target_example": "دیشب یک شام خانوادگی داشتیم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "family",
+      "target_word": "خانواده",
+      "source_phonetic": "/ˈfæməli/",
+      "target_phonetic": "khānevāde",
+      "source_example": "My family lives in this city.",
+      "target_example": "خانواده من در این شهر زندگی می‌کنند.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "father",
+      "source_word": "father",
+      "target_word": "پدر",
+      "source_phonetic": "/ˈfɑːðə/",
+      "target_phonetic": "pedar",
+      "source_example": "My father is a doctor.",
+      "target_example": "پدر من پزشک است.",
+      "topic": "family",
+      "level": "A1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fa_to_de_A1__grammar",
+  "source": "fa",
+  "target": "de",
+  "group": "A1__grammar",
+  "words": [
+    {
+      "base_word": "do",
+      "source_word": "انجام (کمکی)",
+      "target_word": "tun (Hilfsverb)",
+      "source_phonetic": "anjām (komaki)",
+      "target_phonetic": "/tuːn/",
+      "source_example": "من ماهی دوست ندارم.",
+      "target_example": "Ich mag keinen Fisch.",
+      "topic": "grammar",
+      "level": "A1"
+    }
+  ]
+}

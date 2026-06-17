@@ -1,0 +1,74 @@
+{
+  "id": "en_to_fr_A1__money",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__money",
+  "words": [
+    {
+      "base_word": "cent",
+      "source_word": "cent",
+      "target_word": "centime",
+      "source_phonetic": "/sent/",
+      "target_phonetic": "/sɑ̃.tim/",
+      "source_example": "A one-minute phone call cost 10 cents.",
+      "target_example": "Un appel d'une minute a coûté 10 centimes.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "cost",
+      "source_word": "cost",
+      "target_word": "coût",
+      "source_phonetic": "/kɒst/",
+      "target_phonetic": "/ku/",
+      "source_example": "The cost of housing is very high.",
+      "target_example": "Le coût du logement est très élevé.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "cost",
+      "source_word": "cost",
+      "target_word": "coûter",
+      "source_phonetic": "/kɒst/",
+      "target_phonetic": "/kute/",
+      "source_example": "Tickets cost ten dollars each.",
+      "target_example": "Les billets coûtent dix dollars chacun.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "dollar",
+      "source_word": "dollar",
+      "target_word": "dollar",
+      "source_phonetic": "/ˈdɒlə/",
+      "target_phonetic": "/dɔ.laʁ/",
+      "source_example": "Do you have a dollar?",
+      "target_example": "As-tu un dollar ?",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "euro",
+      "source_word": "euro",
+      "target_word": "euro",
+      "source_phonetic": "/ˈjʊərəʊ/",
+      "target_phonetic": "/ø.ʁo/",
+      "source_example": "I paid five euros for it.",
+      "target_example": "Je l'ai payé cinq euros.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "expensive",
+      "source_word": "expensive",
+      "target_word": "cher",
+      "source_phonetic": "/ɪkˈspensɪv/",
+      "target_phonetic": "/ʃɛʁ/",
+      "source_example": "I can't afford it—it's too expensive.",
+      "target_example": "Je ne peux pas me le permettre – c'est trop cher.",
+      "topic": "money",
+      "level": "A1"
+    }
+  ]
+}

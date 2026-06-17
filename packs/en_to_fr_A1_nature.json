@@ -1,0 +1,52 @@
+{
+  "id": "en_to_fr_A1__nature",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__nature",
+  "words": [
+    {
+      "base_word": "air",
+      "source_word": "air",
+      "target_word": "air",
+      "source_phonetic": "/er/",
+      "target_phonetic": "/ɛʁ/",
+      "source_example": "Let's go out for some fresh air.",
+      "target_example": "Sortons prendre l'air frais.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fire",
+      "source_word": "fire",
+      "target_word": "feu",
+      "source_phonetic": "/ˈfaɪə/",
+      "target_phonetic": "/fø/",
+      "source_example": "The fire burned brightly.",
+      "target_example": "Le feu brûlait vivement.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "flower",
+      "source_word": "flower",
+      "target_word": "fleur",
+      "source_phonetic": "/ˈflaʊər/",
+      "target_phonetic": "/flœʁ/",
+      "source_example": "The plant has a beautiful bright red flower.",
+      "target_example": "La plante a une belle fleur rouge vif.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fly",
+      "source_word": "fly",
+      "target_word": "voler",
+      "source_phonetic": "/flaɪ/",
+      "target_phonetic": "/vɔ.le/",
+      "source_example": "A stork flew slowly past.",
+      "target_example": "Une cigogne vola lentement.",
+      "topic": "nature",
+      "level": "A1"
+    }
+  ]
+}

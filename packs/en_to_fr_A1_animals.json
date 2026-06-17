@@ -1,0 +1,96 @@
+{
+  "id": "en_to_fr_A1__animals",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__animals",
+  "words": [
+    {
+      "base_word": "animal",
+      "source_word": "animal",
+      "target_word": "animal",
+      "source_phonetic": "/ˈænɪml/",
+      "target_phonetic": "/animal/",
+      "source_example": "Dogs are my favorite animals.",
+      "target_example": "Les chiens sont mes animaux préférés.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "bird",
+      "source_word": "bird",
+      "target_word": "oiseau",
+      "source_phonetic": "/bɜːrd/",
+      "target_phonetic": "/wazo/",
+      "source_example": "Birds were singing in the trees.",
+      "target_example": "Les oiseaux chantaient dans les arbres.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "cat",
+      "source_word": "cat",
+      "target_word": "chat",
+      "source_phonetic": "/kæt/",
+      "target_phonetic": "/ʃa/",
+      "source_example": "I have a cat called Bo.",
+      "target_example": "J'ai un chat qui s'appelle Bo.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "chicken",
+      "source_word": "chicken",
+      "target_word": "poulet",
+      "source_phonetic": "/ˈtʃɪkɪn/",
+      "target_phonetic": "/pu.lɛ/",
+      "source_example": "They keep chickens in the back yard.",
+      "target_example": "Ils élèvent des poulets dans la cour arrière.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "cow",
+      "source_word": "cow",
+      "target_word": "vache",
+      "source_phonetic": "/kaʊ/",
+      "target_phonetic": "/vaʃ/",
+      "source_example": "They keep cows on the farm.",
+      "target_example": "Ils élèvent des vaches à la ferme.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "dog",
+      "source_word": "dog",
+      "target_word": "chien",
+      "source_phonetic": "/dɒɡ/",
+      "target_phonetic": "/ʃjɛ̃/",
+      "source_example": "I took the dog for a walk.",
+      "target_example": "J'ai promené le chien.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "elephant",
+      "source_word": "elephant",
+      "target_word": "éléphant",
+      "source_phonetic": "/ˈelɪfənt/",
+      "target_phonetic": "/e.le.fɑ̃/",
+      "source_example": "Elephants are very large animals.",
+      "target_example": "Les éléphants sont de très grands animaux.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "fish",
+      "source_word": "fish",
+      "target_word": "poisson",
+      "source_phonetic": "/fɪʃ/",
+      "target_phonetic": "/pwa.sɔ̃/",
+      "source_example": "We caught several fish.",
+      "target_example": "Nous avons attrapé plusieurs poissons.",
+      "topic": "animals",
+      "level": "A1"
+    }
+  ]
+}

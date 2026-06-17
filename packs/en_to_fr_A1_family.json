@@ -1,0 +1,140 @@
+{
+  "id": "en_to_fr_A1__family",
+  "source": "en",
+  "target": "fr",
+  "group": "A1__family",
+  "words": [
+    {
+      "base_word": "aunt",
+      "source_word": "aunt",
+      "target_word": "tante",
+      "source_phonetic": "/ænt/",
+      "target_phonetic": "/tɑ̃t/",
+      "source_example": "My aunt lives in Canada.",
+      "target_example": "Ma tante vit au Canada.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "baby",
+      "source_word": "baby",
+      "target_word": "bébé",
+      "source_phonetic": "/ˈbeɪbi/",
+      "target_phonetic": "/bebe/",
+      "source_example": "The baby is sleeping.",
+      "target_example": "Le bébé dort.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "born",
+      "source_word": "born",
+      "target_word": "né",
+      "source_phonetic": "/bɔːrn/",
+      "target_phonetic": "/ne/",
+      "source_example": "I was born in 1976.",
+      "target_example": "Je suis né en 1976.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "boy",
+      "source_word": "boy",
+      "target_word": "garçon",
+      "source_phonetic": "/bɔɪ/",
+      "target_phonetic": "/ɡaʁsɔ̃/",
+      "source_example": "He's a little boy.",
+      "target_example": "C'est un petit garçon.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "brother",
+      "source_word": "brother",
+      "target_word": "frère",
+      "source_phonetic": "/ˈbrʌðər/",
+      "target_phonetic": "/fʁɛʁ/",
+      "source_example": "He's my brother.",
+      "target_example": "C'est mon frère.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "child",
+      "source_word": "child",
+      "target_word": "enfant",
+      "source_phonetic": "/tʃaɪld/",
+      "target_phonetic": "/ɑ̃.fɑ̃/",
+      "source_example": "I lived in London as a child.",
+      "target_example": "J'ai vécu à Londres quand j'étais enfant.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "cousin",
+      "source_word": "cousin",
+      "target_word": "cousin/cousine",
+      "source_phonetic": "/ˈkʌzn/",
+      "target_phonetic": "/kuzɛ̃/ /kuzin/",
+      "source_example": "She's my cousin.",
+      "target_example": "C'est ma cousine.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "dad",
+      "source_word": "dad",
+      "target_word": "papa",
+      "source_phonetic": "/dæd/",
+      "target_phonetic": "/papa/",
+      "source_example": "That's my dad over there.",
+      "target_example": "C'est mon papa là-bas.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "daughter",
+      "source_word": "daughter",
+      "target_word": "fille",
+      "source_phonetic": "/ˈdɔːtə/",
+      "target_phonetic": "/fij/",
+      "source_example": "We have two sons and a daughter.",
+      "target_example": "Nous avons deux fils et une fille.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "family",
+      "target_word": "familial",
+      "source_phonetic": "/ˈfæməli/",
+      "target_phonetic": "/fa.mi.ljal/",
+      "source_example": "We had a family dinner last night.",
+      "target_example": "Nous avons eu un dîner familial hier soir.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "family",
+      "target_word": "famille",
+      "source_phonetic": "/ˈfæməli/",
+      "target_phonetic": "/fa.mij/",
+      "source_example": "My family lives in this city.",
+      "target_example": "Ma famille vit dans cette ville.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "father",
+      "source_word": "father",
+      "target_word": "père",
+      "source_phonetic": "/ˈfɑːðə/",
+      "target_phonetic": "/pɛʁ/",
+      "source_example": "My father is a doctor.",
+      "target_example": "Mon père est médecin.",
+      "topic": "family",
+      "level": "A1"
+    }
+  ]
+}
