@@ -1,0 +1,52 @@
+{
+  "id": "fa_to_fr_A1__culture",
+  "source": "fa",
+  "target": "fr",
+  "group": "A1__culture",
+  "words": [
+    {
+      "base_word": "art",
+      "source_word": "هنر",
+      "target_word": "art",
+      "source_phonetic": "honar",
+      "target_phonetic": "/aʁ/",
+      "source_example": "من هنر مدرن را دوست دارم.",
+      "target_example": "J'aime l'art moderne.",
+      "topic": "culture",
+      "level": "A1"
+    },
+    {
+      "base_word": "artist",
+      "source_word": "هنرمند",
+      "target_word": "artiste",
+      "source_phonetic": "honarmand",
+      "target_phonetic": "/aʁtist/",
+      "source_example": "او یک هنرمند معروف است.",
+      "target_example": "Elle est une artiste célèbre.",
+      "topic": "culture",
+      "level": "A1"
+    },
+    {
+      "base_word": "culture",
+      "source_word": "فرهنگ",
+      "target_word": "culture",
+      "source_phonetic": "farhang",
+      "target_phonetic": "/kyltyʁ/",
+      "source_example": "مطالعه زبان و فرهنگ ژاپنی.",
+      "target_example": "L'étude de la langue et de la culture japonaises.",
+      "topic": "culture",
+      "level": "A1"
+    },
+    {
+      "base_word": "famous",
+      "source_word": "معروف",
+      "target_word": "célèbre",
+      "source_phonetic": "ma'ruf",
+      "target_phonetic": "/se.lɛbʁ/",
+      "source_example": "او یک بازیگر معروف است.",
+      "target_example": "C'est une actrice célèbre.",
+      "topic": "culture",
+      "level": "A1"
+    }
+  ]
+}

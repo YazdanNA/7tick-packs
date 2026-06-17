@@ -1,0 +1,74 @@
+{
+  "id": "fr_to_de_A1__money",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__money",
+  "words": [
+    {
+      "base_word": "cent",
+      "source_word": "centime",
+      "target_word": "Cent",
+      "source_phonetic": "/sɑ̃.tim/",
+      "target_phonetic": "/sɛnt/",
+      "source_example": "Un appel d'une minute a coûté 10 centimes.",
+      "target_example": "Ein einminütiges Telefonat kostete 10 Cent.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "cost",
+      "source_word": "coût",
+      "target_word": "Kosten",
+      "source_phonetic": "/ku/",
+      "target_phonetic": "/ˈkɔstən/",
+      "source_example": "Le coût du logement est très élevé.",
+      "target_example": "Die Kosten für Wohnraum sind sehr hoch.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "cost",
+      "source_word": "coûter",
+      "target_word": "kosten",
+      "source_phonetic": "/kute/",
+      "target_phonetic": "/ˈkɔstən/",
+      "source_example": "Les billets coûtent dix dollars chacun.",
+      "target_example": "Die Eintrittskarten kosten zehn Dollar pro Stück.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "dollar",
+      "source_word": "dollar",
+      "target_word": "Dollar",
+      "source_phonetic": "/dɔ.laʁ/",
+      "target_phonetic": "/ˈdɔlaʁ/",
+      "source_example": "As-tu un dollar ?",
+      "target_example": "Hast du einen Dollar?",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "euro",
+      "source_word": "euro",
+      "target_word": "Euro",
+      "source_phonetic": "/ø.ʁo/",
+      "target_phonetic": "/ˈɔɪʁo/",
+      "source_example": "Je l'ai payé cinq euros.",
+      "target_example": "Ich habe fünf Euro dafür bezahlt.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "expensive",
+      "source_word": "cher",
+      "target_word": "teuer",
+      "source_phonetic": "/ʃɛʁ/",
+      "target_phonetic": "/ˈtɔɪɐ/",
+      "source_example": "Je ne peux pas me le permettre – c'est trop cher.",
+      "target_example": "Ich kann es mir nicht leisten – es ist zu teuer.",
+      "topic": "money",
+      "level": "A1"
+    }
+  ]
+}

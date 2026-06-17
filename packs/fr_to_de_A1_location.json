@@ -1,0 +1,184 @@
+{
+  "id": "fr_to_de_A1__location",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__location",
+  "words": [
+    {
+      "base_word": "area",
+      "source_word": "région",
+      "target_word": "Gebiet",
+      "source_phonetic": "/ʁeʒjɔ̃/",
+      "target_phonetic": "/ɡəˈbiːt/",
+      "source_example": "Cette région est très calme.",
+      "target_example": "Dieses Gebiet ist sehr ruhig.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "around",
+      "source_word": "autour de",
+      "target_word": "um",
+      "source_phonetic": "/otuʁ də/",
+      "target_phonetic": "/ʊm/",
+      "source_example": "Elle a mis ses bras autour de moi.",
+      "target_example": "Sie legte ihre Arme um mich.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "at",
+      "source_word": "chez",
+      "target_word": "zu Hause",
+      "source_phonetic": "/ʃe/",
+      "target_phonetic": "/tsuː ˈhaʊzə/",
+      "source_example": "Je suis chez moi.",
+      "target_example": "Ich bin zu Hause.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "away",
+      "source_word": "loin",
+      "target_word": "entfernt",
+      "source_phonetic": "/lwɛ̃/",
+      "target_phonetic": "/ɛntˈfɛʁnt/",
+      "source_example": "La gare est à cinq minutes.",
+      "target_example": "Der Bahnhof ist fünf Minuten entfernt.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "behind",
+      "source_word": "derrière",
+      "target_word": "hinten",
+      "source_phonetic": "/dɛʁjɛʁ/",
+      "target_phonetic": "/ˈhɪntən/",
+      "source_example": "Elle est partie avec le chien qui courait derrière.",
+      "target_example": "Sie fuhr los, der Hund rannte hinterher.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "behind",
+      "source_word": "derrière",
+      "target_word": "hinter",
+      "source_phonetic": "/dɛʁjɛʁ/",
+      "target_phonetic": "/ˈhɪntɐ/",
+      "source_example": "Qui est la fille qui se tient derrière Jan ?",
+      "target_example": "Wer ist das Mädchen, das hinter Jan steht?",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "below",
+      "source_word": "en dessous",
+      "target_word": "darunter",
+      "source_phonetic": "/ɑ̃ dəsu/",
+      "target_phonetic": "/daˈʁʊntɐ/",
+      "source_example": "Ils habitent à l'étage en dessous.",
+      "target_example": "Sie wohnen im Stockwerk darunter.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "below",
+      "source_word": "sous",
+      "target_word": "unter",
+      "source_phonetic": "/su/",
+      "target_phonetic": "/ˈʊntɐ/",
+      "source_example": "Il a plongé sous la surface de l'eau.",
+      "target_example": "Er tauchte unter die Wasseroberfläche.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "between",
+      "source_word": "entre",
+      "target_word": "zwischen",
+      "source_phonetic": "/ɑ̃tʁ/",
+      "target_phonetic": "/ˈtsvɪʃən/",
+      "source_example": "Je me suis assis entre Jo et Diana.",
+      "target_example": "Ich setzte mich zwischen Jo und Diana.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "centre",
+      "source_word": "centre",
+      "target_word": "Zentrum",
+      "source_phonetic": "/sɑ̃tʁ/",
+      "target_phonetic": "/ˈtsɛntʁʊm/",
+      "source_example": "Il y avait une longue table au centre de la pièce.",
+      "target_example": "In der Mitte des Raumes stand ein langer Tisch.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "down",
+      "source_word": "en bas",
+      "target_word": "hinunter",
+      "source_phonetic": "/ɑ̃ ba/",
+      "target_phonetic": "/hɪˈnʊntɐ/",
+      "source_example": "Elle a sauté en bas de la chaise.",
+      "target_example": "Sie sprang vom Stuhl herunter.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "down",
+      "source_word": "en bas de",
+      "target_word": "hinunter",
+      "source_phonetic": "/ɑ̃ ba də/",
+      "target_phonetic": "/hɪˈnʊntɐ/",
+      "source_example": "La pierre a roulé en bas de la colline.",
+      "target_example": "Der Stein rollte den Hügel hinunter.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "est",
+      "target_word": "östlich",
+      "source_phonetic": "/ɛst/",
+      "target_phonetic": "/ˈœstlɪç/",
+      "source_example": "Ils vivent sur la côte est.",
+      "target_example": "Sie leben an der Ostküste.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "vers l'est",
+      "target_word": "nach Osten",
+      "source_phonetic": "/vɛʁ lɛst/",
+      "target_phonetic": "/naːx ˈɔstən/",
+      "source_example": "La maison est orientée vers l'est.",
+      "target_example": "Das Haus liegt nach Osten.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "est",
+      "target_word": "Osten",
+      "source_phonetic": "/ɛst/",
+      "target_phonetic": "/ˈɔstən/",
+      "source_example": "Où est l'est ?",
+      "target_example": "Wo ist Osten?",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "far",
+      "source_word": "loin",
+      "target_word": "weit",
+      "source_phonetic": "/lwɛ̃/",
+      "target_phonetic": "/vaɪt/",
+      "source_example": "La gare n'est pas loin d'ici.",
+      "target_example": "Der Bahnhof ist nicht weit von hier.",
+      "topic": "location",
+      "level": "A1"
+    }
+  ]
+}

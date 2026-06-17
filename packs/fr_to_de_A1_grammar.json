@@ -1,0 +1,19 @@
+{
+  "id": "fr_to_de_A1__grammar",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__grammar",
+  "words": [
+    {
+      "base_word": "do",
+      "source_word": "faire (auxiliaire)",
+      "target_word": "tun (Hilfsverb)",
+      "source_phonetic": "/fɛʁ/",
+      "target_phonetic": "/tuːn/",
+      "source_example": "Je n'aime pas le poisson.",
+      "target_example": "Ich mag keinen Fisch.",
+      "topic": "grammar",
+      "level": "A1"
+    }
+  ]
+}

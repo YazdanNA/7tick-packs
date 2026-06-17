@@ -1,0 +1,118 @@
+{
+  "id": "fa_to_fr_A1__entertainment",
+  "source": "fa",
+  "target": "fr",
+  "group": "A1__entertainment",
+  "words": [
+    {
+      "base_word": "band",
+      "source_word": "گروه موسیقی",
+      "target_word": "groupe",
+      "source_phonetic": "goruhe musiqi",
+      "target_phonetic": "/ɡʁup/",
+      "source_example": "او در یک گروه موسیقی درام می‌نوازد.",
+      "target_example": "Elle joue de la batterie dans un groupe.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "cinema",
+      "source_word": "سینما",
+      "target_word": "cinéma",
+      "source_phonetic": "sinemā",
+      "target_phonetic": "/sinema/",
+      "source_example": "ما در سینما نشسته بودیم و منتظر شروع فیلم بودیم.",
+      "target_example": "Nous étions assis dans le cinéma, attendant le début du film.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "club",
+      "source_word": "باشگاه",
+      "target_word": "club",
+      "source_phonetic": "bāshgāh",
+      "target_phonetic": "/klœb/",
+      "source_example": "من به یک باشگاه قایقرانی محلی پیوستم.",
+      "target_example": "J'ai rejoint un club de canoë local.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "concert",
+      "source_word": "کنسرت",
+      "target_word": "concert",
+      "source_phonetic": "konsert",
+      "target_phonetic": "/kɔ̃sɛʁ/",
+      "source_example": "ما دیشب به یک کنسرت رفتیم.",
+      "target_example": "Nous sommes allés à un concert hier soir.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dance",
+      "source_word": "رقص",
+      "target_word": "danse",
+      "source_phonetic": "raghs",
+      "target_phonetic": "/dɑ̃s/",
+      "source_example": "رقص بعدی یک والس خواهد بود.",
+      "target_example": "La prochaine danse sera une valse.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dance",
+      "source_word": "رقصیدن",
+      "target_word": "danser",
+      "source_phonetic": "raghsidan",
+      "target_phonetic": "/dɑ̃.se/",
+      "source_example": "آیا می‌خواهی برقصی؟",
+      "target_example": "Veux-tu danser ?",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dancer",
+      "source_word": "رقصنده",
+      "target_word": "danseur/danseuse",
+      "source_phonetic": "raghsande",
+      "target_phonetic": "/dɑ̃.sœʁ/ /dɑ̃.søz/",
+      "source_example": "او یک رقصنده فوق‌العاده است.",
+      "target_example": "C'est une danseuse fantastique.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dancing",
+      "source_word": "رقصیدن",
+      "target_word": "danse",
+      "source_phonetic": "raghsidan",
+      "target_phonetic": "/dɑ̃s/",
+      "source_example": "تا ساعت دو بامداد موسیقی و رقص بود.",
+      "target_example": "Il y avait de la musique et de la danse jusqu'à deux heures du matin.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "festival",
+      "source_word": "جشنواره",
+      "target_word": "festival",
+      "source_phonetic": "jashn-vāre",
+      "target_phonetic": "/fɛs.ti.val/",
+      "source_example": "ما به یک جشنواره موسیقی رفتیم.",
+      "target_example": "Nous sommes allés à un festival de musique.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "film",
+      "source_word": "فیلم",
+      "target_word": "film",
+      "source_phonetic": "film",
+      "target_phonetic": "/film/",
+      "source_example": "بیایید یک فیلم تماشا کنیم.",
+      "target_example": "Regardons un film.",
+      "topic": "entertainment",
+      "level": "A1"
+    }
+  ]
+}

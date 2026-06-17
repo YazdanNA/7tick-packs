@@ -1,0 +1,250 @@
+{
+  "id": "fr_to_de_A1__time",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__time",
+  "words": [
+    {
+      "base_word": "ago",
+      "source_word": "il y a",
+      "target_word": "vor",
+      "source_phonetic": "/ilja/",
+      "target_phonetic": "/foːɐ̯/",
+      "source_example": "Je l'ai vu il y a deux semaines.",
+      "target_example": "Ich habe ihn vor zwei Wochen gesehen.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "always",
+      "source_word": "toujours",
+      "target_word": "immer",
+      "source_phonetic": "/tuʒuʁ/",
+      "target_phonetic": "/ˈɪmɐ/",
+      "source_example": "Elle se réveille toujours tôt.",
+      "target_example": "Sie wacht immer früh auf.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "April",
+      "source_word": "avril",
+      "target_word": "April",
+      "source_phonetic": "/avʁil/",
+      "target_phonetic": "/aˈpʁɪl/",
+      "source_example": "Mon anniversaire est en avril.",
+      "target_example": "Mein Geburtstag ist im April.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "around",
+      "source_word": "vers",
+      "target_word": "ungefähr",
+      "source_phonetic": "/vɛʁ/",
+      "target_phonetic": "/ˈʊnɡəfɛːɐ/",
+      "source_example": "Je viendrai vers cinq heures.",
+      "target_example": "Ich komme ungefähr um fünf Uhr.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "at",
+      "source_word": "à",
+      "target_word": "um",
+      "source_phonetic": "/a/",
+      "target_phonetic": "/ʊm/",
+      "source_example": "La réunion commence à 3 heures.",
+      "target_example": "Die Sitzung beginnt um 3.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "August",
+      "source_word": "août",
+      "target_word": "August",
+      "source_phonetic": "/ut/",
+      "target_phonetic": "/ˈaʊɡʊst/",
+      "source_example": "Nous partons en vacances en août.",
+      "target_example": "Wir fahren im August in den Urlaub.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "autumn",
+      "source_word": "automne",
+      "target_word": "Herbst",
+      "source_phonetic": "/otɔn/",
+      "target_phonetic": "/hɛʁpst/",
+      "source_example": "Les feuilles tombent en automne.",
+      "target_example": "Im Herbst fallen die Blätter.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "before",
+      "source_word": "avant",
+      "target_word": "vor",
+      "source_phonetic": "/avɑ̃/",
+      "target_phonetic": "/foːɐ̯/",
+      "source_example": "Il est arrivé avant moi.",
+      "target_example": "Er kam vor mir an.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "beginning",
+      "source_word": "début",
+      "target_word": "Anfang",
+      "source_phonetic": "/deby/",
+      "target_phonetic": "/ˈanfaŋ/",
+      "source_example": "Nous avons raté le début du film.",
+      "target_example": "Wir haben den Anfang des Films verpasst.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "birthday",
+      "source_word": "anniversaire",
+      "target_word": "Geburtstag",
+      "source_phonetic": "/anivɛʁsɛʁ/",
+      "target_phonetic": "/ɡəˈbuːɐ̯tsˌtaːk/",
+      "source_example": "Joyeux anniversaire !",
+      "target_example": "Alles Gute zum Geburtstag!",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "century",
+      "source_word": "siècle",
+      "target_word": "Jahrhundert",
+      "source_phonetic": "/sjɛkl/",
+      "target_phonetic": "/jaːɐ̯ˈhʊndɐt/",
+      "source_example": "Il y a un siècle, Valparaiso était le principal port du pays.",
+      "target_example": "Vor einem Jahrhundert war Valparaiso der wichtigste Hafen des Landes.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "clock",
+      "source_word": "horloge",
+      "target_word": "Uhr",
+      "source_phonetic": "/ɔʁlɔʒ/",
+      "target_phonetic": "/uːɐ̯/",
+      "source_example": "L'horloge a sonné midi.",
+      "target_example": "Die Uhr schlug zwölf.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "date",
+      "source_word": "date",
+      "target_word": "Datum",
+      "source_phonetic": "/dat/",
+      "target_phonetic": "/ˈdaːtʊm/",
+      "source_example": "Quelle est la date aujourd'hui ?",
+      "target_example": "Welches Datum haben wir heute?",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "day",
+      "source_word": "jour",
+      "target_word": "Tag",
+      "source_phonetic": "/ʒuʁ/",
+      "target_phonetic": "/taːk/",
+      "source_example": "Quel jour sommes-nous aujourd'hui ?",
+      "target_example": "Welcher Tag ist heute?",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "December",
+      "source_word": "décembre",
+      "target_word": "Dezember",
+      "source_phonetic": "/de.sɑ̃bʁ/",
+      "target_phonetic": "/deˈtsɛmbɐ/",
+      "source_example": "Elle est née en décembre.",
+      "target_example": "Sie wurde im Dezember geboren.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "during",
+      "source_word": "pendant",
+      "target_word": "während",
+      "source_phonetic": "/pɑ̃.dɑ̃/",
+      "target_phonetic": "/ˈvɛːʁənt/",
+      "source_example": "Veuillez rester assis pendant la représentation.",
+      "target_example": "Bitte bleiben Sie während der Vorstellung sitzen.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "early",
+      "source_word": "tôt",
+      "target_word": "früh",
+      "source_phonetic": "/to/",
+      "target_phonetic": "/fʁyː/",
+      "source_example": "tôt le matin",
+      "target_example": "der frühe Morgen",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "early",
+      "source_word": "tôt",
+      "target_word": "früh",
+      "source_phonetic": "/to/",
+      "target_phonetic": "/fʁyː/",
+      "source_example": "Nous sommes arrivés tôt le lendemain.",
+      "target_example": "Wir kamen am nächsten Tag früh an.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "end",
+      "source_word": "fin",
+      "target_word": "Ende",
+      "source_phonetic": "/fɛ̃/",
+      "target_phonetic": "/ˈɛndə/",
+      "source_example": "La fin du livre était très triste.",
+      "target_example": "Das Ende des Buches war sehr traurig.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "evening",
+      "source_word": "soirée",
+      "target_word": "Abend",
+      "source_phonetic": "/swa.ʁe/",
+      "target_phonetic": "/ˈaːbənt/",
+      "source_example": "Qu'est-ce que tu fais d'habitude le soir ?",
+      "target_example": "Was machst du normalerweise am Abend?",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "February",
+      "source_word": "février",
+      "target_word": "Februar",
+      "source_phonetic": "/fe.vʁi.je/",
+      "target_phonetic": "/ˈfeːbʁuaːɐ̯/",
+      "source_example": "Elle est née en février.",
+      "target_example": "Sie wurde im Februar geboren.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "Friday",
+      "source_word": "vendredi",
+      "target_word": "Freitag",
+      "source_phonetic": "/vɑ̃.dʁə.di/",
+      "target_phonetic": "/ˈfʁaɪtaːk/",
+      "source_example": "Aujourd'hui c'est vendredi, n'est-ce pas ?",
+      "target_example": "Heute ist Freitag, nicht wahr?",
+      "topic": "time",
+      "level": "A1"
+    }
+  ]
+}

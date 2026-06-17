@@ -1,0 +1,41 @@
+{
+  "id": "fa_to_fr_A1__sports",
+  "source": "fa",
+  "target": "fr",
+  "group": "A1__sports",
+  "words": [
+    {
+      "base_word": "ball",
+      "source_word": "توپ",
+      "target_word": "ballon",
+      "source_phonetic": "tup",
+      "target_phonetic": "/balɔ̃/",
+      "source_example": "او توپ را به درون دروازه زد.",
+      "target_example": "Il a frappé le ballon dans le filet.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "climb",
+      "source_word": "بالا رفتن",
+      "target_word": "monter",
+      "source_phonetic": "bālā raftan",
+      "target_phonetic": "/mɔ̃te/",
+      "source_example": "او از پله‌ها بالا رفت.",
+      "target_example": "Elle a monté les escaliers.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "football",
+      "source_word": "فوتبال",
+      "target_word": "football",
+      "source_phonetic": "futbāl",
+      "target_phonetic": "/fut.bol/",
+      "source_example": "بچه‌ها بیرون فوتبال بازی می‌کردند.",
+      "target_example": "Les enfants jouaient au football dehors.",
+      "topic": "sports",
+      "level": "A1"
+    }
+  ]
+}

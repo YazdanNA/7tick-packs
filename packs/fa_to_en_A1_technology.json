@@ -1,0 +1,107 @@
+{
+  "id": "fa_to_en_A1__technology",
+  "source": "fa",
+  "target": "en",
+  "group": "A1__technology",
+  "words": [
+    {
+      "base_word": "blog",
+      "source_word": "وبلاگ",
+      "target_word": "blog",
+      "source_phonetic": "veblāg",
+      "target_phonetic": "/blɑːɡ/",
+      "source_example": "می‌توانی درباره سفرم در وبلاگم بخوانی.",
+      "target_example": "You can read about my trip in my blog.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "camera",
+      "source_word": "دوربین",
+      "target_word": "camera",
+      "source_phonetic": "durbin",
+      "target_phonetic": "/ˈkæmrə/",
+      "source_example": "من با دوربینم عکس گرفتم.",
+      "target_example": "I took a photo with my camera.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "CD",
+      "source_word": "سیدی",
+      "target_word": "CD",
+      "source_phonetic": "sidi",
+      "target_phonetic": "/ˌsiː ˈdiː/",
+      "source_example": "آلبوم‌های او به صورت سیدی موجود است.",
+      "target_example": "His albums are available on CD.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "computer",
+      "source_word": "رایانه",
+      "target_word": "computer",
+      "source_phonetic": "rāyāne",
+      "target_phonetic": "/kəmˈpjuːtə/",
+      "source_example": "من هر روز با رایانه‌ام کار می‌کنم.",
+      "target_example": "I work on my computer every day.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "design",
+      "source_word": "طراحی",
+      "target_word": "design",
+      "source_phonetic": "tarāhi",
+      "target_phonetic": "/dɪˈzaɪn/",
+      "source_example": "طراحی اولیه ماشین خیلی خوب است.",
+      "target_example": "The basic design of the car is very good.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "design",
+      "source_word": "طراحی کردن",
+      "target_word": "design",
+      "source_phonetic": "tarāhi kardan",
+      "target_phonetic": "/dɪˈzaɪn/",
+      "source_example": "او خانه خود را طراحی و ساخت.",
+      "target_example": "He designed and built his own house.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "DVD",
+      "source_word": "دی‌وی‌دی",
+      "target_word": "DVD",
+      "source_phonetic": "dī-vī-dī",
+      "target_phonetic": "/ˌdiː viː ˈdiː/",
+      "source_example": "بیایید یک دی‌وی‌دی تماشا کنیم.",
+      "target_example": "Let's watch a DVD.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "email",
+      "source_word": "ایمیل",
+      "target_word": "email",
+      "source_phonetic": "imeyl",
+      "target_phonetic": "/ˈiːmeɪl/",
+      "source_example": "من برایت یک ایمیل می‌فرستم.",
+      "target_example": "I will send you an email.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "email",
+      "source_word": "ایمیل فرستادن",
+      "target_word": "email",
+      "source_phonetic": "imeyl ferestādan",
+      "target_phonetic": "/ˈiːmeɪl/",
+      "source_example": "پاتریک دیروز به من ایمیل فرستاد.",
+      "target_example": "Patrick emailed me yesterday.",
+      "topic": "technology",
+      "level": "A1"
+    }
+  ]
+}

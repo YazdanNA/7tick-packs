@@ -1,0 +1,140 @@
+{
+  "id": "fa_to_en_A1__health",
+  "source": "fa",
+  "target": "en",
+  "group": "A1__health",
+  "words": [
+    {
+      "base_word": "body",
+      "source_word": "بدن",
+      "target_word": "body",
+      "source_phonetic": "badan",
+      "target_phonetic": "/ˈbɑːdi/",
+      "source_example": "بدن انسان پیچیده است.",
+      "target_example": "The human body is complex.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "cold",
+      "source_word": "سرماخوردگی",
+      "target_word": "cold",
+      "source_phonetic": "sarmāxordegi",
+      "target_phonetic": "/kəʊld/",
+      "source_example": "من سرما خورده‌ام.",
+      "target_example": "I've got a cold.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "dangerous",
+      "source_word": "خطرناک",
+      "target_word": "dangerous",
+      "source_phonetic": "khatarnāk",
+      "target_phonetic": "/ˈdeɪndʒərəs/",
+      "source_example": "وضعیت بسیار خطرناک است.",
+      "target_example": "The situation is extremely dangerous.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "die",
+      "source_word": "مردن",
+      "target_word": "die",
+      "source_phonetic": "mordan",
+      "target_phonetic": "/daɪ/",
+      "source_example": "پدرم به طور ناگهانی در سن ۴۸ سالگی درگذشت.",
+      "target_example": "My father died suddenly at the age of 48.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "diet",
+      "source_word": "رژیم غذایی",
+      "target_word": "diet",
+      "source_phonetic": "rezhim-e ghazāyi",
+      "target_phonetic": "/ˈdaɪət/",
+      "source_example": "یک رژیم غذایی سالم و متعادل داشته باش.",
+      "target_example": "Eat a healthy, balanced diet.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "doctor",
+      "source_word": "پزشک",
+      "target_word": "doctor",
+      "source_phonetic": "pezeshk",
+      "target_phonetic": "/ˈdɒktə/",
+      "source_example": "بهتر است به پزشک مراجعه کنی.",
+      "target_example": "You'd better see a doctor.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "ear",
+      "source_word": "گوش",
+      "target_word": "ear",
+      "source_phonetic": "gush",
+      "target_phonetic": "/ɪə/",
+      "source_example": "او دست‌هایش را روی گوش‌هایش گذاشت.",
+      "target_example": "He put his hands over his ears.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "ورزش",
+      "target_word": "exercise",
+      "source_phonetic": "varzesh",
+      "target_phonetic": "/ˈeksəsaɪz/",
+      "source_example": "شنا ورزش خوبی است.",
+      "target_example": "Swimming is good exercise.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "ورزش کردن",
+      "target_word": "exercise",
+      "source_phonetic": "varzesh kardan",
+      "target_phonetic": "/ˈeksəsaɪz/",
+      "source_example": "چند وقت یکبار ورزش می‌کنی؟",
+      "target_example": "How often do you exercise?",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "eye",
+      "source_word": "چشم",
+      "target_word": "eye",
+      "source_phonetic": "cheshm",
+      "target_phonetic": "/aɪ/",
+      "source_example": "مظنون موهای تیره و چشم‌های سبز دارد.",
+      "target_example": "The suspect has dark hair and green eyes.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "fat",
+      "source_word": "چاق",
+      "target_word": "fat",
+      "source_phonetic": "chāq",
+      "target_phonetic": "/fæt/",
+      "source_example": "او کمی چاق است.",
+      "target_example": "He is a little bit fat.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "foot",
+      "source_word": "پا",
+      "target_word": "foot",
+      "source_phonetic": "pā",
+      "target_phonetic": "/fʊt/",
+      "source_example": "پاهایم درد می‌کنند.",
+      "target_example": "My feet are aching.",
+      "topic": "health",
+      "level": "A1"
+    }
+  ]
+}

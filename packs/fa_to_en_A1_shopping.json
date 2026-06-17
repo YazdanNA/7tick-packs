@@ -1,0 +1,41 @@
+{
+  "id": "fa_to_en_A1__shopping",
+  "source": "fa",
+  "target": "en",
+  "group": "A1__shopping",
+  "words": [
+    {
+      "base_word": "bag",
+      "source_word": "کیف",
+      "target_word": "bag",
+      "source_phonetic": "kif",
+      "target_phonetic": "/bæɡ/",
+      "source_example": "او یک کیف سنگین حمل می‌کرد.",
+      "target_example": "He carried a heavy bag.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "buy",
+      "source_word": "خریدن",
+      "target_word": "buy",
+      "source_phonetic": "xaridan",
+      "target_phonetic": "/baɪ/",
+      "source_example": "من می‌خواهم یک گوشی جدید بخرم.",
+      "target_example": "I want to buy a new phone.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheap",
+      "source_word": "ارزان",
+      "target_word": "cheap",
+      "source_phonetic": "arzān",
+      "target_phonetic": "/tʃiːp/",
+      "source_example": "دوچرخه‌سواری یک راه ارزان برای رفت و آمد است.",
+      "target_example": "Cycling is a cheap way to get around.",
+      "topic": "shopping",
+      "level": "A1"
+    }
+  ]
+}

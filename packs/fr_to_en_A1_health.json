@@ -1,0 +1,140 @@
+{
+  "id": "fr_to_en_A1__health",
+  "source": "fr",
+  "target": "en",
+  "group": "A1__health",
+  "words": [
+    {
+      "base_word": "body",
+      "source_word": "corps",
+      "target_word": "body",
+      "source_phonetic": "/kɔʁ/",
+      "target_phonetic": "/ˈbɑːdi/",
+      "source_example": "Le corps humain est complexe.",
+      "target_example": "The human body is complex.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "cold",
+      "source_word": "rhume",
+      "target_word": "cold",
+      "source_phonetic": "/ʁym/",
+      "target_phonetic": "/kəʊld/",
+      "source_example": "J'ai un rhume.",
+      "target_example": "I've got a cold.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "dangerous",
+      "source_word": "dangereux",
+      "target_word": "dangerous",
+      "source_phonetic": "/dɑ̃ʒ.ʁø/",
+      "target_phonetic": "/ˈdeɪndʒərəs/",
+      "source_example": "La situation est extrêmement dangereuse.",
+      "target_example": "The situation is extremely dangerous.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "die",
+      "source_word": "mourir",
+      "target_word": "die",
+      "source_phonetic": "/mu.ʁiʁ/",
+      "target_phonetic": "/daɪ/",
+      "source_example": "Mon père est mort subitement à l'âge de 48 ans.",
+      "target_example": "My father died suddenly at the age of 48.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "diet",
+      "source_word": "régime",
+      "target_word": "diet",
+      "source_phonetic": "/ʁe.ʒim/",
+      "target_phonetic": "/ˈdaɪət/",
+      "source_example": "Adopte une alimentation saine et équilibrée.",
+      "target_example": "Eat a healthy, balanced diet.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "doctor",
+      "source_word": "médecin",
+      "target_word": "doctor",
+      "source_phonetic": "/med.sɛ̃/",
+      "target_phonetic": "/ˈdɒktə/",
+      "source_example": "Tu ferais mieux de voir un médecin.",
+      "target_example": "You'd better see a doctor.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "ear",
+      "source_word": "oreille",
+      "target_word": "ear",
+      "source_phonetic": "/ɔ.ʁɛj/",
+      "target_phonetic": "/ɪə/",
+      "source_example": "Il a mis ses mains sur ses oreilles.",
+      "target_example": "He put his hands over his ears.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "exercice",
+      "target_word": "exercise",
+      "source_phonetic": "/ɛɡ.zɛʁ.sis/",
+      "target_phonetic": "/ˈeksəsaɪz/",
+      "source_example": "La natation est un bon exercice.",
+      "target_example": "Swimming is good exercise.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "faire de l'exercice",
+      "target_word": "exercise",
+      "source_phonetic": "/fɛʁ də lɛɡ.zɛʁ.sis/",
+      "target_phonetic": "/ˈeksəsaɪz/",
+      "source_example": "À quelle fréquence fais-tu de l'exercice ?",
+      "target_example": "How often do you exercise?",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "eye",
+      "source_word": "œil",
+      "target_word": "eye",
+      "source_phonetic": "/œj/",
+      "target_phonetic": "/aɪ/",
+      "source_example": "Le suspect a les cheveux noirs et les yeux verts.",
+      "target_example": "The suspect has dark hair and green eyes.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "fat",
+      "source_word": "gros",
+      "target_word": "fat",
+      "source_phonetic": "/ɡʁo/",
+      "target_phonetic": "/fæt/",
+      "source_example": "Il est un peu gros.",
+      "target_example": "He is a little bit fat.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "foot",
+      "source_word": "pied",
+      "target_word": "foot",
+      "source_phonetic": "/pje/",
+      "target_phonetic": "/fʊt/",
+      "source_example": "Mes pieds me font mal.",
+      "target_example": "My feet are aching.",
+      "topic": "health",
+      "level": "A1"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "fr_to_en_A1__education",
+  "source": "fr",
+  "target": "en",
+  "group": "A1__education",
+  "words": [
+    {
+      "base_word": "book",
+      "source_word": "livre",
+      "target_word": "book",
+      "source_phonetic": "/livʁ/",
+      "target_phonetic": "/bʊk/",
+      "source_example": "Je lis un livre.",
+      "target_example": "I'm reading a book.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "capital",
+      "source_word": "majuscule",
+      "target_word": "capital",
+      "source_phonetic": "/maʒyskyl/",
+      "target_phonetic": "/ˈkæpɪtl/",
+      "source_example": "Écris ton nom avec une majuscule.",
+      "target_example": "Write your name with a capital letter.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "capital",
+      "source_word": "majuscule",
+      "target_word": "capital",
+      "source_phonetic": "/maʒyskyl/",
+      "target_phonetic": "/ˈkæpɪtl/",
+      "source_example": "Écrivez votre nom avec une majuscule.",
+      "target_example": "Write your name with a capital letter.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "class",
+      "source_word": "classe",
+      "target_word": "class",
+      "source_phonetic": "/klas/",
+      "target_phonetic": "/klæs/",
+      "source_example": "Nous étions dans la même classe à l'école.",
+      "target_example": "We were in the same class at school.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "classroom",
+      "source_word": "salle de classe",
+      "target_word": "classroom",
+      "source_phonetic": "/sal də klas/",
+      "target_phonetic": "/ˈklæsrʊm/",
+      "source_example": "Nous faisons beaucoup d'activités en classe.",
+      "target_example": "We do many classroom activities.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "college",
+      "source_word": "collège",
+      "target_word": "college",
+      "source_phonetic": "/kɔlɛʒ/",
+      "target_phonetic": "/ˈkɒlɪdʒ/",
+      "source_example": "Elle est au collège.",
+      "target_example": "She's at college.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "compare",
+      "source_word": "comparer",
+      "target_word": "compare",
+      "source_phonetic": "/kɔ̃paʁe/",
+      "target_phonetic": "/kəmˈpeə/",
+      "source_example": "Nous avons comparé les deux rapports attentivement.",
+      "target_example": "We compared the two reports carefully.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "complete",
+      "source_word": "terminer",
+      "target_word": "complete",
+      "source_phonetic": "/tɛʁmine/",
+      "target_phonetic": "/kəmˈpliːt/",
+      "source_example": "Elle a terminé son diplôme l'année dernière.",
+      "target_example": "She completed her degree last year.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "correct",
+      "source_word": "correct",
+      "target_word": "correct",
+      "source_phonetic": "/kɔʁɛkt/",
+      "target_phonetic": "/kəˈrekt/",
+      "source_example": "Veuillez vérifier que ces détails sont corrects.",
+      "target_example": "Please check that these details are correct.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "correct",
+      "source_word": "corriger",
+      "target_word": "correct",
+      "source_phonetic": "/kɔʁiʒe/",
+      "target_phonetic": "/kəˈrekt/",
+      "source_example": "Relis ton travail et corrige les erreurs.",
+      "target_example": "Read through your work and correct any mistakes.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "course",
+      "source_word": "cours",
+      "target_word": "course",
+      "source_phonetic": "/kuʁ/",
+      "target_phonetic": "/kɔːs/",
+      "source_example": "Je veux suivre un cours d'art et de design.",
+      "target_example": "I want to do a course in art and design.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "dictionary",
+      "source_word": "dictionnaire",
+      "target_word": "dictionary",
+      "source_phonetic": "/dik.sjɔ.nɛʁ/",
+      "target_phonetic": "/ˈdɪkʃənri/",
+      "source_example": "Cherche-le dans le dictionnaire.",
+      "target_example": "Look it up in the dictionary.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "difference",
+      "source_word": "différence",
+      "target_word": "difference",
+      "source_phonetic": "/di.fe.ʁɑ̃s/",
+      "target_phonetic": "/ˈdɪfrəns/",
+      "source_example": "Quelle est la différence entre les deux ?",
+      "target_example": "What's the difference between the two?",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "draw",
+      "source_word": "dessiner",
+      "target_word": "draw",
+      "source_phonetic": "/de.si.ne/",
+      "target_phonetic": "/drɔː/",
+      "source_example": "Elle a dessiné une maison.",
+      "target_example": "She drew a house.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "exam",
+      "source_word": "examen",
+      "target_word": "exam",
+      "source_phonetic": "/ɛɡ.za.mɛ̃/",
+      "target_phonetic": "/ɪɡˈzæm/",
+      "source_example": "Je dois passer un examen la semaine prochaine.",
+      "target_example": "I have to take an exam next week.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "example",
+      "source_word": "exemple",
+      "target_word": "example",
+      "source_phonetic": "/ɛɡ.zɑ̃pl/",
+      "target_phonetic": "/ɪɡˈzɑːmpl/",
+      "source_example": "Laisse-moi te donner un exemple.",
+      "target_example": "Let me give you an example.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "fact",
+      "source_word": "fait",
+      "target_word": "fact",
+      "source_phonetic": "/fɛ/",
+      "target_phonetic": "/fækt/",
+      "source_example": "Ce sont les faits de base concernant l'affaire.",
+      "target_example": "These are the basic facts about the case.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "false",
+      "source_word": "faux",
+      "target_word": "false",
+      "source_phonetic": "/fo/",
+      "target_phonetic": "/fɔːls/",
+      "source_example": "La déclaration était complètement fausse.",
+      "target_example": "The statement was completely false.",
+      "topic": "education",
+      "level": "A1"
+    }
+  ]
+}

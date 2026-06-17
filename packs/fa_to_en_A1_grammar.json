@@ -1,0 +1,19 @@
+{
+  "id": "fa_to_en_A1__grammar",
+  "source": "fa",
+  "target": "en",
+  "group": "A1__grammar",
+  "words": [
+    {
+      "base_word": "do",
+      "source_word": "انجام (کمکی)",
+      "target_word": "do",
+      "source_phonetic": "anjām (komaki)",
+      "target_phonetic": "/duː/",
+      "source_example": "من ماهی دوست ندارم.",
+      "target_example": "I don't like fish.",
+      "topic": "grammar",
+      "level": "A1"
+    }
+  ]
+}

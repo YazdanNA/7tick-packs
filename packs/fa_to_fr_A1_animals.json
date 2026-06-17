@@ -1,0 +1,96 @@
+{
+  "id": "fa_to_fr_A1__animals",
+  "source": "fa",
+  "target": "fr",
+  "group": "A1__animals",
+  "words": [
+    {
+      "base_word": "animal",
+      "source_word": "حیوان",
+      "target_word": "animal",
+      "source_phonetic": "heyvān",
+      "target_phonetic": "/animal/",
+      "source_example": "سگ‌ها حیوانات مورد علاقه من هستند.",
+      "target_example": "Les chiens sont mes animaux préférés.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "bird",
+      "source_word": "پرنده",
+      "target_word": "oiseau",
+      "source_phonetic": "parande",
+      "target_phonetic": "/wazo/",
+      "source_example": "پرنده‌ها در درختان آواز می‌خواندند.",
+      "target_example": "Les oiseaux chantaient dans les arbres.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "cat",
+      "source_word": "گربه",
+      "target_word": "chat",
+      "source_phonetic": "gorbe",
+      "target_phonetic": "/ʃa/",
+      "source_example": "من یک گربه به نام بو دارم.",
+      "target_example": "J'ai un chat qui s'appelle Bo.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "chicken",
+      "source_word": "مرغ",
+      "target_word": "poulet",
+      "source_phonetic": "morgh",
+      "target_phonetic": "/pu.lɛ/",
+      "source_example": "آن‌ها در حیاط خلوت مرغ نگهداری می‌کنند.",
+      "target_example": "Ils élèvent des poulets dans la cour arrière.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "cow",
+      "source_word": "گاو",
+      "target_word": "vache",
+      "source_phonetic": "gāv",
+      "target_phonetic": "/vaʃ/",
+      "source_example": "آن‌ها در مزرعه گاو نگهداری می‌کنند.",
+      "target_example": "Ils élèvent des vaches à la ferme.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "dog",
+      "source_word": "سگ",
+      "target_word": "chien",
+      "source_phonetic": "sag",
+      "target_phonetic": "/ʃjɛ̃/",
+      "source_example": "من سگ را برای پیاده‌روی بردم.",
+      "target_example": "J'ai promené le chien.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "elephant",
+      "source_word": "فیل",
+      "target_word": "éléphant",
+      "source_phonetic": "fil",
+      "target_phonetic": "/e.le.fɑ̃/",
+      "source_example": "فیل‌ها حیوانات بسیار بزرگی هستند.",
+      "target_example": "Les éléphants sont de très grands animaux.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "fish",
+      "source_word": "ماهی",
+      "target_word": "poisson",
+      "source_phonetic": "māhi",
+      "target_phonetic": "/pwa.sɔ̃/",
+      "source_example": "ما چند ماهی گرفتیم.",
+      "target_example": "Nous avons attrapé plusieurs poissons.",
+      "topic": "animals",
+      "level": "A1"
+    }
+  ]
+}

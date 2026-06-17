@@ -1,0 +1,41 @@
+{
+  "id": "fr_to_en_A1__sports",
+  "source": "fr",
+  "target": "en",
+  "group": "A1__sports",
+  "words": [
+    {
+      "base_word": "ball",
+      "source_word": "ballon",
+      "target_word": "ball",
+      "source_phonetic": "/balɔ̃/",
+      "target_phonetic": "/bɔːl/",
+      "source_example": "Il a frappé le ballon dans le filet.",
+      "target_example": "He kicked the ball into the net.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "climb",
+      "source_word": "monter",
+      "target_word": "climb",
+      "source_phonetic": "/mɔ̃te/",
+      "target_phonetic": "/klaɪm/",
+      "source_example": "Elle a monté les escaliers.",
+      "target_example": "She climbed up the stairs.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "football",
+      "source_word": "football",
+      "target_word": "football",
+      "source_phonetic": "/fut.bol/",
+      "target_phonetic": "/ˈfʊtbɔːl/",
+      "source_example": "Les enfants jouaient au football dehors.",
+      "target_example": "The kids were outside playing football.",
+      "topic": "sports",
+      "level": "A1"
+    }
+  ]
+}

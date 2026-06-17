@@ -1,0 +1,129 @@
+{
+  "id": "fr_to_de_A1__home",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__home",
+  "words": [
+    {
+      "base_word": "apartment",
+      "source_word": "appartement",
+      "target_word": "Wohnung",
+      "source_phonetic": "/apaʁtəmɑ̃/",
+      "target_phonetic": "/ˈvoːnʊŋ/",
+      "source_example": "J'habite dans un petit appartement.",
+      "target_example": "Ich wohne in einer kleinen Wohnung.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bath",
+      "source_word": "bain",
+      "target_word": "Badewanne",
+      "source_phonetic": "/bɛ̃/",
+      "target_phonetic": "/ˈbaːdəvanə/",
+      "source_example": "Je suis dans le bain.",
+      "target_example": "Ich bin in der Badewanne.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bathroom",
+      "source_word": "salle de bains",
+      "target_word": "Badezimmer",
+      "source_phonetic": "/sal də bɛ̃/",
+      "target_phonetic": "/ˈbaːdətsɪmɐ/",
+      "source_example": "Va te laver les mains dans la salle de bains.",
+      "target_example": "Geh und wasch dir im Badezimmer die Hände.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bed",
+      "source_word": "lit",
+      "target_word": "Bett",
+      "source_phonetic": "/li/",
+      "target_phonetic": "/bɛt/",
+      "source_example": "Je suis fatigué – je vais au lit.",
+      "target_example": "Ich bin müde – ich gehe ins Bett.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bedroom",
+      "source_word": "chambre",
+      "target_word": "Schlafzimmer",
+      "source_phonetic": "/ʃɑ̃bʁ/",
+      "target_phonetic": "/ˈʃlaːfˌtsɪmɐ/",
+      "source_example": "C'est la chambre principale.",
+      "target_example": "Das ist das Hauptschlafzimmer.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "chair",
+      "source_word": "chaise",
+      "target_word": "Stuhl",
+      "source_phonetic": "/ʃɛz/",
+      "target_phonetic": "/ʃtuːl/",
+      "source_example": "Assieds-toi sur ta chaise !",
+      "target_example": "Setz dich auf deinen Stuhl!",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "desk",
+      "source_word": "bureau",
+      "target_word": "Schreibtisch",
+      "source_phonetic": "/by.ʁo/",
+      "target_phonetic": "/ˈʃʁaɪptɪʃ/",
+      "source_example": "Je passe toute la journée assis à un bureau.",
+      "target_example": "Ich sitze den ganzen Tag am Schreibtisch.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "door",
+      "source_word": "porte",
+      "target_word": "Tür",
+      "source_phonetic": "/pɔʁt/",
+      "target_phonetic": "/tyːɐ̯/",
+      "source_example": "Ouvre la porte !",
+      "target_example": "Öffne die Tür!",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "downstairs",
+      "source_word": "en bas",
+      "target_word": "unten",
+      "source_phonetic": "/ɑ̃ ba/",
+      "target_phonetic": "/ˈʊntən/",
+      "source_example": "Je suis descendu et j'ai regardé la télé.",
+      "target_example": "Ich ging nach unten und schaute fern.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "flat",
+      "source_word": "appartement",
+      "target_word": "Wohnung",
+      "source_phonetic": "/a.paʁ.tə.mɑ̃/",
+      "target_phonetic": "/ˈvoːnʊŋ/",
+      "source_example": "Ils habitent dans un appartement.",
+      "target_example": "Sie wohnen in einer Wohnung.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "floor",
+      "source_word": "sol",
+      "target_word": "Boden",
+      "source_phonetic": "/sɔl/",
+      "target_phonetic": "/ˈboːdn̩/",
+      "source_example": "Son verre tomba par terre et se cassa.",
+      "target_example": "Sein Glas fiel zu Boden und zerbrach.",
+      "topic": "home",
+      "level": "A1"
+    }
+  ]
+}

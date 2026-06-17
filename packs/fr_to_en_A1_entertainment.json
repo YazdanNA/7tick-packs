@@ -1,0 +1,118 @@
+{
+  "id": "fr_to_en_A1__entertainment",
+  "source": "fr",
+  "target": "en",
+  "group": "A1__entertainment",
+  "words": [
+    {
+      "base_word": "band",
+      "source_word": "groupe",
+      "target_word": "band",
+      "source_phonetic": "/ɡʁup/",
+      "target_phonetic": "/bænd/",
+      "source_example": "Elle joue de la batterie dans un groupe.",
+      "target_example": "She plays drums in a band.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "cinema",
+      "source_word": "cinéma",
+      "target_word": "cinema",
+      "source_phonetic": "/sinema/",
+      "target_phonetic": "/ˈsɪnəmə/",
+      "source_example": "Nous étions assis dans le cinéma, attendant le début du film.",
+      "target_example": "We were sitting in the cinema, waiting for the film to begin.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "club",
+      "source_word": "club",
+      "target_word": "club",
+      "source_phonetic": "/klœb/",
+      "target_phonetic": "/klʌb/",
+      "source_example": "J'ai rejoint un club de canoë local.",
+      "target_example": "I joined a local canoeing club.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "concert",
+      "source_word": "concert",
+      "target_word": "concert",
+      "source_phonetic": "/kɔ̃sɛʁ/",
+      "target_phonetic": "/ˈkɒnsət/",
+      "source_example": "Nous sommes allés à un concert hier soir.",
+      "target_example": "We went to a concert last night.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dance",
+      "source_word": "danse",
+      "target_word": "dance",
+      "source_phonetic": "/dɑ̃s/",
+      "target_phonetic": "/dæns/",
+      "source_example": "La prochaine danse sera une valse.",
+      "target_example": "The next dance will be a waltz.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dance",
+      "source_word": "danser",
+      "target_word": "dance",
+      "source_phonetic": "/dɑ̃.se/",
+      "target_phonetic": "/dæns/",
+      "source_example": "Veux-tu danser ?",
+      "target_example": "Do you want to dance?",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dancer",
+      "source_word": "danseur/danseuse",
+      "target_word": "dancer",
+      "source_phonetic": "/dɑ̃.sœʁ/ /dɑ̃.søz/",
+      "target_phonetic": "/ˈdænsə/",
+      "source_example": "C'est une danseuse fantastique.",
+      "target_example": "She's a fantastic dancer.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dancing",
+      "source_word": "danse",
+      "target_word": "dancing",
+      "source_phonetic": "/dɑ̃s/",
+      "target_phonetic": "/ˈdænsɪŋ/",
+      "source_example": "Il y avait de la musique et de la danse jusqu'à deux heures du matin.",
+      "target_example": "There was music and dancing till two in the morning.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "festival",
+      "source_word": "festival",
+      "target_word": "festival",
+      "source_phonetic": "/fɛs.ti.val/",
+      "target_phonetic": "/ˈfestɪvl/",
+      "source_example": "Nous sommes allés à un festival de musique.",
+      "target_example": "We went to a music festival.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "film",
+      "source_word": "film",
+      "target_word": "film",
+      "source_phonetic": "/film/",
+      "target_phonetic": "/fɪlm/",
+      "source_example": "Regardons un film.",
+      "target_example": "Let's watch a film.",
+      "topic": "entertainment",
+      "level": "A1"
+    }
+  ]
+}

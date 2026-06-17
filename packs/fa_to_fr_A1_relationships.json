@@ -1,0 +1,41 @@
+{
+  "id": "fa_to_fr_A1__relationships",
+  "source": "fa",
+  "target": "fr",
+  "group": "A1__relationships",
+  "words": [
+    {
+      "base_word": "boyfriend",
+      "source_word": "دوست پسر",
+      "target_word": "petit ami",
+      "source_phonetic": "dust pesar",
+      "target_phonetic": "/pəti ami/",
+      "source_example": "او یک دوست پسر جدید دارد.",
+      "target_example": "Elle a un nouveau petit ami.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friend",
+      "source_word": "دوست",
+      "target_word": "ami",
+      "source_phonetic": "dust",
+      "target_phonetic": "/a.mi/",
+      "source_example": "این تام، دوست من است.",
+      "target_example": "Voici mon ami Tom.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friendly",
+      "source_word": "دوستانه",
+      "target_word": "amical",
+      "source_phonetic": "dustāne",
+      "target_phonetic": "/a.mi.kal/",
+      "source_example": "همه با من بسیار دوستانه برخورد کردند.",
+      "target_example": "Tout le monde était très amical avec moi.",
+      "topic": "relationships",
+      "level": "A1"
+    }
+  ]
+}

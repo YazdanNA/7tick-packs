@@ -1,0 +1,41 @@
+{
+  "id": "fr_to_de_A1__sports",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__sports",
+  "words": [
+    {
+      "base_word": "ball",
+      "source_word": "ballon",
+      "target_word": "Ball",
+      "source_phonetic": "/balɔ̃/",
+      "target_phonetic": "/bal/",
+      "source_example": "Il a frappé le ballon dans le filet.",
+      "target_example": "Er schoss den Ball ins Tor.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "climb",
+      "source_word": "monter",
+      "target_word": "steigen",
+      "source_phonetic": "/mɔ̃te/",
+      "target_phonetic": "/ˈʃtaɪɡən/",
+      "source_example": "Elle a monté les escaliers.",
+      "target_example": "Sie stieg die Treppe hinauf.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "football",
+      "source_word": "football",
+      "target_word": "Fußball",
+      "source_phonetic": "/fut.bol/",
+      "target_phonetic": "/ˈfuːsbal/",
+      "source_example": "Les enfants jouaient au football dehors.",
+      "target_example": "Die Kinder spielten draußen Fußball.",
+      "topic": "sports",
+      "level": "A1"
+    }
+  ]
+}

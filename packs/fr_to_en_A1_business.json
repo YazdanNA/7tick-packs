@@ -1,0 +1,74 @@
+{
+  "id": "fr_to_en_A1__business",
+  "source": "fr",
+  "target": "en",
+  "group": "A1__business",
+  "words": [
+    {
+      "base_word": "bank",
+      "source_word": "banque",
+      "target_word": "bank",
+      "source_phonetic": "/bɑ̃k/",
+      "target_phonetic": "/bæŋk/",
+      "source_example": "Je dois aller à la banque.",
+      "target_example": "I need to go to the bank.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "bill",
+      "source_word": "facture",
+      "target_word": "bill",
+      "source_phonetic": "/faktyʁ/",
+      "target_phonetic": "/bɪl/",
+      "source_example": "Elle paie toujours ses factures à temps.",
+      "target_example": "She always pays her bills on time.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "business",
+      "source_word": "entreprise",
+      "target_word": "business",
+      "source_phonetic": "/ɑ̃tʁəpʁiz/",
+      "target_phonetic": "/ˈbɪznəs/",
+      "source_example": "Elle dirige une petite entreprise.",
+      "target_example": "She runs a small business.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "chart",
+      "source_word": "graphique",
+      "target_word": "chart",
+      "source_phonetic": "/ɡʁa.fik/",
+      "target_phonetic": "/tʃɑːrt/",
+      "source_example": "Le graphique ci-joint montre les données de huit pays.",
+      "target_example": "The accompanying chart shows data for eight countries.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "company",
+      "source_word": "entreprise",
+      "target_word": "company",
+      "source_phonetic": "/ɑ̃tʁəpʁiz/",
+      "target_phonetic": "/ˈkʌmpəni/",
+      "source_example": "Il travaille pour une grande entreprise.",
+      "target_example": "He works for a large company.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "customer",
+      "source_word": "client",
+      "target_word": "customer",
+      "source_phonetic": "/kli.jɑ̃/",
+      "target_phonetic": "/ˈkʌstəmə/",
+      "source_example": "L'entreprise récompense les clients fidèles.",
+      "target_example": "The company rewards loyal customers.",
+      "topic": "business",
+      "level": "A1"
+    }
+  ]
+}

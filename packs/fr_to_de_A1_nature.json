@@ -1,0 +1,52 @@
+{
+  "id": "fr_to_de_A1__nature",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__nature",
+  "words": [
+    {
+      "base_word": "air",
+      "source_word": "air",
+      "target_word": "Luft",
+      "source_phonetic": "/ɛʁ/",
+      "target_phonetic": "/lʊft/",
+      "source_example": "Sortons prendre l'air frais.",
+      "target_example": "Lass uns etwas frische Luft schnappen.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fire",
+      "source_word": "feu",
+      "target_word": "Feuer",
+      "source_phonetic": "/fø/",
+      "target_phonetic": "/ˈfɔʏɐ/",
+      "source_example": "Le feu brûlait vivement.",
+      "target_example": "Das Feuer brannte hell.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "flower",
+      "source_word": "fleur",
+      "target_word": "Blume",
+      "source_phonetic": "/flœʁ/",
+      "target_phonetic": "/ˈbluːmə/",
+      "source_example": "La plante a une belle fleur rouge vif.",
+      "target_example": "Die Pflanze hat eine schöne leuchtend rote Blume.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fly",
+      "source_word": "voler",
+      "target_word": "fliegen",
+      "source_phonetic": "/vɔ.le/",
+      "target_phonetic": "/ˈfliːɡən/",
+      "source_example": "Une cigogne vola lentement.",
+      "target_example": "Ein Storch flog langsam vorbei.",
+      "topic": "nature",
+      "level": "A1"
+    }
+  ]
+}

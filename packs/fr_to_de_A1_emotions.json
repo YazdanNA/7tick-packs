@@ -1,0 +1,140 @@
+{
+  "id": "fr_to_de_A1__emotions",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__emotions",
+  "words": [
+    {
+      "base_word": "afraid",
+      "source_word": "effrayé",
+      "target_word": "ängstlich",
+      "source_phonetic": "/efʁɛje/",
+      "target_phonetic": "/ˈɛŋstlɪç/",
+      "source_example": "N'aie pas peur – c'est parfaitement sûr.",
+      "target_example": "Hab keine Angst – es ist völlig sicher.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "amazing",
+      "source_word": "incroyable",
+      "target_word": "erstaunlich",
+      "source_phonetic": "/ɛ̃kʁwajabl/",
+      "target_phonetic": "/ɛɐˈʃtaʊnlɪç/",
+      "source_example": "La vue du sommet est incroyable.",
+      "target_example": "Die Aussicht von oben ist erstaunlich.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "angry",
+      "source_word": "en colère",
+      "target_word": "wütend",
+      "source_phonetic": "/ɑ̃ kɔlɛʁ/",
+      "target_phonetic": "/ˈvyːtənt/",
+      "source_example": "Ma mère était en colère contre moi.",
+      "target_example": "Meine Mutter war wütend auf mich.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "beautiful",
+      "source_word": "beau",
+      "target_word": "schön",
+      "source_phonetic": "/bo/",
+      "target_phonetic": "/ʃøːn/",
+      "source_example": "Elle est une belle femme.",
+      "target_example": "Sie ist eine schöne Frau.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "bored",
+      "source_word": "ennuyé",
+      "target_word": "gelangweilt",
+      "source_phonetic": "/ɑ̃nɥije/",
+      "target_phonetic": "/ɡəˈlaŋvaɪlt/",
+      "source_example": "Elle s'ennuyait dans sa vie.",
+      "target_example": "Sie war gelangweilt von ihrem Leben.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "boring",
+      "source_word": "ennuyeux",
+      "target_word": "langweilig",
+      "source_phonetic": "/ɑ̃nɥijø/",
+      "target_phonetic": "/ˈlaŋvaɪlɪç/",
+      "source_example": "Le film était ennuyeux.",
+      "target_example": "Der Film war langweilig.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "enjoy",
+      "source_word": "apprécier",
+      "target_word": "genießen",
+      "source_phonetic": "/a.pʁe.sje/",
+      "target_phonetic": "/ɡəˈniːsən/",
+      "source_example": "J'ai vraiment apprécié le film.",
+      "target_example": "Ich habe den Film wirklich genossen.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "excited",
+      "source_word": "excité",
+      "target_word": "aufgeregt",
+      "source_phonetic": "/ɛk.si.te/",
+      "target_phonetic": "/ˈaʊfɡəʁeːkt/",
+      "source_example": "Les enfants étaient excités à l'idée d'ouvrir leurs cadeaux.",
+      "target_example": "Die Kinder waren aufgeregt, weil sie ihre Geschenke öffnen durften.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "exciting",
+      "source_word": "excitant",
+      "target_word": "aufregend",
+      "source_phonetic": "/ɛk.si.tɑ̃/",
+      "target_phonetic": "/ˈaʊfʁeːɡənt/",
+      "source_example": "C'est une opportunité excitante pour moi.",
+      "target_example": "Das ist eine aufregende Gelegenheit für mich.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "fantastic",
+      "source_word": "fantastique",
+      "target_word": "fantastisch",
+      "source_phonetic": "/fɑ̃.tas.tik/",
+      "target_phonetic": "/fanˈtastɪʃ/",
+      "source_example": "Le temps était absolument fantastique.",
+      "target_example": "Das Wetter war absolut fantastisch.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "feel",
+      "source_word": "sentir",
+      "target_word": "fühlen",
+      "source_phonetic": "/sɑ̃.tiʁ/",
+      "target_phonetic": "/ˈfyːlən/",
+      "source_example": "Je me sens heureux aujourd'hui.",
+      "target_example": "Ich fühle mich heute glücklich.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "feeling",
+      "source_word": "sentiment",
+      "target_word": "Gefühl",
+      "source_phonetic": "/sɑ̃.ti.mɑ̃/",
+      "target_phonetic": "/ɡəˈfyːl/",
+      "source_example": "J'avais un sentiment de tristesse.",
+      "target_example": "Ich hatte ein Gefühl der Traurigkeit.",
+      "topic": "emotions",
+      "level": "A1"
+    }
+  ]
+}

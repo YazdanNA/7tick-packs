@@ -1,0 +1,140 @@
+{
+  "id": "fr_to_de_A1__health",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__health",
+  "words": [
+    {
+      "base_word": "body",
+      "source_word": "corps",
+      "target_word": "Körper",
+      "source_phonetic": "/kɔʁ/",
+      "target_phonetic": "/ˈkœʁpɐ/",
+      "source_example": "Le corps humain est complexe.",
+      "target_example": "Der menschliche Körper ist komplex.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "cold",
+      "source_word": "rhume",
+      "target_word": "Erkältung",
+      "source_phonetic": "/ʁym/",
+      "target_phonetic": "/ɛɐ̯ˈkɛltʊŋ/",
+      "source_example": "J'ai un rhume.",
+      "target_example": "Ich habe eine Erkältung.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "dangerous",
+      "source_word": "dangereux",
+      "target_word": "gefährlich",
+      "source_phonetic": "/dɑ̃ʒ.ʁø/",
+      "target_phonetic": "/ɡəˈfɛːɐ̯lɪç/",
+      "source_example": "La situation est extrêmement dangereuse.",
+      "target_example": "Die Situation ist äußerst gefährlich.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "die",
+      "source_word": "mourir",
+      "target_word": "sterben",
+      "source_phonetic": "/mu.ʁiʁ/",
+      "target_phonetic": "/ˈʃtɛʁbən/",
+      "source_example": "Mon père est mort subitement à l'âge de 48 ans.",
+      "target_example": "Mein Vater starb plötzlich im Alter von 48 Jahren.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "diet",
+      "source_word": "régime",
+      "target_word": "Ernährung",
+      "source_phonetic": "/ʁe.ʒim/",
+      "target_phonetic": "/ɛɐ̯ˈnɛːʁʊŋ/",
+      "source_example": "Adopte une alimentation saine et équilibrée.",
+      "target_example": "Iss eine gesunde, ausgewogene Ernährung.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "doctor",
+      "source_word": "médecin",
+      "target_word": "Arzt",
+      "source_phonetic": "/med.sɛ̃/",
+      "target_phonetic": "/aʁtst/",
+      "source_example": "Tu ferais mieux de voir un médecin.",
+      "target_example": "Du solltest besser einen Arzt aufsuchen.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "ear",
+      "source_word": "oreille",
+      "target_word": "Ohr",
+      "source_phonetic": "/ɔ.ʁɛj/",
+      "target_phonetic": "/oːɐ̯/",
+      "source_example": "Il a mis ses mains sur ses oreilles.",
+      "target_example": "Er hielt sich die Ohren zu.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "exercice",
+      "target_word": "Sport",
+      "source_phonetic": "/ɛɡ.zɛʁ.sis/",
+      "target_phonetic": "/ʃpɔʁt/",
+      "source_example": "La natation est un bon exercice.",
+      "target_example": "Schwimmen ist guter Sport.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "faire de l'exercice",
+      "target_word": "trainieren",
+      "source_phonetic": "/fɛʁ də lɛɡ.zɛʁ.sis/",
+      "target_phonetic": "/tʁɛˈniːʁən/",
+      "source_example": "À quelle fréquence fais-tu de l'exercice ?",
+      "target_example": "Wie oft trainierst du?",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "eye",
+      "source_word": "œil",
+      "target_word": "Auge",
+      "source_phonetic": "/œj/",
+      "target_phonetic": "/ˈaʊɡə/",
+      "source_example": "Le suspect a les cheveux noirs et les yeux verts.",
+      "target_example": "Der Verdächtige hat dunkle Haare und grüne Augen.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "fat",
+      "source_word": "gros",
+      "target_word": "dick",
+      "source_phonetic": "/ɡʁo/",
+      "target_phonetic": "/dɪk/",
+      "source_example": "Il est un peu gros.",
+      "target_example": "Er ist ein bisschen dick.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "foot",
+      "source_word": "pied",
+      "target_word": "Fuß",
+      "source_phonetic": "/pje/",
+      "target_phonetic": "/fuːs/",
+      "source_example": "Mes pieds me font mal.",
+      "target_example": "Meine Füße schmerzen.",
+      "topic": "health",
+      "level": "A1"
+    }
+  ]
+}

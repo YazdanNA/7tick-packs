@@ -1,0 +1,118 @@
+{
+  "id": "fr_to_de_A1__entertainment",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__entertainment",
+  "words": [
+    {
+      "base_word": "band",
+      "source_word": "groupe",
+      "target_word": "Band",
+      "source_phonetic": "/ɡʁup/",
+      "target_phonetic": "/bant/",
+      "source_example": "Elle joue de la batterie dans un groupe.",
+      "target_example": "Sie spielt Schlagzeug in einer Band.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "cinema",
+      "source_word": "cinéma",
+      "target_word": "Kino",
+      "source_phonetic": "/sinema/",
+      "target_phonetic": "/ˈkiːno/",
+      "source_example": "Nous étions assis dans le cinéma, attendant le début du film.",
+      "target_example": "Wir saßen im Kino und warteten auf den Beginn des Films.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "club",
+      "source_word": "club",
+      "target_word": "Club",
+      "source_phonetic": "/klœb/",
+      "target_phonetic": "/klʊp/",
+      "source_example": "J'ai rejoint un club de canoë local.",
+      "target_example": "Ich bin einem örtlichen Kanuclub beigetreten.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "concert",
+      "source_word": "concert",
+      "target_word": "Konzert",
+      "source_phonetic": "/kɔ̃sɛʁ/",
+      "target_phonetic": "/kɔnˈtsɛʁt/",
+      "source_example": "Nous sommes allés à un concert hier soir.",
+      "target_example": "Wir waren gestern Abend in einem Konzert.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dance",
+      "source_word": "danse",
+      "target_word": "Tanz",
+      "source_phonetic": "/dɑ̃s/",
+      "target_phonetic": "/tant͡s/",
+      "source_example": "La prochaine danse sera une valse.",
+      "target_example": "Der nächste Tanz wird ein Walzer sein.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dance",
+      "source_word": "danser",
+      "target_word": "tanzen",
+      "source_phonetic": "/dɑ̃.se/",
+      "target_phonetic": "/ˈtantsən/",
+      "source_example": "Veux-tu danser ?",
+      "target_example": "Möchtest du tanzen?",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dancer",
+      "source_word": "danseur/danseuse",
+      "target_word": "Tänzerin",
+      "source_phonetic": "/dɑ̃.sœʁ/ /dɑ̃.søz/",
+      "target_phonetic": "/ˈtɛntsəʁɪn/",
+      "source_example": "C'est une danseuse fantastique.",
+      "target_example": "Sie ist eine fantastische Tänzerin.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "dancing",
+      "source_word": "danse",
+      "target_word": "Tanzen",
+      "source_phonetic": "/dɑ̃s/",
+      "target_phonetic": "/ˈtantsən/",
+      "source_example": "Il y avait de la musique et de la danse jusqu'à deux heures du matin.",
+      "target_example": "Es gab Musik und Tanz bis zwei Uhr morgens.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "festival",
+      "source_word": "festival",
+      "target_word": "Festival",
+      "source_phonetic": "/fɛs.ti.val/",
+      "target_phonetic": "/ˈfɛstival/",
+      "source_example": "Nous sommes allés à un festival de musique.",
+      "target_example": "Wir gingen zu einem Musikfestival.",
+      "topic": "entertainment",
+      "level": "A1"
+    },
+    {
+      "base_word": "film",
+      "source_word": "film",
+      "target_word": "Film",
+      "source_phonetic": "/film/",
+      "target_phonetic": "/fɪlm/",
+      "source_example": "Regardons un film.",
+      "target_example": "Lass uns einen Film ansehen.",
+      "topic": "entertainment",
+      "level": "A1"
+    }
+  ]
+}

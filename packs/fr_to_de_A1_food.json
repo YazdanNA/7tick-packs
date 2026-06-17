@@ -1,0 +1,261 @@
+{
+  "id": "fr_to_de_A1__food",
+  "source": "fr",
+  "target": "de",
+  "group": "A1__food",
+  "words": [
+    {
+      "base_word": "apple",
+      "source_word": "pomme",
+      "target_word": "Apfel",
+      "source_phonetic": "/pɔm/",
+      "target_phonetic": "/ˈapfl̩/",
+      "source_example": "Je mange une pomme tous les jours.",
+      "target_example": "Ich esse jeden Tag einen Apfel.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "banana",
+      "source_word": "banane",
+      "target_word": "Banane",
+      "source_phonetic": "/banan/",
+      "target_phonetic": "/baˈnaːnə/",
+      "source_example": "J'ai acheté un régime de bananes.",
+      "target_example": "Ich habe ein Bündel Bananen gekauft.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "beer",
+      "source_word": "bière",
+      "target_word": "Bier",
+      "source_phonetic": "/bjɛʁ/",
+      "target_phonetic": "/biːɐ̯/",
+      "source_example": "Je voudrais une pinte de bière.",
+      "target_example": "Ich hätte gerne ein Pint Bier.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "bread",
+      "source_word": "pain",
+      "target_word": "Brot",
+      "source_phonetic": "/pɛ̃/",
+      "target_phonetic": "/bʁoːt/",
+      "source_example": "Je mange du pain avec du beurre.",
+      "target_example": "Ich esse Brot mit Butter.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "breakfast",
+      "source_word": "petit déjeuner",
+      "target_word": "Frühstück",
+      "source_phonetic": "/pəti deʒøne/",
+      "target_phonetic": "/ˈfʁyːʃtʏk/",
+      "source_example": "Nous prenons le petit déjeuner à 8 heures.",
+      "target_example": "Wir frühstücken um 8.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "butter",
+      "source_word": "beurre",
+      "target_word": "Butter",
+      "source_phonetic": "/bœʁ/",
+      "target_phonetic": "/ˈbʊtɐ/",
+      "source_example": "Je mets du beurre sur mon pain.",
+      "target_example": "Ich streiche Butter auf mein Brot.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cafe",
+      "source_word": "café",
+      "target_word": "Café",
+      "source_phonetic": "/kafe/",
+      "target_phonetic": "/kaˈfeː/",
+      "source_example": "Nous avons pris un café dans un café.",
+      "target_example": "Wir tranken Kaffee in einem Café.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cake",
+      "source_word": "gâteau",
+      "target_word": "Kuchen",
+      "source_phonetic": "/ɡato/",
+      "target_phonetic": "/ˈkuːxn̩/",
+      "source_example": "J'ai fait un gâteau.",
+      "target_example": "Ich habe einen Kuchen gebacken.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "carrot",
+      "source_word": "carotte",
+      "target_word": "Karotte",
+      "source_phonetic": "/ka.ʁɔt/",
+      "target_phonetic": "/kaˈʁɔtə/",
+      "source_example": "J'ai acheté une livre de carottes.",
+      "target_example": "Ich habe ein Pfund Karotten gekauft.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheese",
+      "source_word": "fromage",
+      "target_word": "Käse",
+      "source_phonetic": "/fʁɔ.maʒ/",
+      "target_phonetic": "/ˈkɛːzə/",
+      "source_example": "J'ai mangé du fromage sur du pain grillé pour le déjeuner.",
+      "target_example": "Ich hatte zum Mittagessen Käsebrot.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "chocolate",
+      "source_word": "chocolat",
+      "target_word": "Schokolade",
+      "source_phonetic": "/ʃɔkɔla/",
+      "target_phonetic": "/ʃokoˈlaːdə/",
+      "source_example": "J'ai acheté une tablette de chocolat.",
+      "target_example": "Ich habe eine Tafel Schokolade gekauft.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "coffee",
+      "source_word": "café",
+      "target_word": "Kaffee",
+      "source_phonetic": "/kafe/",
+      "target_phonetic": "/kaˈfeː/",
+      "source_example": "Je voudrais une tasse de café.",
+      "target_example": "Ich hätte gerne eine Tasse Kaffee.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cook",
+      "source_word": "cuisiner",
+      "target_word": "kochen",
+      "source_phonetic": "/kɥizine/",
+      "target_phonetic": "/ˈkɔxən/",
+      "source_example": "Il m'a préparé le déjeuner.",
+      "target_example": "Er hat für mich das Mittagessen gekocht.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cooking",
+      "source_word": "cuisine",
+      "target_word": "Kochen",
+      "source_phonetic": "/kɥizin/",
+      "target_phonetic": "/ˈkɔxən/",
+      "source_example": "Mon mari fait toute la cuisine.",
+      "target_example": "Mein Mann macht das ganze Kochen.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cream",
+      "source_word": "crème",
+      "target_word": "Sahne",
+      "source_phonetic": "/kʁɛm/",
+      "target_phonetic": "/ˈzaːnə/",
+      "source_example": "Nous avons eu des fraises avec de la crème pour le dessert.",
+      "target_example": "Wir hatten Erdbeeren mit Sahne zum Nachtisch.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "delicious",
+      "source_word": "délicieux",
+      "target_word": "köstlich",
+      "source_phonetic": "/de.li.sjø/",
+      "target_phonetic": "/ˈkœstlɪç/",
+      "source_example": "La nourriture était délicieuse.",
+      "target_example": "Das Essen war köstlich.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dinner",
+      "source_word": "dîner",
+      "target_word": "Abendessen",
+      "source_phonetic": "/di.ne/",
+      "target_phonetic": "/ˈaːbəntˌɛsən/",
+      "source_example": "Qu'est-ce qu'on mange ce soir pour le dîner ?",
+      "target_example": "Was sollen wir heute Abend zum Abendessen essen?",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dish",
+      "source_word": "plat",
+      "target_word": "Schüssel",
+      "source_phonetic": "/pla/",
+      "target_phonetic": "/ˈʃʏsəl/",
+      "source_example": "Nous avons besoin d'un plat propre pour les pâtes.",
+      "target_example": "Wir brauchen eine saubere Schüssel für die Pasta.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dish",
+      "source_word": "plat",
+      "target_word": "Gericht",
+      "source_phonetic": "/pla/",
+      "target_phonetic": "/ɡəˈʁɪçt/",
+      "source_example": "Ce plat de pâtes est délicieux.",
+      "target_example": "Dieses Pastagericht ist köstlich.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "drink",
+      "source_word": "boisson",
+      "target_word": "Getränk",
+      "source_phonetic": "/bwa.sɔ̃/",
+      "target_phonetic": "/ɡəˈtʁɛŋk/",
+      "source_example": "Puis-je avoir une boisson ?",
+      "target_example": "Kann ich ein Getränk haben?",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "eat",
+      "source_word": "manger",
+      "target_word": "essen",
+      "source_phonetic": "/mɑ̃.ʒe/",
+      "target_phonetic": "/ˈɛsən/",
+      "source_example": "Je ne mange pas de viande.",
+      "target_example": "Ich esse kein Fleisch.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "egg",
+      "source_word": "œuf",
+      "target_word": "Ei",
+      "source_phonetic": "/œf/",
+      "target_phonetic": "/aɪ/",
+      "source_example": "Les poissons pondent des milliers d'œufs.",
+      "target_example": "Die Fische legen Tausende von Eiern.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "food",
+      "source_word": "nourriture",
+      "target_word": "Essen",
+      "source_phonetic": "/nu.ʁi.tyʁ/",
+      "target_phonetic": "/ˈɛsən/",
+      "source_example": "Aimes-tu la nourriture italienne ?",
+      "target_example": "Magst du italienisches Essen?",
+      "topic": "food",
+      "level": "A1"
+    }
+  ]
+}
