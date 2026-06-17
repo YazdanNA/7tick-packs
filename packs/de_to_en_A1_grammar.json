@@ -1,0 +1,19 @@
+{
+  "id": "de_to_en_A1__grammar",
+  "source": "de",
+  "target": "en",
+  "group": "A1__grammar",
+  "words": [
+    {
+      "base_word": "do",
+      "source_word": "tun (Hilfsverb)",
+      "target_word": "do",
+      "source_phonetic": "/tuːn/",
+      "target_phonetic": "/duː/",
+      "source_example": "Ich mag keinen Fisch.",
+      "target_example": "I don't like fish.",
+      "topic": "grammar",
+      "level": "A1"
+    }
+  ]
+}

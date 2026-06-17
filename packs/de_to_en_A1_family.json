@@ -1,0 +1,140 @@
+{
+  "id": "de_to_en_A1__family",
+  "source": "de",
+  "target": "en",
+  "group": "A1__family",
+  "words": [
+    {
+      "base_word": "aunt",
+      "source_word": "Tante",
+      "target_word": "aunt",
+      "source_phonetic": "/ˈtantə/",
+      "target_phonetic": "/ænt/",
+      "source_example": "Meine Tante lebt in Kanada.",
+      "target_example": "My aunt lives in Canada.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "baby",
+      "source_word": "Baby",
+      "target_word": "baby",
+      "source_phonetic": "/ˈbeːbi/",
+      "target_phonetic": "/ˈbeɪbi/",
+      "source_example": "Das Baby schläft.",
+      "target_example": "The baby is sleeping.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "born",
+      "source_word": "geboren",
+      "target_word": "born",
+      "source_phonetic": "/ɡəˈboːʁən/",
+      "target_phonetic": "/bɔːrn/",
+      "source_example": "Ich wurde 1976 geboren.",
+      "target_example": "I was born in 1976.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "boy",
+      "source_word": "Junge",
+      "target_word": "boy",
+      "source_phonetic": "/ˈjʊŋə/",
+      "target_phonetic": "/bɔɪ/",
+      "source_example": "Er ist ein kleiner Junge.",
+      "target_example": "He's a little boy.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "brother",
+      "source_word": "Bruder",
+      "target_word": "brother",
+      "source_phonetic": "/ˈbʁuːdɐ/",
+      "target_phonetic": "/ˈbrʌðər/",
+      "source_example": "Er ist mein Bruder.",
+      "target_example": "He's my brother.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "child",
+      "source_word": "Kind",
+      "target_word": "child",
+      "source_phonetic": "/kɪnt/",
+      "target_phonetic": "/tʃaɪld/",
+      "source_example": "Ich habe als Kind in London gelebt.",
+      "target_example": "I lived in London as a child.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "cousin",
+      "source_word": "Cousin/Cousine",
+      "target_word": "cousin",
+      "source_phonetic": "/kuˈzɛ̃/ /kuˈziːnə/",
+      "target_phonetic": "/ˈkʌzn/",
+      "source_example": "Sie ist meine Cousine.",
+      "target_example": "She's my cousin.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "dad",
+      "source_word": "Papa",
+      "target_word": "dad",
+      "source_phonetic": "/ˈpapa/",
+      "target_phonetic": "/dæd/",
+      "source_example": "Das ist mein Papa da drüben.",
+      "target_example": "That's my dad over there.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "daughter",
+      "source_word": "Tochter",
+      "target_word": "daughter",
+      "source_phonetic": "/ˈtɔxtɐ/",
+      "target_phonetic": "/ˈdɔːtə/",
+      "source_example": "Wir haben zwei Söhne und eine Tochter.",
+      "target_example": "We have two sons and a daughter.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "Familien-",
+      "target_word": "family",
+      "source_phonetic": "/faˈmiːli̯ən/",
+      "target_phonetic": "/ˈfæməli/",
+      "source_example": "Wir hatten gestern Abend ein Familienessen.",
+      "target_example": "We had a family dinner last night.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "Familie",
+      "target_word": "family",
+      "source_phonetic": "/faˈmiːli̯ə/",
+      "target_phonetic": "/ˈfæməli/",
+      "source_example": "Meine Familie lebt in dieser Stadt.",
+      "target_example": "My family lives in this city.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "father",
+      "source_word": "Vater",
+      "target_word": "father",
+      "source_phonetic": "/ˈfaːtɐ/",
+      "target_phonetic": "/ˈfɑːðə/",
+      "source_example": "Mein Vater ist Arzt.",
+      "target_example": "My father is a doctor.",
+      "topic": "family",
+      "level": "A1"
+    }
+  ]
+}

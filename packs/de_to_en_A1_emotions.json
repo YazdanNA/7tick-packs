@@ -1,0 +1,140 @@
+{
+  "id": "de_to_en_A1__emotions",
+  "source": "de",
+  "target": "en",
+  "group": "A1__emotions",
+  "words": [
+    {
+      "base_word": "afraid",
+      "source_word": "ängstlich",
+      "target_word": "afraid",
+      "source_phonetic": "/ˈɛŋstlɪç/",
+      "target_phonetic": "/əˈfreɪd/",
+      "source_example": "Hab keine Angst – es ist völlig sicher.",
+      "target_example": "Don't be afraid—it's perfectly safe.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "amazing",
+      "source_word": "erstaunlich",
+      "target_word": "amazing",
+      "source_phonetic": "/ɛɐˈʃtaʊnlɪç/",
+      "target_phonetic": "/əˈmeɪzɪŋ/",
+      "source_example": "Die Aussicht von oben ist erstaunlich.",
+      "target_example": "The view from the top is amazing.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "angry",
+      "source_word": "wütend",
+      "target_word": "angry",
+      "source_phonetic": "/ˈvyːtənt/",
+      "target_phonetic": "/ˈæŋɡri/",
+      "source_example": "Meine Mutter war wütend auf mich.",
+      "target_example": "My mother was angry with me.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "beautiful",
+      "source_word": "schön",
+      "target_word": "beautiful",
+      "source_phonetic": "/ʃøːn/",
+      "target_phonetic": "/ˈbjuːtɪfl/",
+      "source_example": "Sie ist eine schöne Frau.",
+      "target_example": "She is a beautiful woman.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "bored",
+      "source_word": "gelangweilt",
+      "target_word": "bored",
+      "source_phonetic": "/ɡəˈlaŋvaɪlt/",
+      "target_phonetic": "/bɔːrd/",
+      "source_example": "Sie war gelangweilt von ihrem Leben.",
+      "target_example": "She was bored with her life.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "boring",
+      "source_word": "langweilig",
+      "target_word": "boring",
+      "source_phonetic": "/ˈlaŋvaɪlɪç/",
+      "target_phonetic": "/ˈbɔːrɪŋ/",
+      "source_example": "Der Film war langweilig.",
+      "target_example": "The movie was boring.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "enjoy",
+      "source_word": "genießen",
+      "target_word": "enjoy",
+      "source_phonetic": "/ɡəˈniːsən/",
+      "target_phonetic": "/ɪnˈdʒɔɪ/",
+      "source_example": "Ich habe den Film wirklich genossen.",
+      "target_example": "I really enjoyed the film.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "excited",
+      "source_word": "aufgeregt",
+      "target_word": "excited",
+      "source_phonetic": "/ˈaʊfɡəʁeːkt/",
+      "target_phonetic": "/ɪkˈsaɪtɪd/",
+      "source_example": "Die Kinder waren aufgeregt, weil sie ihre Geschenke öffnen durften.",
+      "target_example": "The children were excited about opening their presents.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "exciting",
+      "source_word": "aufregend",
+      "target_word": "exciting",
+      "source_phonetic": "/ˈaʊfʁeːɡənt/",
+      "target_phonetic": "/ɪkˈsaɪtɪŋ/",
+      "source_example": "Das ist eine aufregende Gelegenheit für mich.",
+      "target_example": "This is an exciting opportunity for me.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "fantastic",
+      "source_word": "fantastisch",
+      "target_word": "fantastic",
+      "source_phonetic": "/fanˈtastɪʃ/",
+      "target_phonetic": "/fænˈtæstɪk/",
+      "source_example": "Das Wetter war absolut fantastisch.",
+      "target_example": "The weather was absolutely fantastic.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "feel",
+      "source_word": "fühlen",
+      "target_word": "feel",
+      "source_phonetic": "/ˈfyːlən/",
+      "target_phonetic": "/fiːl/",
+      "source_example": "Ich fühle mich heute glücklich.",
+      "target_example": "I feel happy today.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "feeling",
+      "source_word": "Gefühl",
+      "target_word": "feeling",
+      "source_phonetic": "/ɡəˈfyːl/",
+      "target_phonetic": "/ˈfiːlɪŋ/",
+      "source_example": "Ich hatte ein Gefühl der Traurigkeit.",
+      "target_example": "I had a feeling of sadness.",
+      "topic": "emotions",
+      "level": "A1"
+    }
+  ]
+}

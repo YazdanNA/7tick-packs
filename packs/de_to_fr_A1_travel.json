@@ -1,0 +1,96 @@
+{
+  "id": "de_to_fr_A1__travel",
+  "source": "de",
+  "target": "fr",
+  "group": "A1__travel",
+  "words": [
+    {
+      "base_word": "airport",
+      "source_word": "Flughafen",
+      "target_word": "aéroport",
+      "source_phonetic": "/ˈfluːkhaːfən/",
+      "target_phonetic": "/aeʁɔpɔʁ/",
+      "source_example": "Wir kamen zwei Stunden früher am Flughafen an.",
+      "target_example": "Nous sommes arrivés à l'aéroport deux heures en avance.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "arrive",
+      "source_word": "ankommen",
+      "target_word": "arriver",
+      "source_phonetic": "/ˈankɔmən/",
+      "target_phonetic": "/aʁive/",
+      "source_example": "Sie kommen um 8 am Bahnhof an.",
+      "target_example": "Ils arrivent à la gare à 8 heures.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "beach",
+      "source_word": "Strand",
+      "target_word": "plage",
+      "source_phonetic": "/ʃtʁant/",
+      "target_phonetic": "/plaʒ/",
+      "source_example": "Wir verbrachten den Tag am Strand.",
+      "target_example": "Nous avons passé la journée à la plage.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "by",
+      "source_word": "mit",
+      "target_word": "en",
+      "source_phonetic": "/mɪt/",
+      "target_phonetic": "/ɑ̃/",
+      "source_example": "Wir reisten mit dem Auto.",
+      "target_example": "Nous avons voyagé en voiture.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "capital",
+      "source_word": "Hauptstadt",
+      "target_word": "capitale",
+      "source_phonetic": "/ˈhaʊptʃtat/",
+      "target_phonetic": "/kapital/",
+      "source_example": "Kairo ist die Hauptstadt von Ägypten.",
+      "target_example": "Le Caire est la capitale de l'Égypte.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "city",
+      "source_word": "Stadt",
+      "target_word": "ville",
+      "source_phonetic": "/ʃtat/",
+      "target_phonetic": "/vil/",
+      "source_example": "Wir leben in einer großen Stadt.",
+      "target_example": "Nous vivons dans une grande ville.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "country",
+      "source_word": "Land",
+      "target_word": "pays",
+      "source_phonetic": "/lant/",
+      "target_phonetic": "/pɛi/",
+      "source_example": "Sie wusste nicht, wie das Leben in einem fremden Land sein würde.",
+      "target_example": "Elle ne savait pas comment serait la vie dans un pays étranger.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "flight",
+      "source_word": "Flug",
+      "target_word": "vol",
+      "source_phonetic": "/fluːk/",
+      "target_phonetic": "/vɔl/",
+      "source_example": "Wir trafen uns auf einem Flug von London nach Paris.",
+      "target_example": "Nous nous sommes rencontrés sur un vol de Londres à Paris.",
+      "topic": "travel",
+      "level": "A1"
+    }
+  ]
+}

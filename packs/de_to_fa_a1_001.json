@@ -1,0 +1,188 @@
+{
+  "id": "de_to_fa_a1_001",
+  "source": "de",
+  "target": "fa",
+  "level": "A1",
+  "words": [
+    {
+      "source_word": "ein",
+      "target_word": "یک",
+      "source_phonetic": "/aɪn/",
+      "target_phonetic": "yek",
+      "source_example": "Ich sah einen Mann.",
+      "target_example": "من یک مرد دیدم.",
+      "base_word": "a"
+    },
+    {
+      "source_word": "ungefähr",
+      "target_word": "تقریباً",
+      "source_phonetic": "/ˈʊnɡəfɛːɐ/",
+      "target_phonetic": "taqriban",
+      "source_example": "Es kostet etwa 10 Dollar.",
+      "target_example": "حدود ۱۰ دلار قیمت دارد.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "über",
+      "target_word": "دربارهٔ",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "darbāre-ye",
+      "source_example": "Ich habe ein Buch über Blumen gelesen.",
+      "target_example": "یک کتاب دربارهٔ گل‌ها خواندم.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "oben",
+      "target_word": "بالا",
+      "source_phonetic": "/ˈoːbən/",
+      "target_phonetic": "bālā",
+      "source_example": "Stell es auf das obere Regal.",
+      "target_example": "آن را روی قفسهٔ بالایی بگذار.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "über",
+      "target_word": "بالاتر از",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "bālātar az",
+      "source_example": "Das Wasser kam über unsere Knie.",
+      "target_example": "آب تا بالای زانوهایمان رسید.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "hinüber",
+      "target_word": "از آن سو",
+      "source_phonetic": "/hɪˈnyːbɐ/",
+      "target_phonetic": "az ān su",
+      "source_example": "Wir können nicht hinüberschwimmen – es ist zu breit.",
+      "target_example": "نمی‌توانیم از آن شنا کنیم—خیلی پهن است.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "über",
+      "target_word": "از میان",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "az miyān",
+      "source_example": "Er ging über das Feld.",
+      "target_example": "او از میان مزرعه پیاده رفت.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "Maßnahme",
+      "target_word": "اقدام",
+      "source_phonetic": "/ˈmaːsnaːmə/",
+      "target_phonetic": "eqdām",
+      "source_example": "Die Feuerwehrleute ergriffen sofort Maßnahmen.",
+      "target_example": "آتش‌نشانان فوراً اقدام کردند.",
+      "base_word": "action"
+    },
+    {
+      "source_word": "Aktivität",
+      "target_word": "فعالیت",
+      "source_phonetic": "/aktiˈviːtɛːt/",
+      "target_phonetic": "fa'āliyat",
+      "source_example": "Der Club bietet viele Aktivitäten wie Tennis und Schwimmen.",
+      "target_example": "باشگاه فعالیت‌های زیادی مثل تنیس و شنا ارائه می‌دهد.",
+      "base_word": "activity"
+    },
+    {
+      "source_word": "Schauspieler",
+      "target_word": "بازیگر (مرد)",
+      "source_phonetic": "/ˈʃaʊʃpiːlɐ/",
+      "target_phonetic": "bāzigar (mard)",
+      "source_example": "Beide Hauptdarsteller lieferten hervorragende Leistungen.",
+      "target_example": "هر دو بازیگر اصلی اجرای عالی داشتند.",
+      "base_word": "actor"
+    },
+    {
+      "source_word": "Schauspielerin",
+      "target_word": "بازیگر (زن)",
+      "source_phonetic": "/ˈʃaʊʃpiːləʁɪn/",
+      "target_phonetic": "bāzigar (zan)",
+      "source_example": "Die oscarprämierte Schauspielerin macht eine Pause vom Drehen.",
+      "target_example": "بازیگر زن برندهٔ اسکار از فیلم‌برداری استراحت می‌کند.",
+      "base_word": "actress"
+    },
+    {
+      "source_word": "hinzufügen",
+      "target_word": "اضافه کردن",
+      "source_phonetic": "/hɪnˈtsuːfyːɡən/",
+      "target_phonetic": "ezāfe kardan",
+      "source_example": "Das Mehl zur Schüssel geben und gut mischen.",
+      "target_example": "آرد را به کاسه اضافه کن و خوب هم بزن.",
+      "base_word": "add"
+    },
+    {
+      "source_word": "Adresse",
+      "target_word": "نشانی",
+      "source_phonetic": "/aˈdʁɛsə/",
+      "target_phonetic": "nešāni",
+      "source_example": "Könntest du deine Adresse und Telefonnummer aufschreiben?",
+      "target_example": "می‌توانی نشانی و شمارهٔ تلفنت را بنویسی؟",
+      "base_word": "address"
+    },
+    {
+      "source_word": "Erwachsener",
+      "target_word": "بزرگسال",
+      "source_phonetic": "/ɛɐˈvaksənɐ/",
+      "target_phonetic": "bozorgsāl",
+      "source_example": "Kinder müssen von einem Erwachsenen begleitet werden.",
+      "target_example": "کودکان باید توسط یک بزرگسال همراهی شوند.",
+      "base_word": "adult"
+    },
+    {
+      "source_word": "Rat",
+      "target_word": "توصیه",
+      "source_phonetic": "/ʁaːt/",
+      "target_phonetic": "towsiye",
+      "source_example": "Lass mich dir einen Rat geben: Überprüfe immer zweimal.",
+      "target_example": "بگذار یک توصیه به تو کنم: همیشه دوبار چک کن.",
+      "base_word": "advice"
+    },
+    {
+      "source_word": "ängstlich",
+      "target_word": "ترسیده",
+      "source_phonetic": "/ˈɛŋstlɪç/",
+      "target_phonetic": "tarside",
+      "source_example": "Hab keine Angst – es ist völlig sicher.",
+      "target_example": "نترس—کاملاً امن است.",
+      "base_word": "afraid"
+    },
+    {
+      "source_word": "nach",
+      "target_word": "بعد از",
+      "source_phonetic": "/naːx/",
+      "target_phonetic": "ba'd az",
+      "source_example": "Wir gehen nach dem Mittagessen.",
+      "target_example": "بعد از ناهار می‌رویم.",
+      "base_word": "after"
+    },
+    {
+      "source_word": "Nachmittag",
+      "target_word": "بعد از ظهر",
+      "source_phonetic": "/ˈnaːxmɪtaːk/",
+      "target_phonetic": "ba'd az zohr",
+      "source_example": "Am Nachmittag gingen wir einkaufen.",
+      "target_example": "بعد از ظهر به خرید رفتیم.",
+      "base_word": "afternoon"
+    },
+    {
+      "source_word": "wieder",
+      "target_word": "دوباره",
+      "source_phonetic": "/ˈviːdɐ/",
+      "target_phonetic": "dobāre",
+      "source_example": "Versuche es noch einmal – Übung macht den Meister.",
+      "target_example": "دوباره تلاش کن—تمرین باعث می‌شود کامل شوی.",
+      "base_word": "again"
+    },
+    {
+      "source_word": "Alter",
+      "target_word": "سن",
+      "source_phonetic": "/ˈaltɐ/",
+      "target_phonetic": "sen",
+      "source_example": "Du bist im gleichen Alter wie mein Bruder.",
+      "target_example": "تو هم سن برادرم هستی.",
+      "base_word": "age"
+    }
+  ]
+}

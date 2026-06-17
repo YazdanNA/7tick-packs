@@ -1,0 +1,140 @@
+{
+  "id": "de_to_en_A1__health",
+  "source": "de",
+  "target": "en",
+  "group": "A1__health",
+  "words": [
+    {
+      "base_word": "body",
+      "source_word": "Körper",
+      "target_word": "body",
+      "source_phonetic": "/ˈkœʁpɐ/",
+      "target_phonetic": "/ˈbɑːdi/",
+      "source_example": "Der menschliche Körper ist komplex.",
+      "target_example": "The human body is complex.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "cold",
+      "source_word": "Erkältung",
+      "target_word": "cold",
+      "source_phonetic": "/ɛɐ̯ˈkɛltʊŋ/",
+      "target_phonetic": "/kəʊld/",
+      "source_example": "Ich habe eine Erkältung.",
+      "target_example": "I've got a cold.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "dangerous",
+      "source_word": "gefährlich",
+      "target_word": "dangerous",
+      "source_phonetic": "/ɡəˈfɛːɐ̯lɪç/",
+      "target_phonetic": "/ˈdeɪndʒərəs/",
+      "source_example": "Die Situation ist äußerst gefährlich.",
+      "target_example": "The situation is extremely dangerous.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "die",
+      "source_word": "sterben",
+      "target_word": "die",
+      "source_phonetic": "/ˈʃtɛʁbən/",
+      "target_phonetic": "/daɪ/",
+      "source_example": "Mein Vater starb plötzlich im Alter von 48 Jahren.",
+      "target_example": "My father died suddenly at the age of 48.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "diet",
+      "source_word": "Ernährung",
+      "target_word": "diet",
+      "source_phonetic": "/ɛɐ̯ˈnɛːʁʊŋ/",
+      "target_phonetic": "/ˈdaɪət/",
+      "source_example": "Iss eine gesunde, ausgewogene Ernährung.",
+      "target_example": "Eat a healthy, balanced diet.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "doctor",
+      "source_word": "Arzt",
+      "target_word": "doctor",
+      "source_phonetic": "/aʁtst/",
+      "target_phonetic": "/ˈdɒktə/",
+      "source_example": "Du solltest besser einen Arzt aufsuchen.",
+      "target_example": "You'd better see a doctor.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "ear",
+      "source_word": "Ohr",
+      "target_word": "ear",
+      "source_phonetic": "/oːɐ̯/",
+      "target_phonetic": "/ɪə/",
+      "source_example": "Er hielt sich die Ohren zu.",
+      "target_example": "He put his hands over his ears.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "Sport",
+      "target_word": "exercise",
+      "source_phonetic": "/ʃpɔʁt/",
+      "target_phonetic": "/ˈeksəsaɪz/",
+      "source_example": "Schwimmen ist guter Sport.",
+      "target_example": "Swimming is good exercise.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "trainieren",
+      "target_word": "exercise",
+      "source_phonetic": "/tʁɛˈniːʁən/",
+      "target_phonetic": "/ˈeksəsaɪz/",
+      "source_example": "Wie oft trainierst du?",
+      "target_example": "How often do you exercise?",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "eye",
+      "source_word": "Auge",
+      "target_word": "eye",
+      "source_phonetic": "/ˈaʊɡə/",
+      "target_phonetic": "/aɪ/",
+      "source_example": "Der Verdächtige hat dunkle Haare und grüne Augen.",
+      "target_example": "The suspect has dark hair and green eyes.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "fat",
+      "source_word": "dick",
+      "target_word": "fat",
+      "source_phonetic": "/dɪk/",
+      "target_phonetic": "/fæt/",
+      "source_example": "Er ist ein bisschen dick.",
+      "target_example": "He is a little bit fat.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "foot",
+      "source_word": "Fuß",
+      "target_word": "foot",
+      "source_phonetic": "/fuːs/",
+      "target_phonetic": "/fʊt/",
+      "source_example": "Meine Füße schmerzen.",
+      "target_example": "My feet are aching.",
+      "topic": "health",
+      "level": "A1"
+    }
+  ]
+}

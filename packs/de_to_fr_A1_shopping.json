@@ -1,0 +1,41 @@
+{
+  "id": "de_to_fr_A1__shopping",
+  "source": "de",
+  "target": "fr",
+  "group": "A1__shopping",
+  "words": [
+    {
+      "base_word": "bag",
+      "source_word": "Tasche",
+      "target_word": "sac",
+      "source_phonetic": "/ˈtaʃə/",
+      "target_phonetic": "/sak/",
+      "source_example": "Er trug eine schwere Tasche.",
+      "target_example": "Il portait un sac lourd.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "buy",
+      "source_word": "kaufen",
+      "target_word": "acheter",
+      "source_phonetic": "/ˈkaʊfən/",
+      "target_phonetic": "/aʃte/",
+      "source_example": "Ich möchte ein neues Handy kaufen.",
+      "target_example": "Je veux acheter un nouveau téléphone.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheap",
+      "source_word": "billig",
+      "target_word": "bon marché",
+      "source_phonetic": "/ˈbɪlɪç/",
+      "target_phonetic": "/bɔ̃ maʁ.ʃe/",
+      "source_example": "Radfahren ist eine billige Art, sich fortzubewegen.",
+      "target_example": "Le vélo est un moyen de transport bon marché.",
+      "topic": "shopping",
+      "level": "A1"
+    }
+  ]
+}

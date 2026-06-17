@@ -1,0 +1,41 @@
+{
+  "id": "de_to_fa_A1__sports",
+  "source": "de",
+  "target": "fa",
+  "group": "A1__sports",
+  "words": [
+    {
+      "base_word": "ball",
+      "source_word": "Ball",
+      "target_word": "توپ",
+      "source_phonetic": "/bal/",
+      "target_phonetic": "tup",
+      "source_example": "Er schoss den Ball ins Tor.",
+      "target_example": "او توپ را به درون دروازه زد.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "climb",
+      "source_word": "steigen",
+      "target_word": "بالا رفتن",
+      "source_phonetic": "/ˈʃtaɪɡən/",
+      "target_phonetic": "bālā raftan",
+      "source_example": "Sie stieg die Treppe hinauf.",
+      "target_example": "او از پله‌ها بالا رفت.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "football",
+      "source_word": "Fußball",
+      "target_word": "فوتبال",
+      "source_phonetic": "/ˈfuːsbal/",
+      "target_phonetic": "futbāl",
+      "source_example": "Die Kinder spielten draußen Fußball.",
+      "target_example": "بچه‌ها بیرون فوتبال بازی می‌کردند.",
+      "topic": "sports",
+      "level": "A1"
+    }
+  ]
+}

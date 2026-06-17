@@ -1,0 +1,52 @@
+{
+  "id": "de_to_en_A1__culture",
+  "source": "de",
+  "target": "en",
+  "group": "A1__culture",
+  "words": [
+    {
+      "base_word": "art",
+      "source_word": "Kunst",
+      "target_word": "art",
+      "source_phonetic": "/kʊnst/",
+      "target_phonetic": "/ɑːrt/",
+      "source_example": "Ich mag moderne Kunst.",
+      "target_example": "I like modern art.",
+      "topic": "culture",
+      "level": "A1"
+    },
+    {
+      "base_word": "artist",
+      "source_word": "Künstler",
+      "target_word": "artist",
+      "source_phonetic": "/ˈkʏnstlɐ/",
+      "target_phonetic": "/ˈɑːrtɪst/",
+      "source_example": "Sie ist eine berühmte Künstlerin.",
+      "target_example": "She is a famous artist.",
+      "topic": "culture",
+      "level": "A1"
+    },
+    {
+      "base_word": "culture",
+      "source_word": "Kultur",
+      "target_word": "culture",
+      "source_phonetic": "/kʊlˈtuːɐ̯/",
+      "target_phonetic": "/ˈkʌltʃə/",
+      "source_example": "Das Studium der japanischen Sprache und Kultur.",
+      "target_example": "The study of Japanese language and culture.",
+      "topic": "culture",
+      "level": "A1"
+    },
+    {
+      "base_word": "famous",
+      "source_word": "berühmt",
+      "target_word": "famous",
+      "source_phonetic": "/bəˈʁyːmt/",
+      "target_phonetic": "/ˈfeɪməs/",
+      "source_example": "Sie ist eine berühmte Schauspielerin.",
+      "target_example": "She is a famous actress.",
+      "topic": "culture",
+      "level": "A1"
+    }
+  ]
+}

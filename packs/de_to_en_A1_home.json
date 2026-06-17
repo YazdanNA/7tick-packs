@@ -1,0 +1,129 @@
+{
+  "id": "de_to_en_A1__home",
+  "source": "de",
+  "target": "en",
+  "group": "A1__home",
+  "words": [
+    {
+      "base_word": "apartment",
+      "source_word": "Wohnung",
+      "target_word": "apartment",
+      "source_phonetic": "/ˈvoːnʊŋ/",
+      "target_phonetic": "/əˈpɑːrtmənt/",
+      "source_example": "Ich wohne in einer kleinen Wohnung.",
+      "target_example": "I live in a small apartment.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bath",
+      "source_word": "Badewanne",
+      "target_word": "bath",
+      "source_phonetic": "/ˈbaːdəvanə/",
+      "target_phonetic": "/bæθ/",
+      "source_example": "Ich bin in der Badewanne.",
+      "target_example": "I'm in the bath.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bathroom",
+      "source_word": "Badezimmer",
+      "target_word": "bathroom",
+      "source_phonetic": "/ˈbaːdətsɪmɐ/",
+      "target_phonetic": "/ˈbæθrʊm/",
+      "source_example": "Geh und wasch dir im Badezimmer die Hände.",
+      "target_example": "Go and wash your hands in the bathroom.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bed",
+      "source_word": "Bett",
+      "target_word": "bed",
+      "source_phonetic": "/bɛt/",
+      "target_phonetic": "/bed/",
+      "source_example": "Ich bin müde – ich gehe ins Bett.",
+      "target_example": "I'm tired—I'm going to bed.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bedroom",
+      "source_word": "Schlafzimmer",
+      "target_word": "bedroom",
+      "source_phonetic": "/ˈʃlaːfˌtsɪmɐ/",
+      "target_phonetic": "/ˈbedrʊm/",
+      "source_example": "Das ist das Hauptschlafzimmer.",
+      "target_example": "This is the master bedroom.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "chair",
+      "source_word": "Stuhl",
+      "target_word": "chair",
+      "source_phonetic": "/ʃtuːl/",
+      "target_phonetic": "/tʃer/",
+      "source_example": "Setz dich auf deinen Stuhl!",
+      "target_example": "Sit on your chair!",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "desk",
+      "source_word": "Schreibtisch",
+      "target_word": "desk",
+      "source_phonetic": "/ˈʃʁaɪptɪʃ/",
+      "target_phonetic": "/desk/",
+      "source_example": "Ich sitze den ganzen Tag am Schreibtisch.",
+      "target_example": "I spend all day sitting at a desk.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "door",
+      "source_word": "Tür",
+      "target_word": "door",
+      "source_phonetic": "/tyːɐ̯/",
+      "target_phonetic": "/dɔː/",
+      "source_example": "Öffne die Tür!",
+      "target_example": "Open the door!",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "downstairs",
+      "source_word": "unten",
+      "target_word": "downstairs",
+      "source_phonetic": "/ˈʊntən/",
+      "target_phonetic": "/ˌdaʊnˈsteəz/",
+      "source_example": "Ich ging nach unten und schaute fern.",
+      "target_example": "I went downstairs and watched TV.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "flat",
+      "source_word": "Wohnung",
+      "target_word": "flat",
+      "source_phonetic": "/ˈvoːnʊŋ/",
+      "target_phonetic": "/flæt/",
+      "source_example": "Sie wohnen in einer Wohnung.",
+      "target_example": "They live in a flat.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "floor",
+      "source_word": "Boden",
+      "target_word": "floor",
+      "source_phonetic": "/ˈboːdn̩/",
+      "target_phonetic": "/flɔːr/",
+      "source_example": "Sein Glas fiel zu Boden und zerbrach.",
+      "target_example": "His glass fell to the floor and broke.",
+      "topic": "home",
+      "level": "A1"
+    }
+  ]
+}

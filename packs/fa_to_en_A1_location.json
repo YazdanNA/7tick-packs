@@ -1,0 +1,184 @@
+{
+  "id": "fa_to_en_A1__location",
+  "source": "fa",
+  "target": "en",
+  "group": "A1__location",
+  "words": [
+    {
+      "base_word": "area",
+      "source_word": "منطقه",
+      "target_word": "area",
+      "source_phonetic": "mantaghe",
+      "target_phonetic": "/ˈeriə/",
+      "source_example": "این منطقه خیلی ساکت است.",
+      "target_example": "This area is very quiet.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "around",
+      "source_word": "دور",
+      "target_word": "around",
+      "source_phonetic": "dowr",
+      "target_phonetic": "/əˈraʊnd/",
+      "source_example": "او دست‌هایش را دور من حلقه کرد.",
+      "target_example": "She put her arms around me.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "at",
+      "source_word": "در (مکان)",
+      "target_word": "at",
+      "source_phonetic": "dar (makān)",
+      "target_phonetic": "/æt/",
+      "source_example": "من در خانه هستم.",
+      "target_example": "I'm at home.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "away",
+      "source_word": "دور",
+      "target_word": "away",
+      "source_phonetic": "dur",
+      "target_phonetic": "/əˈweɪ/",
+      "source_example": "ایستگاه پنج دقیقه دور است.",
+      "target_example": "The station is five minutes away.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "behind",
+      "source_word": "عقب",
+      "target_word": "behind",
+      "source_phonetic": "ʻaqab",
+      "target_phonetic": "/bɪˈhaɪnd/",
+      "source_example": "او سوار شد و سگ پشت سرش می‌دوید.",
+      "target_example": "She rode off with the dog running behind.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "behind",
+      "source_word": "پشت",
+      "target_word": "behind",
+      "source_phonetic": "posht",
+      "target_phonetic": "/bɪˈhaɪnd/",
+      "source_example": "دختری که پشت جان ایستاده کیست؟",
+      "target_example": "Who's the girl standing behind Jan?",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "below",
+      "source_word": "پایین‌تر",
+      "target_word": "below",
+      "source_phonetic": "pāyin-tar",
+      "target_phonetic": "/bɪˈləʊ/",
+      "source_example": "آن‌ها در طبقه پایین‌تر زندگی می‌کنند.",
+      "target_example": "They live on the floor below.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "below",
+      "source_word": "زیر",
+      "target_word": "below",
+      "source_phonetic": "zir",
+      "target_phonetic": "/bɪˈləʊ/",
+      "source_example": "او به زیر سطح آب شیرجه زد.",
+      "target_example": "He dived below the surface of the water.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "between",
+      "source_word": "بین",
+      "target_word": "between",
+      "source_phonetic": "beyn",
+      "target_phonetic": "/bɪˈtwiːn/",
+      "source_example": "من بین جو و دایانا نشستم.",
+      "target_example": "I sat down between Jo and Diana.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "centre",
+      "source_word": "مرکز",
+      "target_word": "centre",
+      "source_phonetic": "markaz",
+      "target_phonetic": "/ˈsentər/",
+      "source_example": "یک میز بلند در مرکز اتاق بود.",
+      "target_example": "There was a long table in the centre of the room.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "down",
+      "source_word": "پایین",
+      "target_word": "down",
+      "source_phonetic": "pāyin",
+      "target_phonetic": "/daʊn/",
+      "source_example": "او از روی صندلی پایین پرید.",
+      "target_example": "She jumped down off the chair.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "down",
+      "source_word": "پایین",
+      "target_word": "down",
+      "source_phonetic": "pāyin",
+      "target_phonetic": "/daʊn/",
+      "source_example": "سنگ از تپه پایین غلتید.",
+      "target_example": "The stone rolled down the hill.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "شرقی",
+      "target_word": "east",
+      "source_phonetic": "sharqi",
+      "target_phonetic": "/iːst/",
+      "source_example": "آن‌ها در ساحل شرقی زندگی می‌کنند.",
+      "target_example": "They live on the east coast.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "به سمت شرق",
+      "target_word": "east",
+      "source_phonetic": "be samt-e sharq",
+      "target_phonetic": "/iːst/",
+      "source_example": "خانه رو به شرق است.",
+      "target_example": "The house faces east.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "شرق",
+      "target_word": "east",
+      "source_phonetic": "sharq",
+      "target_phonetic": "/iːst/",
+      "source_example": "شرق کدام طرف است؟",
+      "target_example": "Which way is east?",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "far",
+      "source_word": "دور",
+      "target_word": "far",
+      "source_phonetic": "dur",
+      "target_phonetic": "/fɑː/",
+      "source_example": "ایستگاه از اینجا دور نیست.",
+      "target_example": "The station is not far from here.",
+      "topic": "location",
+      "level": "A1"
+    }
+  ]
+}

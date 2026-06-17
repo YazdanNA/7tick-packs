@@ -1,0 +1,30 @@
+{
+  "id": "de_to_fr_A1__weather",
+  "source": "de",
+  "target": "fr",
+  "group": "A1__weather",
+  "words": [
+    {
+      "base_word": "cold",
+      "source_word": "kalt",
+      "target_word": "froid",
+      "source_phonetic": "/kalt/",
+      "target_phonetic": "/fʁwa/",
+      "source_example": "Mir ist kalt. Dreh die Heizung auf.",
+      "target_example": "J'ai froid. Augmente le chauffage.",
+      "topic": "weather",
+      "level": "A1"
+    },
+    {
+      "base_word": "cool",
+      "source_word": "kühl",
+      "target_word": "frais",
+      "source_phonetic": "/kyːl/",
+      "target_phonetic": "/fʁɛ/",
+      "source_example": "Für das Wochenende wird kühleres Wetter vorhergesagt.",
+      "target_example": "Un temps plus frais est prévu pour le week-end.",
+      "topic": "weather",
+      "level": "A1"
+    }
+  ]
+}

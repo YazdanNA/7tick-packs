@@ -1,0 +1,41 @@
+{
+  "id": "en_to_de_A1__shopping",
+  "source": "en",
+  "target": "de",
+  "group": "A1__shopping",
+  "words": [
+    {
+      "base_word": "bag",
+      "source_word": "bag",
+      "target_word": "Tasche",
+      "source_phonetic": "/bæɡ/",
+      "target_phonetic": "/ˈtaʃə/",
+      "source_example": "He carried a heavy bag.",
+      "target_example": "Er trug eine schwere Tasche.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "buy",
+      "source_word": "buy",
+      "target_word": "kaufen",
+      "source_phonetic": "/baɪ/",
+      "target_phonetic": "/ˈkaʊfən/",
+      "source_example": "I want to buy a new phone.",
+      "target_example": "Ich möchte ein neues Handy kaufen.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheap",
+      "source_word": "cheap",
+      "target_word": "billig",
+      "source_phonetic": "/tʃiːp/",
+      "target_phonetic": "/ˈbɪlɪç/",
+      "source_example": "Cycling is a cheap way to get around.",
+      "target_example": "Radfahren ist eine billige Art, sich fortzubewegen.",
+      "topic": "shopping",
+      "level": "A1"
+    }
+  ]
+}

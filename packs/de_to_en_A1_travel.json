@@ -1,0 +1,96 @@
+{
+  "id": "de_to_en_A1__travel",
+  "source": "de",
+  "target": "en",
+  "group": "A1__travel",
+  "words": [
+    {
+      "base_word": "airport",
+      "source_word": "Flughafen",
+      "target_word": "airport",
+      "source_phonetic": "/ˈfluːkhaːfən/",
+      "target_phonetic": "/ˈerpɔːrt/",
+      "source_example": "Wir kamen zwei Stunden früher am Flughafen an.",
+      "target_example": "We arrived at the airport two hours early.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "arrive",
+      "source_word": "ankommen",
+      "target_word": "arrive",
+      "source_phonetic": "/ˈankɔmən/",
+      "target_phonetic": "/əˈraɪv/",
+      "source_example": "Sie kommen um 8 am Bahnhof an.",
+      "target_example": "They arrive at the station at 8.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "beach",
+      "source_word": "Strand",
+      "target_word": "beach",
+      "source_phonetic": "/ʃtʁant/",
+      "target_phonetic": "/biːtʃ/",
+      "source_example": "Wir verbrachten den Tag am Strand.",
+      "target_example": "We spent the day at the beach.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "by",
+      "source_word": "mit",
+      "target_word": "by",
+      "source_phonetic": "/mɪt/",
+      "target_phonetic": "/baɪ/",
+      "source_example": "Wir reisten mit dem Auto.",
+      "target_example": "We traveled by car.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "capital",
+      "source_word": "Hauptstadt",
+      "target_word": "capital",
+      "source_phonetic": "/ˈhaʊptʃtat/",
+      "target_phonetic": "/ˈkæpɪtl/",
+      "source_example": "Kairo ist die Hauptstadt von Ägypten.",
+      "target_example": "Cairo is the capital of Egypt.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "city",
+      "source_word": "Stadt",
+      "target_word": "city",
+      "source_phonetic": "/ʃtat/",
+      "target_phonetic": "/ˈsɪti/",
+      "source_example": "Wir leben in einer großen Stadt.",
+      "target_example": "We live in a big city.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "country",
+      "source_word": "Land",
+      "target_word": "country",
+      "source_phonetic": "/lant/",
+      "target_phonetic": "/ˈkʌntri/",
+      "source_example": "Sie wusste nicht, wie das Leben in einem fremden Land sein würde.",
+      "target_example": "She didn't know what life in a foreign country would be like.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "flight",
+      "source_word": "Flug",
+      "target_word": "flight",
+      "source_phonetic": "/fluːk/",
+      "target_phonetic": "/flaɪt/",
+      "source_example": "Wir trafen uns auf einem Flug von London nach Paris.",
+      "target_example": "We met on a flight from London to Paris.",
+      "topic": "travel",
+      "level": "A1"
+    }
+  ]
+}

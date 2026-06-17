@@ -1,0 +1,250 @@
+{
+  "id": "de_to_fa_A1__time",
+  "source": "de",
+  "target": "fa",
+  "group": "A1__time",
+  "words": [
+    {
+      "base_word": "ago",
+      "source_word": "vor",
+      "target_word": "پیش",
+      "source_phonetic": "/foːɐ̯/",
+      "target_phonetic": "pish",
+      "source_example": "Ich habe ihn vor zwei Wochen gesehen.",
+      "target_example": "او را دو هفته پیش دیدم.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "always",
+      "source_word": "immer",
+      "target_word": "همیشه",
+      "source_phonetic": "/ˈɪmɐ/",
+      "target_phonetic": "hamishe",
+      "source_example": "Sie wacht immer früh auf.",
+      "target_example": "او همیشه زود بیدار می‌شود.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "April",
+      "source_word": "April",
+      "target_word": "آوریل",
+      "source_phonetic": "/aˈpʁɪl/",
+      "target_phonetic": "āvril",
+      "source_example": "Mein Geburtstag ist im April.",
+      "target_example": "تولد من در آوریل است.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "around",
+      "source_word": "ungefähr",
+      "target_word": "حدود",
+      "source_phonetic": "/ˈʊnɡəfɛːɐ/",
+      "target_phonetic": "hodud",
+      "source_example": "Ich komme ungefähr um fünf Uhr.",
+      "target_example": "حدود ساعت پنج می‌آیم.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "at",
+      "source_word": "um",
+      "target_word": "ساعت",
+      "source_phonetic": "/ʊm/",
+      "target_phonetic": "sā'at",
+      "source_example": "Die Sitzung beginnt um 3.",
+      "target_example": "جلسه ساعت ۳ شروع می‌شود.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "August",
+      "source_word": "August",
+      "target_word": "اوت",
+      "source_phonetic": "/ˈaʊɡʊst/",
+      "target_phonetic": "ut",
+      "source_example": "Wir fahren im August in den Urlaub.",
+      "target_example": "ما در اوت به تعطیلات می‌رویم.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "autumn",
+      "source_word": "Herbst",
+      "target_word": "پاییز",
+      "source_phonetic": "/hɛʁpst/",
+      "target_phonetic": "pāyiz",
+      "source_example": "Im Herbst fallen die Blätter.",
+      "target_example": "برگ‌ها در پاییز می‌ریزند.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "before",
+      "source_word": "vor",
+      "target_word": "قبل از",
+      "source_phonetic": "/foːɐ̯/",
+      "target_phonetic": "qabl az",
+      "source_example": "Er kam vor mir an.",
+      "target_example": "او قبل از من رسید.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "beginning",
+      "source_word": "Anfang",
+      "target_word": "آغاز",
+      "source_phonetic": "/ˈanfaŋ/",
+      "target_phonetic": "āghāz",
+      "source_example": "Wir haben den Anfang des Films verpasst.",
+      "target_example": "ما ابتدای فیلم را از دست دادیم.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "birthday",
+      "source_word": "Geburtstag",
+      "target_word": "تولد",
+      "source_phonetic": "/ɡəˈbuːɐ̯tsˌtaːk/",
+      "target_phonetic": "tavalod",
+      "source_example": "Alles Gute zum Geburtstag!",
+      "target_example": "تولدت مبارک!",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "century",
+      "source_word": "Jahrhundert",
+      "target_word": "قرن",
+      "source_phonetic": "/jaːɐ̯ˈhʊndɐt/",
+      "target_phonetic": "qarn",
+      "source_example": "Vor einem Jahrhundert war Valparaiso der wichtigste Hafen des Landes.",
+      "target_example": "یک قرن پیش، والپارایسو بندر اصلی کشور بود.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "clock",
+      "source_word": "Uhr",
+      "target_word": "ساعت",
+      "source_phonetic": "/uːɐ̯/",
+      "target_phonetic": "sā'at",
+      "source_example": "Die Uhr schlug zwölf.",
+      "target_example": "ساعت دوازده را زد.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "date",
+      "source_word": "Datum",
+      "target_word": "تاریخ",
+      "source_phonetic": "/ˈdaːtʊm/",
+      "target_phonetic": "tārikh",
+      "source_example": "Welches Datum haben wir heute?",
+      "target_example": "امروز چه تاریخی است؟",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "day",
+      "source_word": "Tag",
+      "target_word": "روز",
+      "source_phonetic": "/taːk/",
+      "target_phonetic": "ruz",
+      "source_example": "Welcher Tag ist heute?",
+      "target_example": "امروز چه روزی است؟",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "December",
+      "source_word": "Dezember",
+      "target_word": "دسامبر",
+      "source_phonetic": "/deˈtsɛmbɐ/",
+      "target_phonetic": "desāmbr",
+      "source_example": "Sie wurde im Dezember geboren.",
+      "target_example": "او در دسامبر به دنیا آمد.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "during",
+      "source_word": "während",
+      "target_word": "در طول",
+      "source_phonetic": "/ˈvɛːʁənt/",
+      "target_phonetic": "dar tul",
+      "source_example": "Bitte bleiben Sie während der Vorstellung sitzen.",
+      "target_example": "لطفاً در طول اجرا نشسته بمانید.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "early",
+      "source_word": "früh",
+      "target_word": "اوایل",
+      "source_phonetic": "/fʁyː/",
+      "target_phonetic": "avāyel",
+      "source_example": "der frühe Morgen",
+      "target_example": "اوایل صبح",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "early",
+      "source_word": "früh",
+      "target_word": "زود",
+      "source_phonetic": "/fʁyː/",
+      "target_phonetic": "zud",
+      "source_example": "Wir kamen am nächsten Tag früh an.",
+      "target_example": "ما روز بعد زود رسیدیم.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "end",
+      "source_word": "Ende",
+      "target_word": "پایان",
+      "source_phonetic": "/ˈɛndə/",
+      "target_phonetic": "pāyān",
+      "source_example": "Das Ende des Buches war sehr traurig.",
+      "target_example": "پایان کتاب خیلی غم‌انگیز بود.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "evening",
+      "source_word": "Abend",
+      "target_word": "عصر",
+      "source_phonetic": "/ˈaːbənt/",
+      "target_phonetic": "asr",
+      "source_example": "Was machst du normalerweise am Abend?",
+      "target_example": "معمولاً عصرها چه کار می‌کنی؟",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "February",
+      "source_word": "Februar",
+      "target_word": "فوریه",
+      "source_phonetic": "/ˈfeːbʁuaːɐ̯/",
+      "target_phonetic": "fevriye",
+      "source_example": "Sie wurde im Februar geboren.",
+      "target_example": "او در فوریه به دنیا آمد.",
+      "topic": "time",
+      "level": "A1"
+    },
+    {
+      "base_word": "Friday",
+      "source_word": "Freitag",
+      "target_word": "جمعه",
+      "source_phonetic": "/ˈfʁaɪtaːk/",
+      "target_phonetic": "jom'e",
+      "source_example": "Heute ist Freitag, nicht wahr?",
+      "target_example": "امروز جمعه است، نه؟",
+      "topic": "time",
+      "level": "A1"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "en_to_de_A1__sports",
+  "source": "en",
+  "target": "de",
+  "group": "A1__sports",
+  "words": [
+    {
+      "base_word": "ball",
+      "source_word": "ball",
+      "target_word": "Ball",
+      "source_phonetic": "/bɔːl/",
+      "target_phonetic": "/bal/",
+      "source_example": "He kicked the ball into the net.",
+      "target_example": "Er schoss den Ball ins Tor.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "climb",
+      "source_word": "climb",
+      "target_word": "steigen",
+      "source_phonetic": "/klaɪm/",
+      "target_phonetic": "/ˈʃtaɪɡən/",
+      "source_example": "She climbed up the stairs.",
+      "target_example": "Sie stieg die Treppe hinauf.",
+      "topic": "sports",
+      "level": "A1"
+    },
+    {
+      "base_word": "football",
+      "source_word": "football",
+      "target_word": "Fußball",
+      "source_phonetic": "/ˈfʊtbɔːl/",
+      "target_phonetic": "/ˈfuːsbal/",
+      "source_example": "The kids were outside playing football.",
+      "target_example": "Die Kinder spielten draußen Fußball.",
+      "topic": "sports",
+      "level": "A1"
+    }
+  ]
+}

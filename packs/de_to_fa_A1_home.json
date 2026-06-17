@@ -1,0 +1,129 @@
+{
+  "id": "de_to_fa_A1__home",
+  "source": "de",
+  "target": "fa",
+  "group": "A1__home",
+  "words": [
+    {
+      "base_word": "apartment",
+      "source_word": "Wohnung",
+      "target_word": "آپارتمان",
+      "source_phonetic": "/ˈvoːnʊŋ/",
+      "target_phonetic": "āpārtemān",
+      "source_example": "Ich wohne in einer kleinen Wohnung.",
+      "target_example": "من در یک آپارتمان کوچک زندگی می‌کنم.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bath",
+      "source_word": "Badewanne",
+      "target_word": "وان حمام",
+      "source_phonetic": "/ˈbaːdəvanə/",
+      "target_phonetic": "vān-e hammām",
+      "source_example": "Ich bin in der Badewanne.",
+      "target_example": "من در وان حمام هستم.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bathroom",
+      "source_word": "Badezimmer",
+      "target_word": "حمام",
+      "source_phonetic": "/ˈbaːdətsɪmɐ/",
+      "target_phonetic": "hammām",
+      "source_example": "Geh und wasch dir im Badezimmer die Hände.",
+      "target_example": "برو دست‌هایت را در حمام بشور.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bed",
+      "source_word": "Bett",
+      "target_word": "تخت",
+      "source_phonetic": "/bɛt/",
+      "target_phonetic": "takht",
+      "source_example": "Ich bin müde – ich gehe ins Bett.",
+      "target_example": "خسته‌ام—می‌خواهم بروم تخت.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "bedroom",
+      "source_word": "Schlafzimmer",
+      "target_word": "اتاق خواب",
+      "source_phonetic": "/ˈʃlaːfˌtsɪmɐ/",
+      "target_phonetic": "otāq-e khāb",
+      "source_example": "Das ist das Hauptschlafzimmer.",
+      "target_example": "این اتاق خواب اصلی است.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "chair",
+      "source_word": "Stuhl",
+      "target_word": "صندلی",
+      "source_phonetic": "/ʃtuːl/",
+      "target_phonetic": "sandali",
+      "source_example": "Setz dich auf deinen Stuhl!",
+      "target_example": "روی صندلی خود بنشین!",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "desk",
+      "source_word": "Schreibtisch",
+      "target_word": "میز",
+      "source_phonetic": "/ˈʃʁaɪptɪʃ/",
+      "target_phonetic": "miz",
+      "source_example": "Ich sitze den ganzen Tag am Schreibtisch.",
+      "target_example": "من تمام روز پشت میز می‌نشینم.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "door",
+      "source_word": "Tür",
+      "target_word": "در",
+      "source_phonetic": "/tyːɐ̯/",
+      "target_phonetic": "dar",
+      "source_example": "Öffne die Tür!",
+      "target_example": "در را باز کن!",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "downstairs",
+      "source_word": "unten",
+      "target_word": "پایین‌تر",
+      "source_phonetic": "/ˈʊntən/",
+      "target_phonetic": "pāyin-tar",
+      "source_example": "Ich ging nach unten und schaute fern.",
+      "target_example": "من به طبقه پایین رفتم و تلویزیون تماشا کردم.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "flat",
+      "source_word": "Wohnung",
+      "target_word": "آپارتمان",
+      "source_phonetic": "/ˈvoːnʊŋ/",
+      "target_phonetic": "āpārtemān",
+      "source_example": "Sie wohnen in einer Wohnung.",
+      "target_example": "آن‌ها در یک آپارتمان زندگی می‌کنند.",
+      "topic": "home",
+      "level": "A1"
+    },
+    {
+      "base_word": "floor",
+      "source_word": "Boden",
+      "target_word": "کف",
+      "source_phonetic": "/ˈboːdn̩/",
+      "target_phonetic": "kaf",
+      "source_example": "Sein Glas fiel zu Boden und zerbrach.",
+      "target_example": "لیوان او به کف زمین افتاد و شکست.",
+      "topic": "home",
+      "level": "A1"
+    }
+  ]
+}

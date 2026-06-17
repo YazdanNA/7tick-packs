@@ -1,0 +1,96 @@
+{
+  "id": "de_to_fa_A1__animals",
+  "source": "de",
+  "target": "fa",
+  "group": "A1__animals",
+  "words": [
+    {
+      "base_word": "animal",
+      "source_word": "Tier",
+      "target_word": "حیوان",
+      "source_phonetic": "/tiːɐ/",
+      "target_phonetic": "heyvān",
+      "source_example": "Hunde sind meine Lieblingstiere.",
+      "target_example": "سگ‌ها حیوانات مورد علاقه من هستند.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "bird",
+      "source_word": "Vogel",
+      "target_word": "پرنده",
+      "source_phonetic": "/ˈfoːɡl̩/",
+      "target_phonetic": "parande",
+      "source_example": "Vögel sangen in den Bäumen.",
+      "target_example": "پرنده‌ها در درختان آواز می‌خواندند.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "cat",
+      "source_word": "Katze",
+      "target_word": "گربه",
+      "source_phonetic": "/ˈkatsə/",
+      "target_phonetic": "gorbe",
+      "source_example": "Ich habe eine Katze namens Bo.",
+      "target_example": "من یک گربه به نام بو دارم.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "chicken",
+      "source_word": "Huhn",
+      "target_word": "مرغ",
+      "source_phonetic": "/huːn/",
+      "target_phonetic": "morgh",
+      "source_example": "Sie halten Hühner im Hinterhof.",
+      "target_example": "آن‌ها در حیاط خلوت مرغ نگهداری می‌کنند.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "cow",
+      "source_word": "Kuh",
+      "target_word": "گاو",
+      "source_phonetic": "/kuː/",
+      "target_phonetic": "gāv",
+      "source_example": "Sie halten Kühe auf dem Bauernhof.",
+      "target_example": "آن‌ها در مزرعه گاو نگهداری می‌کنند.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "dog",
+      "source_word": "Hund",
+      "target_word": "سگ",
+      "source_phonetic": "/hʊnt/",
+      "target_phonetic": "sag",
+      "source_example": "Ich habe den Hund ausgeführt.",
+      "target_example": "من سگ را برای پیاده‌روی بردم.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "elephant",
+      "source_word": "Elefant",
+      "target_word": "فیل",
+      "source_phonetic": "/eleˈfant/",
+      "target_phonetic": "fil",
+      "source_example": "Elefanten sind sehr große Tiere.",
+      "target_example": "فیل‌ها حیوانات بسیار بزرگی هستند.",
+      "topic": "animals",
+      "level": "A1"
+    },
+    {
+      "base_word": "fish",
+      "source_word": "Fisch",
+      "target_word": "ماهی",
+      "source_phonetic": "/fɪʃ/",
+      "target_phonetic": "māhi",
+      "source_example": "Wir haben mehrere Fische gefangen.",
+      "target_example": "ما چند ماهی گرفتیم.",
+      "topic": "animals",
+      "level": "A1"
+    }
+  ]
+}

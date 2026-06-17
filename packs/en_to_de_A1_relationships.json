@@ -1,0 +1,41 @@
+{
+  "id": "en_to_de_A1__relationships",
+  "source": "en",
+  "target": "de",
+  "group": "A1__relationships",
+  "words": [
+    {
+      "base_word": "boyfriend",
+      "source_word": "boyfriend",
+      "target_word": "Freund",
+      "source_phonetic": "/ˈbɔɪfrend/",
+      "target_phonetic": "/fʁɔʏnt/",
+      "source_example": "She has a new boyfriend.",
+      "target_example": "Sie hat einen neuen Freund.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friend",
+      "source_word": "friend",
+      "target_word": "Freund",
+      "source_phonetic": "/frend/",
+      "target_phonetic": "/fʁɔʏnt/",
+      "source_example": "This is my friend Tom.",
+      "target_example": "Das ist mein Freund Tom.",
+      "topic": "relationships",
+      "level": "A1"
+    },
+    {
+      "base_word": "friendly",
+      "source_word": "friendly",
+      "target_word": "freundlich",
+      "source_phonetic": "/ˈfrendli/",
+      "target_phonetic": "/ˈfʁɔʏntlɪç/",
+      "source_example": "Everyone was very friendly towards me.",
+      "target_example": "Alle waren mir gegenüber sehr freundlich.",
+      "topic": "relationships",
+      "level": "A1"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "de_to_en_A1__weather",
+  "source": "de",
+  "target": "en",
+  "group": "A1__weather",
+  "words": [
+    {
+      "base_word": "cold",
+      "source_word": "kalt",
+      "target_word": "cold",
+      "source_phonetic": "/kalt/",
+      "target_phonetic": "/kəʊld/",
+      "source_example": "Mir ist kalt. Dreh die Heizung auf.",
+      "target_example": "I'm cold. Turn the heating up.",
+      "topic": "weather",
+      "level": "A1"
+    },
+    {
+      "base_word": "cool",
+      "source_word": "kühl",
+      "target_word": "cool",
+      "source_phonetic": "/kyːl/",
+      "target_phonetic": "/kuːl/",
+      "source_example": "Für das Wochenende wird kühleres Wetter vorhergesagt.",
+      "target_example": "Cooler weather is forecast for the weekend.",
+      "topic": "weather",
+      "level": "A1"
+    }
+  ]
+}

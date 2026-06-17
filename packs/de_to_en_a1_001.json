@@ -1,0 +1,188 @@
+{
+  "id": "de_to_en_a1_001",
+  "source": "de",
+  "target": "en",
+  "level": "A1",
+  "words": [
+    {
+      "source_word": "ein",
+      "target_word": "a",
+      "source_phonetic": "/aɪn/",
+      "target_phonetic": "/eɪ/",
+      "source_example": "Ich sah einen Mann.",
+      "target_example": "I saw a man.",
+      "base_word": "a"
+    },
+    {
+      "source_word": "ungefähr",
+      "target_word": "about",
+      "source_phonetic": "/ˈʊnɡəfɛːɐ/",
+      "target_phonetic": "/əˈbaʊt/",
+      "source_example": "Es kostet etwa 10 Dollar.",
+      "target_example": "It costs about $10.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "über",
+      "target_word": "about",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "/əˈbaʊt/",
+      "source_example": "Ich habe ein Buch über Blumen gelesen.",
+      "target_example": "I read a book about flowers.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "oben",
+      "target_word": "above",
+      "source_phonetic": "/ˈoːbən/",
+      "target_phonetic": "/əˈbʌv/",
+      "source_example": "Stell es auf das obere Regal.",
+      "target_example": "Put it on the shelf above.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "über",
+      "target_word": "above",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "/əˈbʌv/",
+      "source_example": "Das Wasser kam über unsere Knie.",
+      "target_example": "The water came above our knees.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "hinüber",
+      "target_word": "across",
+      "source_phonetic": "/hɪˈnyːbɐ/",
+      "target_phonetic": "/əˈkrɔːs/",
+      "source_example": "Wir können nicht hinüberschwimmen – es ist zu breit.",
+      "target_example": "We can't swim across—it's too wide.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "über",
+      "target_word": "across",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "/əˈkrɔːs/",
+      "source_example": "Er ging über das Feld.",
+      "target_example": "He walked across the field.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "Maßnahme",
+      "target_word": "action",
+      "source_phonetic": "/ˈmaːsnaːmə/",
+      "target_phonetic": "/ˈækʃn/",
+      "source_example": "Die Feuerwehrleute ergriffen sofort Maßnahmen.",
+      "target_example": "Firefighters took action immediately.",
+      "base_word": "action"
+    },
+    {
+      "source_word": "Aktivität",
+      "target_word": "activity",
+      "source_phonetic": "/aktiˈviːtɛːt/",
+      "target_phonetic": "/ækˈtɪvəti/",
+      "source_example": "Der Club bietet viele Aktivitäten wie Tennis und Schwimmen.",
+      "target_example": "The club offers many activities, like tennis and swimming.",
+      "base_word": "activity"
+    },
+    {
+      "source_word": "Schauspieler",
+      "target_word": "actor",
+      "source_phonetic": "/ˈʃaʊʃpiːlɐ/",
+      "target_phonetic": "/ˈæktər/",
+      "source_example": "Beide Hauptdarsteller lieferten hervorragende Leistungen.",
+      "target_example": "Both lead actors gave outstanding performances.",
+      "base_word": "actor"
+    },
+    {
+      "source_word": "Schauspielerin",
+      "target_word": "actress",
+      "source_phonetic": "/ˈʃaʊʃpiːləʁɪn/",
+      "target_phonetic": "/ˈæktrəs/",
+      "source_example": "Die oscarprämierte Schauspielerin macht eine Pause vom Drehen.",
+      "target_example": "The Oscar-winning actress is taking a break from filming.",
+      "base_word": "actress"
+    },
+    {
+      "source_word": "hinzufügen",
+      "target_word": "add",
+      "source_phonetic": "/hɪnˈtsuːfyːɡən/",
+      "target_phonetic": "/æd/",
+      "source_example": "Das Mehl zur Schüssel geben und gut mischen.",
+      "target_example": "Add the flour to the bowl and mix well.",
+      "base_word": "add"
+    },
+    {
+      "source_word": "Adresse",
+      "target_word": "address",
+      "source_phonetic": "/aˈdʁɛsə/",
+      "target_phonetic": "/əˈdres/",
+      "source_example": "Könntest du deine Adresse und Telefonnummer aufschreiben?",
+      "target_example": "Could you write down your address and phone number?",
+      "base_word": "address"
+    },
+    {
+      "source_word": "Erwachsener",
+      "target_word": "adult",
+      "source_phonetic": "/ɛɐˈvaksənɐ/",
+      "target_phonetic": "/ˈædʌlt/",
+      "source_example": "Kinder müssen von einem Erwachsenen begleitet werden.",
+      "target_example": "Children must be accompanied by an adult.",
+      "base_word": "adult"
+    },
+    {
+      "source_word": "Rat",
+      "target_word": "advice",
+      "source_phonetic": "/ʁaːt/",
+      "target_phonetic": "/ədˈvaɪs/",
+      "source_example": "Lass mich dir einen Rat geben: Überprüfe immer zweimal.",
+      "target_example": "Let me give you a piece of advice: always double-check.",
+      "base_word": "advice"
+    },
+    {
+      "source_word": "ängstlich",
+      "target_word": "afraid",
+      "source_phonetic": "/ˈɛŋstlɪç/",
+      "target_phonetic": "/əˈfreɪd/",
+      "source_example": "Hab keine Angst – es ist völlig sicher.",
+      "target_example": "Don't be afraid—it's perfectly safe.",
+      "base_word": "afraid"
+    },
+    {
+      "source_word": "nach",
+      "target_word": "after",
+      "source_phonetic": "/naːx/",
+      "target_phonetic": "/ˈæftər/",
+      "source_example": "Wir gehen nach dem Mittagessen.",
+      "target_example": "We'll leave after lunch.",
+      "base_word": "after"
+    },
+    {
+      "source_word": "Nachmittag",
+      "target_word": "afternoon",
+      "source_phonetic": "/ˈnaːxmɪtaːk/",
+      "target_phonetic": "/ˌæftərˈnuːn/",
+      "source_example": "Am Nachmittag gingen wir einkaufen.",
+      "target_example": "We went shopping in the afternoon.",
+      "base_word": "afternoon"
+    },
+    {
+      "source_word": "wieder",
+      "target_word": "again",
+      "source_phonetic": "/ˈviːdɐ/",
+      "target_phonetic": "/əˈɡeɪn/",
+      "source_example": "Versuche es noch einmal – Übung macht den Meister.",
+      "target_example": "Try again—practice makes perfect.",
+      "base_word": "again"
+    },
+    {
+      "source_word": "Alter",
+      "target_word": "age",
+      "source_phonetic": "/ˈaltɐ/",
+      "target_phonetic": "/eɪdʒ/",
+      "source_example": "Du bist im gleichen Alter wie mein Bruder.",
+      "target_example": "You're the same age as my brother.",
+      "base_word": "age"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "de_to_en_A1__food",
+  "source": "de",
+  "target": "en",
+  "group": "A1__food",
+  "words": [
+    {
+      "base_word": "apple",
+      "source_word": "Apfel",
+      "target_word": "apple",
+      "source_phonetic": "/ˈapfl̩/",
+      "target_phonetic": "/ˈæpl/",
+      "source_example": "Ich esse jeden Tag einen Apfel.",
+      "target_example": "I eat an apple every day.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "banana",
+      "source_word": "Banane",
+      "target_word": "banana",
+      "source_phonetic": "/baˈnaːnə/",
+      "target_phonetic": "/bəˈnænə/",
+      "source_example": "Ich habe ein Bündel Bananen gekauft.",
+      "target_example": "I bought a bunch of bananas.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "beer",
+      "source_word": "Bier",
+      "target_word": "beer",
+      "source_phonetic": "/biːɐ̯/",
+      "target_phonetic": "/bɪr/",
+      "source_example": "Ich hätte gerne ein Pint Bier.",
+      "target_example": "I'd like a pint of beer.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "bread",
+      "source_word": "Brot",
+      "target_word": "bread",
+      "source_phonetic": "/bʁoːt/",
+      "target_phonetic": "/bred/",
+      "source_example": "Ich esse Brot mit Butter.",
+      "target_example": "I eat bread with butter.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "breakfast",
+      "source_word": "Frühstück",
+      "target_word": "breakfast",
+      "source_phonetic": "/ˈfʁyːʃtʏk/",
+      "target_phonetic": "/ˈbrekfəst/",
+      "source_example": "Wir frühstücken um 8.",
+      "target_example": "We have breakfast at 8.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "butter",
+      "source_word": "Butter",
+      "target_word": "butter",
+      "source_phonetic": "/ˈbʊtɐ/",
+      "target_phonetic": "/ˈbʌtər/",
+      "source_example": "Ich streiche Butter auf mein Brot.",
+      "target_example": "I spread butter on my bread.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cafe",
+      "source_word": "Café",
+      "target_word": "cafe",
+      "source_phonetic": "/kaˈfeː/",
+      "target_phonetic": "/kæˈfeɪ/",
+      "source_example": "Wir tranken Kaffee in einem Café.",
+      "target_example": "We had coffee at a cafe.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cake",
+      "source_word": "Kuchen",
+      "target_word": "cake",
+      "source_phonetic": "/ˈkuːxn̩/",
+      "target_phonetic": "/keɪk/",
+      "source_example": "Ich habe einen Kuchen gebacken.",
+      "target_example": "I baked a cake.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "carrot",
+      "source_word": "Karotte",
+      "target_word": "carrot",
+      "source_phonetic": "/kaˈʁɔtə/",
+      "target_phonetic": "/ˈkærət/",
+      "source_example": "Ich habe ein Pfund Karotten gekauft.",
+      "target_example": "I bought a pound of carrots.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheese",
+      "source_word": "Käse",
+      "target_word": "cheese",
+      "source_phonetic": "/ˈkɛːzə/",
+      "target_phonetic": "/tʃiːz/",
+      "source_example": "Ich hatte zum Mittagessen Käsebrot.",
+      "target_example": "I had cheese on toast for lunch.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "chocolate",
+      "source_word": "Schokolade",
+      "target_word": "chocolate",
+      "source_phonetic": "/ʃokoˈlaːdə/",
+      "target_phonetic": "/ˈtʃɒklət/",
+      "source_example": "Ich habe eine Tafel Schokolade gekauft.",
+      "target_example": "I bought a chocolate bar.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "coffee",
+      "source_word": "Kaffee",
+      "target_word": "coffee",
+      "source_phonetic": "/kaˈfeː/",
+      "target_phonetic": "/ˈkɒfi/",
+      "source_example": "Ich hätte gerne eine Tasse Kaffee.",
+      "target_example": "I'd like a cup of coffee.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cook",
+      "source_word": "kochen",
+      "target_word": "cook",
+      "source_phonetic": "/ˈkɔxən/",
+      "target_phonetic": "/kʊk/",
+      "source_example": "Er hat für mich das Mittagessen gekocht.",
+      "target_example": "He cooked lunch for me.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cooking",
+      "source_word": "Kochen",
+      "target_word": "cooking",
+      "source_phonetic": "/ˈkɔxən/",
+      "target_phonetic": "/ˈkʊkɪŋ/",
+      "source_example": "Mein Mann macht das ganze Kochen.",
+      "target_example": "My husband does all the cooking.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cream",
+      "source_word": "Sahne",
+      "target_word": "cream",
+      "source_phonetic": "/ˈzaːnə/",
+      "target_phonetic": "/kriːm/",
+      "source_example": "Wir hatten Erdbeeren mit Sahne zum Nachtisch.",
+      "target_example": "We had strawberries and cream for dessert.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "delicious",
+      "source_word": "köstlich",
+      "target_word": "delicious",
+      "source_phonetic": "/ˈkœstlɪç/",
+      "target_phonetic": "/dɪˈlɪʃəs/",
+      "source_example": "Das Essen war köstlich.",
+      "target_example": "The food was delicious.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dinner",
+      "source_word": "Abendessen",
+      "target_word": "dinner",
+      "source_phonetic": "/ˈaːbəntˌɛsən/",
+      "target_phonetic": "/ˈdɪnə/",
+      "source_example": "Was sollen wir heute Abend zum Abendessen essen?",
+      "target_example": "What shall we have for dinner tonight?",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dish",
+      "source_word": "Schüssel",
+      "target_word": "dish",
+      "source_phonetic": "/ˈʃʏsəl/",
+      "target_phonetic": "/dɪʃ/",
+      "source_example": "Wir brauchen eine saubere Schüssel für die Pasta.",
+      "target_example": "We need a clean dish for the pasta.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dish",
+      "source_word": "Gericht",
+      "target_word": "dish",
+      "source_phonetic": "/ɡəˈʁɪçt/",
+      "target_phonetic": "/dɪʃ/",
+      "source_example": "Dieses Pastagericht ist köstlich.",
+      "target_example": "This pasta dish is delicious.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "drink",
+      "source_word": "Getränk",
+      "target_word": "drink",
+      "source_phonetic": "/ɡəˈtʁɛŋk/",
+      "target_phonetic": "/drɪŋk/",
+      "source_example": "Kann ich ein Getränk haben?",
+      "target_example": "Can I have a drink?",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "eat",
+      "source_word": "essen",
+      "target_word": "eat",
+      "source_phonetic": "/ˈɛsən/",
+      "target_phonetic": "/iːt/",
+      "source_example": "Ich esse kein Fleisch.",
+      "target_example": "I don't eat meat.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "egg",
+      "source_word": "Ei",
+      "target_word": "egg",
+      "source_phonetic": "/aɪ/",
+      "target_phonetic": "/eɡ/",
+      "source_example": "Die Fische legen Tausende von Eiern.",
+      "target_example": "The fish lay thousands of eggs.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "food",
+      "source_word": "Essen",
+      "target_word": "food",
+      "source_phonetic": "/ˈɛsən/",
+      "target_phonetic": "/fuːd/",
+      "source_example": "Magst du italienisches Essen?",
+      "target_example": "Do you like Italian food?",
+      "topic": "food",
+      "level": "A1"
+    }
+  ]
+}

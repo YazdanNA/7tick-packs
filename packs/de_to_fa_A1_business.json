@@ -1,0 +1,74 @@
+{
+  "id": "de_to_fa_A1__business",
+  "source": "de",
+  "target": "fa",
+  "group": "A1__business",
+  "words": [
+    {
+      "base_word": "bank",
+      "source_word": "Bank",
+      "target_word": "بانک",
+      "source_phonetic": "/baŋk/",
+      "target_phonetic": "bānk",
+      "source_example": "Ich muss zur Bank gehen.",
+      "target_example": "من باید به بانک بروم.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "bill",
+      "source_word": "Rechnung",
+      "target_word": "صورتحساب",
+      "source_phonetic": "/ˈʁɛçnʊŋ/",
+      "target_phonetic": "sūrat-e hesāb",
+      "source_example": "Sie bezahlt ihre Rechnungen immer pünktlich.",
+      "target_example": "او همیشه صورتحساب‌هایش را به موقع پرداخت می‌کند.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "business",
+      "source_word": "Geschäft",
+      "target_word": "کسب و کار",
+      "source_phonetic": "/ɡəˈʃɛft/",
+      "target_phonetic": "kasb o kār",
+      "source_example": "Sie führt ein kleines Geschäft.",
+      "target_example": "او یک کسب و کار کوچک راه‌اندازی می‌کند.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "chart",
+      "source_word": "Diagramm",
+      "target_word": "نمودار",
+      "source_phonetic": "/diaˈɡʁam/",
+      "target_phonetic": "nemudār",
+      "source_example": "Das beigefügte Diagramm zeigt Daten für acht Länder.",
+      "target_example": "نمودار همراه داده‌های هشت کشور را نشان می‌دهد.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "company",
+      "source_word": "Unternehmen",
+      "target_word": "شرکت",
+      "source_phonetic": "/ˌʊntɐˈneːmən/",
+      "target_phonetic": "šerkat",
+      "source_example": "Er arbeitet für ein großes Unternehmen.",
+      "target_example": "او برای یک شرکت بزرگ کار می‌کند.",
+      "topic": "business",
+      "level": "A1"
+    },
+    {
+      "base_word": "customer",
+      "source_word": "Kunde",
+      "target_word": "مشتری",
+      "source_phonetic": "/ˈkʊndə/",
+      "target_phonetic": "moštari",
+      "source_example": "Das Unternehmen belohnt treue Kunden.",
+      "target_example": "شرکت به مشتریان وفادار پاداش می‌دهد.",
+      "topic": "business",
+      "level": "A1"
+    }
+  ]
+}

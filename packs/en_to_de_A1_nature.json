@@ -1,0 +1,52 @@
+{
+  "id": "en_to_de_A1__nature",
+  "source": "en",
+  "target": "de",
+  "group": "A1__nature",
+  "words": [
+    {
+      "base_word": "air",
+      "source_word": "air",
+      "target_word": "Luft",
+      "source_phonetic": "/er/",
+      "target_phonetic": "/lʊft/",
+      "source_example": "Let's go out for some fresh air.",
+      "target_example": "Lass uns etwas frische Luft schnappen.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fire",
+      "source_word": "fire",
+      "target_word": "Feuer",
+      "source_phonetic": "/ˈfaɪə/",
+      "target_phonetic": "/ˈfɔʏɐ/",
+      "source_example": "The fire burned brightly.",
+      "target_example": "Das Feuer brannte hell.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "flower",
+      "source_word": "flower",
+      "target_word": "Blume",
+      "source_phonetic": "/ˈflaʊər/",
+      "target_phonetic": "/ˈbluːmə/",
+      "source_example": "The plant has a beautiful bright red flower.",
+      "target_example": "Die Pflanze hat eine schöne leuchtend rote Blume.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fly",
+      "source_word": "fly",
+      "target_word": "fliegen",
+      "source_phonetic": "/flaɪ/",
+      "target_phonetic": "/ˈfliːɡən/",
+      "source_example": "A stork flew slowly past.",
+      "target_example": "Ein Storch flog langsam vorbei.",
+      "topic": "nature",
+      "level": "A1"
+    }
+  ]
+}

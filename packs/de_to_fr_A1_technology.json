@@ -1,0 +1,107 @@
+{
+  "id": "de_to_fr_A1__technology",
+  "source": "de",
+  "target": "fr",
+  "group": "A1__technology",
+  "words": [
+    {
+      "base_word": "blog",
+      "source_word": "Blog",
+      "target_word": "blog",
+      "source_phonetic": "/blɔk/",
+      "target_phonetic": "/blɔɡ/",
+      "source_example": "Du kannst in meinem Blog über meine Reise lesen.",
+      "target_example": "Tu peux lire sur mon voyage dans mon blog.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "camera",
+      "source_word": "Kamera",
+      "target_word": "appareil photo",
+      "source_phonetic": "/ˈkaməʁa/",
+      "target_phonetic": "/apaʁɛj foto/",
+      "source_example": "Ich habe ein Foto mit meiner Kamera gemacht.",
+      "target_example": "J'ai pris une photo avec mon appareil photo.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "CD",
+      "source_word": "CD",
+      "target_word": "CD",
+      "source_phonetic": "/ˌtseːˈdeː/",
+      "target_phonetic": "/se de/",
+      "source_example": "Seine Alben sind auf CD erhältlich.",
+      "target_example": "Ses albums sont disponibles sur CD.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "computer",
+      "source_word": "Computer",
+      "target_word": "ordinateur",
+      "source_phonetic": "/kɔmˈpjuːtɐ/",
+      "target_phonetic": "/ɔʁdinatœʁ/",
+      "source_example": "Ich arbeite jeden Tag an meinem Computer.",
+      "target_example": "Je travaille sur mon ordinateur tous les jours.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "design",
+      "source_word": "Design",
+      "target_word": "design",
+      "source_phonetic": "/diˈzaɪn/",
+      "target_phonetic": "/di.zajn/",
+      "source_example": "Das grundlegende Design des Autos ist sehr gut.",
+      "target_example": "Le design de base de la voiture est très bon.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "design",
+      "source_word": "entwerfen",
+      "target_word": "concevoir",
+      "source_phonetic": "/ɛntˈvɛʁfən/",
+      "target_phonetic": "/kɔ̃.sə.vwaʁ/",
+      "source_example": "Er hat sein eigenes Haus entworfen und gebaut.",
+      "target_example": "Il a conçu et construit sa propre maison.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "DVD",
+      "source_word": "DVD",
+      "target_word": "DVD",
+      "source_phonetic": "/deː faʊ deː/",
+      "target_phonetic": "/de ve de/",
+      "source_example": "Lass uns eine DVD anschauen.",
+      "target_example": "Regardons un DVD.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "email",
+      "source_word": "E-Mail",
+      "target_word": "e-mail",
+      "source_phonetic": "/ˈiːmeɪl/",
+      "target_phonetic": "/i.mɛl/",
+      "source_example": "Ich werde dir eine E-Mail schicken.",
+      "target_example": "Je t'enverrai un e-mail.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "email",
+      "source_word": "mailen",
+      "target_word": "envoyer un e-mail",
+      "source_phonetic": "/ˈmeɪlən/",
+      "target_phonetic": "/ɑ̃.vwa.je œ̃ i.mɛl/",
+      "source_example": "Patrick hat mir gestern gemailt.",
+      "target_example": "Patrick m'a envoyé un e-mail hier.",
+      "topic": "technology",
+      "level": "A1"
+    }
+  ]
+}

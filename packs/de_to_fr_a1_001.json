@@ -1,0 +1,188 @@
+{
+  "id": "de_to_fr_a1_001",
+  "source": "de",
+  "target": "fr",
+  "level": "A1",
+  "words": [
+    {
+      "source_word": "ein",
+      "target_word": "un",
+      "source_phonetic": "/aɪn/",
+      "target_phonetic": "/œ̃/",
+      "source_example": "Ich sah einen Mann.",
+      "target_example": "J'ai vu un homme.",
+      "base_word": "a"
+    },
+    {
+      "source_word": "ungefähr",
+      "target_word": "environ",
+      "source_phonetic": "/ˈʊnɡəfɛːɐ/",
+      "target_phonetic": "/ɑ̃viʁɔ̃/",
+      "source_example": "Es kostet etwa 10 Dollar.",
+      "target_example": "Ça coûte environ 10 dollars.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "über",
+      "target_word": "sur",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "/syʁ/",
+      "source_example": "Ich habe ein Buch über Blumen gelesen.",
+      "target_example": "J'ai lu un livre sur les fleurs.",
+      "base_word": "about"
+    },
+    {
+      "source_word": "oben",
+      "target_word": "au-dessus",
+      "source_phonetic": "/ˈoːbən/",
+      "target_phonetic": "/odəsy/",
+      "source_example": "Stell es auf das obere Regal.",
+      "target_example": "Mets-le sur l'étagère du dessus.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "über",
+      "target_word": "au-dessus de",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "/odəsy də/",
+      "source_example": "Das Wasser kam über unsere Knie.",
+      "target_example": "L'eau est montée au-dessus de nos genoux.",
+      "base_word": "above"
+    },
+    {
+      "source_word": "hinüber",
+      "target_word": "de l'autre côté",
+      "source_phonetic": "/hɪˈnyːbɐ/",
+      "target_phonetic": "/də lotʁ kote/",
+      "source_example": "Wir können nicht hinüberschwimmen – es ist zu breit.",
+      "target_example": "On ne peut pas traverser à la nage – c'est trop large.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "über",
+      "target_word": "à travers",
+      "source_phonetic": "/ˈyːbɐ/",
+      "target_phonetic": "/a tʁavɛʁ/",
+      "source_example": "Er ging über das Feld.",
+      "target_example": "Il a traversé le champ à pied.",
+      "base_word": "across"
+    },
+    {
+      "source_word": "Maßnahme",
+      "target_word": "action",
+      "source_phonetic": "/ˈmaːsnaːmə/",
+      "target_phonetic": "/aksjɔ̃/",
+      "source_example": "Die Feuerwehrleute ergriffen sofort Maßnahmen.",
+      "target_example": "Les pompiers ont agi immédiatement.",
+      "base_word": "action"
+    },
+    {
+      "source_word": "Aktivität",
+      "target_word": "activité",
+      "source_phonetic": "/aktiˈviːtɛːt/",
+      "target_phonetic": "/aktivite/",
+      "source_example": "Der Club bietet viele Aktivitäten wie Tennis und Schwimmen.",
+      "target_example": "Le club propose de nombreuses activités, comme le tennis et la natation.",
+      "base_word": "activity"
+    },
+    {
+      "source_word": "Schauspieler",
+      "target_word": "acteur",
+      "source_phonetic": "/ˈʃaʊʃpiːlɐ/",
+      "target_phonetic": "/aktœʁ/",
+      "source_example": "Beide Hauptdarsteller lieferten hervorragende Leistungen.",
+      "target_example": "Les deux acteurs principaux ont donné des performances exceptionnelles.",
+      "base_word": "actor"
+    },
+    {
+      "source_word": "Schauspielerin",
+      "target_word": "actrice",
+      "source_phonetic": "/ˈʃaʊʃpiːləʁɪn/",
+      "target_phonetic": "/aktʁis/",
+      "source_example": "Die oscarprämierte Schauspielerin macht eine Pause vom Drehen.",
+      "target_example": "L'actrice oscarisée fait une pause dans le tournage.",
+      "base_word": "actress"
+    },
+    {
+      "source_word": "hinzufügen",
+      "target_word": "ajouter",
+      "source_phonetic": "/hɪnˈtsuːfyːɡən/",
+      "target_phonetic": "/aʒute/",
+      "source_example": "Das Mehl zur Schüssel geben und gut mischen.",
+      "target_example": "Ajoutez la farine dans le bol et mélangez bien.",
+      "base_word": "add"
+    },
+    {
+      "source_word": "Adresse",
+      "target_word": "adresse",
+      "source_phonetic": "/aˈdʁɛsə/",
+      "target_phonetic": "/adʁɛs/",
+      "source_example": "Könntest du deine Adresse und Telefonnummer aufschreiben?",
+      "target_example": "Pourrais-tu écrire ton adresse et ton numéro de téléphone ?",
+      "base_word": "address"
+    },
+    {
+      "source_word": "Erwachsener",
+      "target_word": "adulte",
+      "source_phonetic": "/ɛɐˈvaksənɐ/",
+      "target_phonetic": "/adylt/",
+      "source_example": "Kinder müssen von einem Erwachsenen begleitet werden.",
+      "target_example": "Les enfants doivent être accompagnés d'un adulte.",
+      "base_word": "adult"
+    },
+    {
+      "source_word": "Rat",
+      "target_word": "conseil",
+      "source_phonetic": "/ʁaːt/",
+      "target_phonetic": "/kɔ̃sɛj/",
+      "source_example": "Lass mich dir einen Rat geben: Überprüfe immer zweimal.",
+      "target_example": "Laisse-moi te donner un conseil : vérifie toujours deux fois.",
+      "base_word": "advice"
+    },
+    {
+      "source_word": "ängstlich",
+      "target_word": "effrayé",
+      "source_phonetic": "/ˈɛŋstlɪç/",
+      "target_phonetic": "/efʁɛje/",
+      "source_example": "Hab keine Angst – es ist völlig sicher.",
+      "target_example": "N'aie pas peur – c'est parfaitement sûr.",
+      "base_word": "afraid"
+    },
+    {
+      "source_word": "nach",
+      "target_word": "après",
+      "source_phonetic": "/naːx/",
+      "target_phonetic": "/apʁɛ/",
+      "source_example": "Wir gehen nach dem Mittagessen.",
+      "target_example": "Nous partons après le déjeuner.",
+      "base_word": "after"
+    },
+    {
+      "source_word": "Nachmittag",
+      "target_word": "après-midi",
+      "source_phonetic": "/ˈnaːxmɪtaːk/",
+      "target_phonetic": "/apʁɛmidi/",
+      "source_example": "Am Nachmittag gingen wir einkaufen.",
+      "target_example": "Nous sommes allés faire du shopping l'après-midi.",
+      "base_word": "afternoon"
+    },
+    {
+      "source_word": "wieder",
+      "target_word": "encore",
+      "source_phonetic": "/ˈviːdɐ/",
+      "target_phonetic": "/ɑ̃kɔʁ/",
+      "source_example": "Versuche es noch einmal – Übung macht den Meister.",
+      "target_example": "Essaye encore – c'est en forgeant qu'on devient forgeron.",
+      "base_word": "again"
+    },
+    {
+      "source_word": "Alter",
+      "target_word": "âge",
+      "source_phonetic": "/ˈaltɐ/",
+      "target_phonetic": "/aʒ/",
+      "source_example": "Du bist im gleichen Alter wie mein Bruder.",
+      "target_example": "Tu as le même âge que mon frère.",
+      "base_word": "age"
+    }
+  ]
+}

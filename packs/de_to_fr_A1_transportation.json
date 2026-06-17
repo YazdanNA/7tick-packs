@@ -1,0 +1,85 @@
+{
+  "id": "de_to_fr_A1__transportation",
+  "source": "de",
+  "target": "fr",
+  "group": "A1__transportation",
+  "words": [
+    {
+      "base_word": "bicycle",
+      "source_word": "Fahrrad",
+      "target_word": "vélo",
+      "source_phonetic": "/ˈfaːɐ̯ˌʁaːt/",
+      "target_phonetic": "/velo/",
+      "source_example": "Er stieg auf sein Fahrrad und fuhr los.",
+      "target_example": "Il est monté sur son vélo et est parti.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "bike",
+      "source_word": "Fahrrad",
+      "target_word": "vélo",
+      "source_phonetic": "/ˈfaːɐ̯ˌʁaːt/",
+      "target_phonetic": "/velo/",
+      "source_example": "Ich fahre mit dem Fahrrad zur Arbeit.",
+      "target_example": "Je vais au travail en vélo.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "boat",
+      "source_word": "Boot",
+      "target_word": "bateau",
+      "source_phonetic": "/boːt/",
+      "target_phonetic": "/bato/",
+      "source_example": "Wir machten eine Bootstour.",
+      "target_example": "Nous avons fait une promenade en bateau.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "bus",
+      "source_word": "Bus",
+      "target_word": "bus",
+      "source_phonetic": "/bʊs/",
+      "target_phonetic": "/bys/",
+      "source_example": "Ich fahre mit dem Bus zur Arbeit.",
+      "target_example": "Je vais au travail en bus.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "car",
+      "source_word": "Auto",
+      "target_word": "voiture",
+      "source_phonetic": "/ˈaʊto/",
+      "target_phonetic": "/vwa.tyʁ/",
+      "source_example": "Paula stieg ins Auto und fuhr los.",
+      "target_example": "Paula est montée dans la voiture et est partie.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "drive",
+      "source_word": "fahren",
+      "target_word": "conduire",
+      "source_phonetic": "/ˈfaːʁən/",
+      "target_phonetic": "/kɔ̃.dɥiʁ/",
+      "source_example": "Kannst du Auto fahren?",
+      "target_example": "Sais-tu conduire ?",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "driver",
+      "source_word": "Fahrer",
+      "target_word": "conducteur",
+      "source_phonetic": "/ˈfaːʁɐ/",
+      "target_phonetic": "/kɔ̃.dyk.tœʁ/",
+      "source_example": "Sie ist eine gute Fahrerin.",
+      "target_example": "C'est une bonne conductrice.",
+      "topic": "transportation",
+      "level": "A1"
+    }
+  ]
+}

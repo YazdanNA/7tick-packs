@@ -1,0 +1,107 @@
+{
+  "id": "de_to_en_A1__technology",
+  "source": "de",
+  "target": "en",
+  "group": "A1__technology",
+  "words": [
+    {
+      "base_word": "blog",
+      "source_word": "Blog",
+      "target_word": "blog",
+      "source_phonetic": "/blɔk/",
+      "target_phonetic": "/blɑːɡ/",
+      "source_example": "Du kannst in meinem Blog über meine Reise lesen.",
+      "target_example": "You can read about my trip in my blog.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "camera",
+      "source_word": "Kamera",
+      "target_word": "camera",
+      "source_phonetic": "/ˈkaməʁa/",
+      "target_phonetic": "/ˈkæmrə/",
+      "source_example": "Ich habe ein Foto mit meiner Kamera gemacht.",
+      "target_example": "I took a photo with my camera.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "CD",
+      "source_word": "CD",
+      "target_word": "CD",
+      "source_phonetic": "/ˌtseːˈdeː/",
+      "target_phonetic": "/ˌsiː ˈdiː/",
+      "source_example": "Seine Alben sind auf CD erhältlich.",
+      "target_example": "His albums are available on CD.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "computer",
+      "source_word": "Computer",
+      "target_word": "computer",
+      "source_phonetic": "/kɔmˈpjuːtɐ/",
+      "target_phonetic": "/kəmˈpjuːtə/",
+      "source_example": "Ich arbeite jeden Tag an meinem Computer.",
+      "target_example": "I work on my computer every day.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "design",
+      "source_word": "Design",
+      "target_word": "design",
+      "source_phonetic": "/diˈzaɪn/",
+      "target_phonetic": "/dɪˈzaɪn/",
+      "source_example": "Das grundlegende Design des Autos ist sehr gut.",
+      "target_example": "The basic design of the car is very good.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "design",
+      "source_word": "entwerfen",
+      "target_word": "design",
+      "source_phonetic": "/ɛntˈvɛʁfən/",
+      "target_phonetic": "/dɪˈzaɪn/",
+      "source_example": "Er hat sein eigenes Haus entworfen und gebaut.",
+      "target_example": "He designed and built his own house.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "DVD",
+      "source_word": "DVD",
+      "target_word": "DVD",
+      "source_phonetic": "/deː faʊ deː/",
+      "target_phonetic": "/ˌdiː viː ˈdiː/",
+      "source_example": "Lass uns eine DVD anschauen.",
+      "target_example": "Let's watch a DVD.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "email",
+      "source_word": "E-Mail",
+      "target_word": "email",
+      "source_phonetic": "/ˈiːmeɪl/",
+      "target_phonetic": "/ˈiːmeɪl/",
+      "source_example": "Ich werde dir eine E-Mail schicken.",
+      "target_example": "I will send you an email.",
+      "topic": "technology",
+      "level": "A1"
+    },
+    {
+      "base_word": "email",
+      "source_word": "mailen",
+      "target_word": "email",
+      "source_phonetic": "/ˈmeɪlən/",
+      "target_phonetic": "/ˈiːmeɪl/",
+      "source_example": "Patrick hat mir gestern gemailt.",
+      "target_example": "Patrick emailed me yesterday.",
+      "topic": "technology",
+      "level": "A1"
+    }
+  ]
+}

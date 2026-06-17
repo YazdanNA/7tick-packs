@@ -1,0 +1,184 @@
+{
+  "id": "de_to_en_A1__location",
+  "source": "de",
+  "target": "en",
+  "group": "A1__location",
+  "words": [
+    {
+      "base_word": "area",
+      "source_word": "Gebiet",
+      "target_word": "area",
+      "source_phonetic": "/ɡəˈbiːt/",
+      "target_phonetic": "/ˈeriə/",
+      "source_example": "Dieses Gebiet ist sehr ruhig.",
+      "target_example": "This area is very quiet.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "around",
+      "source_word": "um",
+      "target_word": "around",
+      "source_phonetic": "/ʊm/",
+      "target_phonetic": "/əˈraʊnd/",
+      "source_example": "Sie legte ihre Arme um mich.",
+      "target_example": "She put her arms around me.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "at",
+      "source_word": "zu Hause",
+      "target_word": "at",
+      "source_phonetic": "/tsuː ˈhaʊzə/",
+      "target_phonetic": "/æt/",
+      "source_example": "Ich bin zu Hause.",
+      "target_example": "I'm at home.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "away",
+      "source_word": "entfernt",
+      "target_word": "away",
+      "source_phonetic": "/ɛntˈfɛʁnt/",
+      "target_phonetic": "/əˈweɪ/",
+      "source_example": "Der Bahnhof ist fünf Minuten entfernt.",
+      "target_example": "The station is five minutes away.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "behind",
+      "source_word": "hinten",
+      "target_word": "behind",
+      "source_phonetic": "/ˈhɪntən/",
+      "target_phonetic": "/bɪˈhaɪnd/",
+      "source_example": "Sie fuhr los, der Hund rannte hinterher.",
+      "target_example": "She rode off with the dog running behind.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "behind",
+      "source_word": "hinter",
+      "target_word": "behind",
+      "source_phonetic": "/ˈhɪntɐ/",
+      "target_phonetic": "/bɪˈhaɪnd/",
+      "source_example": "Wer ist das Mädchen, das hinter Jan steht?",
+      "target_example": "Who's the girl standing behind Jan?",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "below",
+      "source_word": "darunter",
+      "target_word": "below",
+      "source_phonetic": "/daˈʁʊntɐ/",
+      "target_phonetic": "/bɪˈləʊ/",
+      "source_example": "Sie wohnen im Stockwerk darunter.",
+      "target_example": "They live on the floor below.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "below",
+      "source_word": "unter",
+      "target_word": "below",
+      "source_phonetic": "/ˈʊntɐ/",
+      "target_phonetic": "/bɪˈləʊ/",
+      "source_example": "Er tauchte unter die Wasseroberfläche.",
+      "target_example": "He dived below the surface of the water.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "between",
+      "source_word": "zwischen",
+      "target_word": "between",
+      "source_phonetic": "/ˈtsvɪʃən/",
+      "target_phonetic": "/bɪˈtwiːn/",
+      "source_example": "Ich setzte mich zwischen Jo und Diana.",
+      "target_example": "I sat down between Jo and Diana.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "centre",
+      "source_word": "Zentrum",
+      "target_word": "centre",
+      "source_phonetic": "/ˈtsɛntʁʊm/",
+      "target_phonetic": "/ˈsentər/",
+      "source_example": "In der Mitte des Raumes stand ein langer Tisch.",
+      "target_example": "There was a long table in the centre of the room.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "down",
+      "source_word": "hinunter",
+      "target_word": "down",
+      "source_phonetic": "/hɪˈnʊntɐ/",
+      "target_phonetic": "/daʊn/",
+      "source_example": "Sie sprang vom Stuhl herunter.",
+      "target_example": "She jumped down off the chair.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "down",
+      "source_word": "hinunter",
+      "target_word": "down",
+      "source_phonetic": "/hɪˈnʊntɐ/",
+      "target_phonetic": "/daʊn/",
+      "source_example": "Der Stein rollte den Hügel hinunter.",
+      "target_example": "The stone rolled down the hill.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "östlich",
+      "target_word": "east",
+      "source_phonetic": "/ˈœstlɪç/",
+      "target_phonetic": "/iːst/",
+      "source_example": "Sie leben an der Ostküste.",
+      "target_example": "They live on the east coast.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "nach Osten",
+      "target_word": "east",
+      "source_phonetic": "/naːx ˈɔstən/",
+      "target_phonetic": "/iːst/",
+      "source_example": "Das Haus liegt nach Osten.",
+      "target_example": "The house faces east.",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "east",
+      "source_word": "Osten",
+      "target_word": "east",
+      "source_phonetic": "/ˈɔstən/",
+      "target_phonetic": "/iːst/",
+      "source_example": "Wo ist Osten?",
+      "target_example": "Which way is east?",
+      "topic": "location",
+      "level": "A1"
+    },
+    {
+      "base_word": "far",
+      "source_word": "weit",
+      "target_word": "far",
+      "source_phonetic": "/vaɪt/",
+      "target_phonetic": "/fɑː/",
+      "source_example": "Der Bahnhof ist nicht weit von hier.",
+      "target_example": "The station is not far from here.",
+      "topic": "location",
+      "level": "A1"
+    }
+  ]
+}

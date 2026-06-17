@@ -1,0 +1,140 @@
+{
+  "id": "de_to_fr_A1__family",
+  "source": "de",
+  "target": "fr",
+  "group": "A1__family",
+  "words": [
+    {
+      "base_word": "aunt",
+      "source_word": "Tante",
+      "target_word": "tante",
+      "source_phonetic": "/ˈtantə/",
+      "target_phonetic": "/tɑ̃t/",
+      "source_example": "Meine Tante lebt in Kanada.",
+      "target_example": "Ma tante vit au Canada.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "baby",
+      "source_word": "Baby",
+      "target_word": "bébé",
+      "source_phonetic": "/ˈbeːbi/",
+      "target_phonetic": "/bebe/",
+      "source_example": "Das Baby schläft.",
+      "target_example": "Le bébé dort.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "born",
+      "source_word": "geboren",
+      "target_word": "né",
+      "source_phonetic": "/ɡəˈboːʁən/",
+      "target_phonetic": "/ne/",
+      "source_example": "Ich wurde 1976 geboren.",
+      "target_example": "Je suis né en 1976.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "boy",
+      "source_word": "Junge",
+      "target_word": "garçon",
+      "source_phonetic": "/ˈjʊŋə/",
+      "target_phonetic": "/ɡaʁsɔ̃/",
+      "source_example": "Er ist ein kleiner Junge.",
+      "target_example": "C'est un petit garçon.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "brother",
+      "source_word": "Bruder",
+      "target_word": "frère",
+      "source_phonetic": "/ˈbʁuːdɐ/",
+      "target_phonetic": "/fʁɛʁ/",
+      "source_example": "Er ist mein Bruder.",
+      "target_example": "C'est mon frère.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "child",
+      "source_word": "Kind",
+      "target_word": "enfant",
+      "source_phonetic": "/kɪnt/",
+      "target_phonetic": "/ɑ̃.fɑ̃/",
+      "source_example": "Ich habe als Kind in London gelebt.",
+      "target_example": "J'ai vécu à Londres quand j'étais enfant.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "cousin",
+      "source_word": "Cousin/Cousine",
+      "target_word": "cousin/cousine",
+      "source_phonetic": "/kuˈzɛ̃/ /kuˈziːnə/",
+      "target_phonetic": "/kuzɛ̃/ /kuzin/",
+      "source_example": "Sie ist meine Cousine.",
+      "target_example": "C'est ma cousine.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "dad",
+      "source_word": "Papa",
+      "target_word": "papa",
+      "source_phonetic": "/ˈpapa/",
+      "target_phonetic": "/papa/",
+      "source_example": "Das ist mein Papa da drüben.",
+      "target_example": "C'est mon papa là-bas.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "daughter",
+      "source_word": "Tochter",
+      "target_word": "fille",
+      "source_phonetic": "/ˈtɔxtɐ/",
+      "target_phonetic": "/fij/",
+      "source_example": "Wir haben zwei Söhne und eine Tochter.",
+      "target_example": "Nous avons deux fils et une fille.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "Familien-",
+      "target_word": "familial",
+      "source_phonetic": "/faˈmiːli̯ən/",
+      "target_phonetic": "/fa.mi.ljal/",
+      "source_example": "Wir hatten gestern Abend ein Familienessen.",
+      "target_example": "Nous avons eu un dîner familial hier soir.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "Familie",
+      "target_word": "famille",
+      "source_phonetic": "/faˈmiːli̯ə/",
+      "target_phonetic": "/fa.mij/",
+      "source_example": "Meine Familie lebt in dieser Stadt.",
+      "target_example": "Ma famille vit dans cette ville.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "father",
+      "source_word": "Vater",
+      "target_word": "père",
+      "source_phonetic": "/ˈfaːtɐ/",
+      "target_phonetic": "/pɛʁ/",
+      "source_example": "Mein Vater ist Arzt.",
+      "target_example": "Mon père est médecin.",
+      "topic": "family",
+      "level": "A1"
+    }
+  ]
+}
