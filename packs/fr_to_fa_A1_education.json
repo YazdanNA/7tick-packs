@@ -1,0 +1,206 @@
+{
+  "id": "fr_to_fa_A1__education",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__education",
+  "words": [
+    {
+      "base_word": "book",
+      "source_word": "livre",
+      "target_word": "کتاب",
+      "source_phonetic": "/livʁ/",
+      "target_phonetic": "ketāb",
+      "source_example": "Je lis un livre.",
+      "target_example": "من در حال خواندن یک کتاب هستم.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "capital",
+      "source_word": "majuscule",
+      "target_word": "بزرگ (حرف)",
+      "source_phonetic": "/maʒyskyl/",
+      "target_phonetic": "bozorg (harf)",
+      "source_example": "Écris ton nom avec une majuscule.",
+      "target_example": "نامت را با حرف بزرگ بنویس.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "capital",
+      "source_word": "majuscule",
+      "target_word": "بزرگ",
+      "source_phonetic": "/maʒyskyl/",
+      "target_phonetic": "bozorg",
+      "source_example": "Écrivez votre nom avec une majuscule.",
+      "target_example": "نام خود را با حرف بزرگ بنویسید.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "class",
+      "source_word": "classe",
+      "target_word": "کلاس",
+      "source_phonetic": "/klas/",
+      "target_phonetic": "kelās",
+      "source_example": "Nous étions dans la même classe à l'école.",
+      "target_example": "ما در مدرسه در یک کلاس بودیم.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "classroom",
+      "source_word": "salle de classe",
+      "target_word": "کلاس درس",
+      "source_phonetic": "/sal də klas/",
+      "target_phonetic": "kelās-e dars",
+      "source_example": "Nous faisons beaucoup d'activités en classe.",
+      "target_example": "ما فعالیت‌های کلاسی زیادی انجام می‌دهیم.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "college",
+      "source_word": "collège",
+      "target_word": "کالج",
+      "source_phonetic": "/kɔlɛʒ/",
+      "target_phonetic": "kālej",
+      "source_example": "Elle est au collège.",
+      "target_example": "او در کالج است.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "compare",
+      "source_word": "comparer",
+      "target_word": "مقایسه کردن",
+      "source_phonetic": "/kɔ̃paʁe/",
+      "target_phonetic": "moqāyese kardan",
+      "source_example": "Nous avons comparé les deux rapports attentivement.",
+      "target_example": "ما دو گزارش را به دقت مقایسه کردیم.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "complete",
+      "source_word": "terminer",
+      "target_word": "تکمیل کردن",
+      "source_phonetic": "/tɛʁmine/",
+      "target_phonetic": "takmil kardan",
+      "source_example": "Elle a terminé son diplôme l'année dernière.",
+      "target_example": "او سال گذشته مدرک خود را تکمیل کرد.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "correct",
+      "source_word": "correct",
+      "target_word": "درست",
+      "source_phonetic": "/kɔʁɛkt/",
+      "target_phonetic": "dorost",
+      "source_example": "Veuillez vérifier que ces détails sont corrects.",
+      "target_example": "لطفاً بررسی کنید که این جزئیات درست هستند.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "correct",
+      "source_word": "corriger",
+      "target_word": "اصلاح کردن",
+      "source_phonetic": "/kɔʁiʒe/",
+      "target_phonetic": "eslāh kardan",
+      "source_example": "Relis ton travail et corrige les erreurs.",
+      "target_example": "کار خود را بخوانید و هر اشتباهی را اصلاح کنید.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "course",
+      "source_word": "cours",
+      "target_word": "دوره",
+      "source_phonetic": "/kuʁ/",
+      "target_phonetic": "dore",
+      "source_example": "Je veux suivre un cours d'art et de design.",
+      "target_example": "من می‌خواهم یک دوره در هنر و طراحی بگذرانم.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "dictionary",
+      "source_word": "dictionnaire",
+      "target_word": "فرهنگ لغت",
+      "source_phonetic": "/dik.sjɔ.nɛʁ/",
+      "target_phonetic": "farhang-e loghat",
+      "source_example": "Cherche-le dans le dictionnaire.",
+      "target_example": "آن را در فرهنگ لغت پیدا کن.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "difference",
+      "source_word": "différence",
+      "target_word": "تفاوت",
+      "source_phonetic": "/di.fe.ʁɑ̃s/",
+      "target_phonetic": "tafāvot",
+      "source_example": "Quelle est la différence entre les deux ?",
+      "target_example": "تفاوت بین این دو چیست؟",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "draw",
+      "source_word": "dessiner",
+      "target_word": "نقاشی کردن",
+      "source_phonetic": "/de.si.ne/",
+      "target_phonetic": "naqāshi kardan",
+      "source_example": "Elle a dessiné une maison.",
+      "target_example": "او یک خانه نقاشی کرد.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "exam",
+      "source_word": "examen",
+      "target_word": "امتحان",
+      "source_phonetic": "/ɛɡ.za.mɛ̃/",
+      "target_phonetic": "emtehān",
+      "source_example": "Je dois passer un examen la semaine prochaine.",
+      "target_example": "من باید هفته آینده امتحان بدهم.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "example",
+      "source_word": "exemple",
+      "target_word": "مثال",
+      "source_phonetic": "/ɛɡ.zɑ̃pl/",
+      "target_phonetic": "mesāl",
+      "source_example": "Laisse-moi te donner un exemple.",
+      "target_example": "بگذار یک مثال برایت بزنم.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "fact",
+      "source_word": "fait",
+      "target_word": "واقعیت",
+      "source_phonetic": "/fɛ/",
+      "target_phonetic": "vāqe'iyat",
+      "source_example": "Ce sont les faits de base concernant l'affaire.",
+      "target_example": "این‌ها واقعیت‌های اساسی در مورد پرونده هستند.",
+      "topic": "education",
+      "level": "A1"
+    },
+    {
+      "base_word": "false",
+      "source_word": "faux",
+      "target_word": "نادرست",
+      "source_phonetic": "/fo/",
+      "target_phonetic": "nādorost",
+      "source_example": "La déclaration était complètement fausse.",
+      "target_example": "این جمله کاملاً نادرست بود.",
+      "topic": "education",
+      "level": "A1"
+    }
+  ]
+}

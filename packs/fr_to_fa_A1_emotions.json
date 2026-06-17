@@ -1,0 +1,140 @@
+{
+  "id": "fr_to_fa_A1__emotions",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__emotions",
+  "words": [
+    {
+      "base_word": "afraid",
+      "source_word": "effrayé",
+      "target_word": "ترسیده",
+      "source_phonetic": "/efʁɛje/",
+      "target_phonetic": "tarside",
+      "source_example": "N'aie pas peur – c'est parfaitement sûr.",
+      "target_example": "نترس—کاملاً امن است.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "amazing",
+      "source_word": "incroyable",
+      "target_word": "شگفت‌انگیز",
+      "source_phonetic": "/ɛ̃kʁwajabl/",
+      "target_phonetic": "shegeft-angiz",
+      "source_example": "La vue du sommet est incroyable.",
+      "target_example": "نمایی که از بالا دیده می‌شود، شگفت‌انگیز است.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "angry",
+      "source_word": "en colère",
+      "target_word": "عصبانی",
+      "source_phonetic": "/ɑ̃ kɔlɛʁ/",
+      "target_phonetic": "asabāni",
+      "source_example": "Ma mère était en colère contre moi.",
+      "target_example": "مادرم از من عصبانی بود.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "beautiful",
+      "source_word": "beau",
+      "target_word": "زیبا",
+      "source_phonetic": "/bo/",
+      "target_phonetic": "zibā",
+      "source_example": "Elle est une belle femme.",
+      "target_example": "او یک زن زیبا است.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "bored",
+      "source_word": "ennuyé",
+      "target_word": "خسته",
+      "source_phonetic": "/ɑ̃nɥije/",
+      "target_phonetic": "xaste",
+      "source_example": "Elle s'ennuyait dans sa vie.",
+      "target_example": "او از زندگی‌اش خسته بود.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "boring",
+      "source_word": "ennuyeux",
+      "target_word": "خسته‌کننده",
+      "source_phonetic": "/ɑ̃nɥijø/",
+      "target_phonetic": "xaste-konande",
+      "source_example": "Le film était ennuyeux.",
+      "target_example": "فیلم خسته‌کننده بود.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "enjoy",
+      "source_word": "apprécier",
+      "target_word": "لذت بردن",
+      "source_phonetic": "/a.pʁe.sje/",
+      "target_phonetic": "lezzat bordan",
+      "source_example": "J'ai vraiment apprécié le film.",
+      "target_example": "من واقعاً از فیلم لذت بردم.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "excited",
+      "source_word": "excité",
+      "target_word": "هیجان‌زده",
+      "source_phonetic": "/ɛk.si.te/",
+      "target_phonetic": "heyjān-zade",
+      "source_example": "Les enfants étaient excités à l'idée d'ouvrir leurs cadeaux.",
+      "target_example": "بچه‌ها از باز کردن هدایایشان هیجان‌زده بودند.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "exciting",
+      "source_word": "excitant",
+      "target_word": "هیجان‌انگیز",
+      "source_phonetic": "/ɛk.si.tɑ̃/",
+      "target_phonetic": "heyjān-angiz",
+      "source_example": "C'est une opportunité excitante pour moi.",
+      "target_example": "این یک فرصت هیجان‌انگیز برای من است.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "fantastic",
+      "source_word": "fantastique",
+      "target_word": "فوق‌العاده",
+      "source_phonetic": "/fɑ̃.tas.tik/",
+      "target_phonetic": "fowq-ol-ʿāde",
+      "source_example": "Le temps était absolument fantastique.",
+      "target_example": "هوا کاملاً فوق‌العاده بود.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "feel",
+      "source_word": "sentir",
+      "target_word": "احساس کردن",
+      "source_phonetic": "/sɑ̃.tiʁ/",
+      "target_phonetic": "ehsās kardan",
+      "source_example": "Je me sens heureux aujourd'hui.",
+      "target_example": "من امروز احساس خوشحالی می‌کنم.",
+      "topic": "emotions",
+      "level": "A1"
+    },
+    {
+      "base_word": "feeling",
+      "source_word": "sentiment",
+      "target_word": "احساس",
+      "source_phonetic": "/sɑ̃.ti.mɑ̃/",
+      "target_phonetic": "ehsās",
+      "source_example": "J'avais un sentiment de tristesse.",
+      "target_example": "من احساس غم داشتم.",
+      "topic": "emotions",
+      "level": "A1"
+    }
+  ]
+}

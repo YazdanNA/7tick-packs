@@ -1,0 +1,140 @@
+{
+  "id": "fr_to_fa_A1__family",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__family",
+  "words": [
+    {
+      "base_word": "aunt",
+      "source_word": "tante",
+      "target_word": "عمه / خاله",
+      "source_phonetic": "/tɑ̃t/",
+      "target_phonetic": "ʻamme / khāle",
+      "source_example": "Ma tante vit au Canada.",
+      "target_example": "عمه/خاله‌ام در کانادا زندگی می‌کند.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "baby",
+      "source_word": "bébé",
+      "target_word": "نوزاد",
+      "source_phonetic": "/bebe/",
+      "target_phonetic": "nowzād",
+      "source_example": "Le bébé dort.",
+      "target_example": "نوزاد در حال خواب است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "born",
+      "source_word": "né",
+      "target_word": "متولد شده",
+      "source_phonetic": "/ne/",
+      "target_phonetic": "motavalled shode",
+      "source_example": "Je suis né en 1976.",
+      "target_example": "من در سال ۱۹۷۶ متولد شدم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "boy",
+      "source_word": "garçon",
+      "target_word": "پسر",
+      "source_phonetic": "/ɡaʁsɔ̃/",
+      "target_phonetic": "pesar",
+      "source_example": "C'est un petit garçon.",
+      "target_example": "او یک پسر کوچک است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "brother",
+      "source_word": "frère",
+      "target_word": "برادر",
+      "source_phonetic": "/fʁɛʁ/",
+      "target_phonetic": "barādar",
+      "source_example": "C'est mon frère.",
+      "target_example": "او برادر من است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "child",
+      "source_word": "enfant",
+      "target_word": "کودک",
+      "source_phonetic": "/ɑ̃.fɑ̃/",
+      "target_phonetic": "kudak",
+      "source_example": "J'ai vécu à Londres quand j'étais enfant.",
+      "target_example": "من در کودکی در لندن زندگی می‌کردم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "cousin",
+      "source_word": "cousin/cousine",
+      "target_word": "پسرعمو/دخترعمو",
+      "source_phonetic": "/kuzɛ̃/ /kuzin/",
+      "target_phonetic": "pesar'amu / doxtar'amu",
+      "source_example": "C'est ma cousine.",
+      "target_example": "او پسرعموی من است.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "dad",
+      "source_word": "papa",
+      "target_word": "بابا",
+      "source_phonetic": "/papa/",
+      "target_phonetic": "bābā",
+      "source_example": "C'est mon papa là-bas.",
+      "target_example": "آن بابای من آنجاست.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "daughter",
+      "source_word": "fille",
+      "target_word": "دختر",
+      "source_phonetic": "/fij/",
+      "target_phonetic": "dokhtar",
+      "source_example": "Nous avons deux fils et une fille.",
+      "target_example": "ما دو پسر و یک دختر داریم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "familial",
+      "target_word": "خانوادگی",
+      "source_phonetic": "/fa.mi.ljal/",
+      "target_phonetic": "khānevādegi",
+      "source_example": "Nous avons eu un dîner familial hier soir.",
+      "target_example": "دیشب یک شام خانوادگی داشتیم.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "family",
+      "source_word": "famille",
+      "target_word": "خانواده",
+      "source_phonetic": "/fa.mij/",
+      "target_phonetic": "khānevāde",
+      "source_example": "Ma famille vit dans cette ville.",
+      "target_example": "خانواده من در این شهر زندگی می‌کنند.",
+      "topic": "family",
+      "level": "A1"
+    },
+    {
+      "base_word": "father",
+      "source_word": "père",
+      "target_word": "پدر",
+      "source_phonetic": "/pɛʁ/",
+      "target_phonetic": "pedar",
+      "source_example": "Mon père est médecin.",
+      "target_example": "پدر من پزشک است.",
+      "topic": "family",
+      "level": "A1"
+    }
+  ]
+}

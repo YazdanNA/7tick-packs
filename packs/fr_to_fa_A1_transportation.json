@@ -1,0 +1,85 @@
+{
+  "id": "fr_to_fa_A1__transportation",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__transportation",
+  "words": [
+    {
+      "base_word": "bicycle",
+      "source_word": "vélo",
+      "target_word": "دوچرخه",
+      "source_phonetic": "/velo/",
+      "target_phonetic": "dočarxe",
+      "source_example": "Il est monté sur son vélo et est parti.",
+      "target_example": "او سوار دوچرخه شد و رفت.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "bike",
+      "source_word": "vélo",
+      "target_word": "دوچرخه",
+      "source_phonetic": "/velo/",
+      "target_phonetic": "dočarxe",
+      "source_example": "Je vais au travail en vélo.",
+      "target_example": "من با دوچرخه به سر کار می‌روم.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "boat",
+      "source_word": "bateau",
+      "target_word": "قایق",
+      "source_phonetic": "/bato/",
+      "target_phonetic": "qāyeq",
+      "source_example": "Nous avons fait une promenade en bateau.",
+      "target_example": "ما برای یک سفر با قایق رفتیم.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "bus",
+      "source_word": "bus",
+      "target_word": "اتوبوس",
+      "source_phonetic": "/bys/",
+      "target_phonetic": "otobus",
+      "source_example": "Je vais au travail en bus.",
+      "target_example": "من با اتوبوس به سر کار می‌روم.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "car",
+      "source_word": "voiture",
+      "target_word": "ماشین",
+      "source_phonetic": "/vwa.tyʁ/",
+      "target_phonetic": "māshin",
+      "source_example": "Paula est montée dans la voiture et est partie.",
+      "target_example": "پائولا سوار ماشین شد و رفت.",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "drive",
+      "source_word": "conduire",
+      "target_word": "راندن",
+      "source_phonetic": "/kɔ̃.dɥiʁ/",
+      "target_phonetic": "rāndan",
+      "source_example": "Sais-tu conduire ?",
+      "target_example": "آیا می‌توانی ماشین برانی؟",
+      "topic": "transportation",
+      "level": "A1"
+    },
+    {
+      "base_word": "driver",
+      "source_word": "conducteur",
+      "target_word": "راننده",
+      "source_phonetic": "/kɔ̃.dyk.tœʁ/",
+      "target_phonetic": "rānande",
+      "source_example": "C'est une bonne conductrice.",
+      "target_example": "او یک راننده خوب است.",
+      "topic": "transportation",
+      "level": "A1"
+    }
+  ]
+}

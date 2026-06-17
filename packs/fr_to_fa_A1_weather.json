@@ -1,0 +1,30 @@
+{
+  "id": "fr_to_fa_A1__weather",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__weather",
+  "words": [
+    {
+      "base_word": "cold",
+      "source_word": "froid",
+      "target_word": "سرد",
+      "source_phonetic": "/fʁwa/",
+      "target_phonetic": "sard",
+      "source_example": "J'ai froid. Augmente le chauffage.",
+      "target_example": "من سردم است. گرمایش را زیاد کن.",
+      "topic": "weather",
+      "level": "A1"
+    },
+    {
+      "base_word": "cool",
+      "source_word": "frais",
+      "target_word": "خنک",
+      "source_phonetic": "/fʁɛ/",
+      "target_phonetic": "xonak",
+      "source_example": "Un temps plus frais est prévu pour le week-end.",
+      "target_example": "برای آخر هفته هوای خنک‌تر پیش‌بینی شده است.",
+      "topic": "weather",
+      "level": "A1"
+    }
+  ]
+}

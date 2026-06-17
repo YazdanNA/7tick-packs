@@ -1,0 +1,96 @@
+{
+  "id": "fr_to_fa_A1__travel",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__travel",
+  "words": [
+    {
+      "base_word": "airport",
+      "source_word": "aéroport",
+      "target_word": "فرودگاه",
+      "source_phonetic": "/aeʁɔpɔʁ/",
+      "target_phonetic": "forudgāh",
+      "source_example": "Nous sommes arrivés à l'aéroport deux heures en avance.",
+      "target_example": "ما دو ساعت زودتر به فرودگاه رسیدیم.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "arrive",
+      "source_word": "arriver",
+      "target_word": "رسیدن",
+      "source_phonetic": "/aʁive/",
+      "target_phonetic": "residan",
+      "source_example": "Ils arrivent à la gare à 8 heures.",
+      "target_example": "آن‌ها ساعت ۸ به ایستگاه می‌رسند.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "beach",
+      "source_word": "plage",
+      "target_word": "ساحل",
+      "source_phonetic": "/plaʒ/",
+      "target_phonetic": "sāhel",
+      "source_example": "Nous avons passé la journée à la plage.",
+      "target_example": "ما روز را در ساحل گذراندیم.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "by",
+      "source_word": "en",
+      "target_word": "با",
+      "source_phonetic": "/ɑ̃/",
+      "target_phonetic": "bā",
+      "source_example": "Nous avons voyagé en voiture.",
+      "target_example": "ما با ماشین سفر کردیم.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "capital",
+      "source_word": "capitale",
+      "target_word": "پایتخت",
+      "source_phonetic": "/kapital/",
+      "target_phonetic": "pāytakht",
+      "source_example": "Le Caire est la capitale de l'Égypte.",
+      "target_example": "قاهره پایتخت مصر است.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "city",
+      "source_word": "ville",
+      "target_word": "شهر",
+      "source_phonetic": "/vil/",
+      "target_phonetic": "šahr",
+      "source_example": "Nous vivons dans une grande ville.",
+      "target_example": "ما در یک شهر بزرگ زندگی می‌کنیم.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "country",
+      "source_word": "pays",
+      "target_word": "کشور",
+      "source_phonetic": "/pɛi/",
+      "target_phonetic": "kešvar",
+      "source_example": "Elle ne savait pas comment serait la vie dans un pays étranger.",
+      "target_example": "او نمی‌دانست زندگی در یک کشور خارجی چگونه خواهد بود.",
+      "topic": "travel",
+      "level": "A1"
+    },
+    {
+      "base_word": "flight",
+      "source_word": "vol",
+      "target_word": "پرواز",
+      "source_phonetic": "/vɔl/",
+      "target_phonetic": "parvāz",
+      "source_example": "Nous nous sommes rencontrés sur un vol de Londres à Paris.",
+      "target_example": "ما در یک پرواز از لندن به پاریس همدیگر را دیدیم.",
+      "topic": "travel",
+      "level": "A1"
+    }
+  ]
+}

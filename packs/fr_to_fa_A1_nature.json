@@ -1,0 +1,52 @@
+{
+  "id": "fr_to_fa_A1__nature",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__nature",
+  "words": [
+    {
+      "base_word": "air",
+      "source_word": "air",
+      "target_word": "هوا",
+      "source_phonetic": "/ɛʁ/",
+      "target_phonetic": "havā",
+      "source_example": "Sortons prendre l'air frais.",
+      "target_example": "بیایید بریم بیرون برای هوای تازه.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fire",
+      "source_word": "feu",
+      "target_word": "آتش",
+      "source_phonetic": "/fø/",
+      "target_phonetic": "ātash",
+      "source_example": "Le feu brûlait vivement.",
+      "target_example": "آتش به خوبی می‌سوخت.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "flower",
+      "source_word": "fleur",
+      "target_word": "گل",
+      "source_phonetic": "/flœʁ/",
+      "target_phonetic": "gol",
+      "source_example": "La plante a une belle fleur rouge vif.",
+      "target_example": "این گیاه یک گل زیبای قرمز روشن دارد.",
+      "topic": "nature",
+      "level": "A1"
+    },
+    {
+      "base_word": "fly",
+      "source_word": "voler",
+      "target_word": "پرواز کردن",
+      "source_phonetic": "/vɔ.le/",
+      "target_phonetic": "parvāz kardan",
+      "source_example": "Une cigogne vola lentement.",
+      "target_example": "یک لک‌لک به آرامی از کنار ما پرواز کرد.",
+      "topic": "nature",
+      "level": "A1"
+    }
+  ]
+}

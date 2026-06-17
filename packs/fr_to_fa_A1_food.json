@@ -1,0 +1,261 @@
+{
+  "id": "fr_to_fa_A1__food",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__food",
+  "words": [
+    {
+      "base_word": "apple",
+      "source_word": "pomme",
+      "target_word": "سیب",
+      "source_phonetic": "/pɔm/",
+      "target_phonetic": "sib",
+      "source_example": "Je mange une pomme tous les jours.",
+      "target_example": "من هر روز یک سیب می‌خورم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "banana",
+      "source_word": "banane",
+      "target_word": "موز",
+      "source_phonetic": "/banan/",
+      "target_phonetic": "moz",
+      "source_example": "J'ai acheté un régime de bananes.",
+      "target_example": "من یک دسته موز خریدم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "beer",
+      "source_word": "bière",
+      "target_word": "آبجو",
+      "source_phonetic": "/bjɛʁ/",
+      "target_phonetic": "ābjo",
+      "source_example": "Je voudrais une pinte de bière.",
+      "target_example": "یک پیمانه آبجو می‌خواهم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "bread",
+      "source_word": "pain",
+      "target_word": "نان",
+      "source_phonetic": "/pɛ̃/",
+      "target_phonetic": "nān",
+      "source_example": "Je mange du pain avec du beurre.",
+      "target_example": "من نان با کره می‌خورم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "breakfast",
+      "source_word": "petit déjeuner",
+      "target_word": "صبحانه",
+      "source_phonetic": "/pəti deʒøne/",
+      "target_phonetic": "sobhāne",
+      "source_example": "Nous prenons le petit déjeuner à 8 heures.",
+      "target_example": "ما ساعت ۸ صبحانه می‌خوریم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "butter",
+      "source_word": "beurre",
+      "target_word": "کره",
+      "source_phonetic": "/bœʁ/",
+      "target_phonetic": "kare",
+      "source_example": "Je mets du beurre sur mon pain.",
+      "target_example": "من کره روی نانم می‌مالم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cafe",
+      "source_word": "café",
+      "target_word": "کافه",
+      "source_phonetic": "/kafe/",
+      "target_phonetic": "kāfe",
+      "source_example": "Nous avons pris un café dans un café.",
+      "target_example": "ما در یک کافه قهوه خوردیم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cake",
+      "source_word": "gâteau",
+      "target_word": "کیک",
+      "source_phonetic": "/ɡato/",
+      "target_phonetic": "keyk",
+      "source_example": "J'ai fait un gâteau.",
+      "target_example": "من یک کیک پختم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "carrot",
+      "source_word": "carotte",
+      "target_word": "هویج",
+      "source_phonetic": "/ka.ʁɔt/",
+      "target_phonetic": "havij",
+      "source_example": "J'ai acheté une livre de carottes.",
+      "target_example": "من یک پوند هویج خریدم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheese",
+      "source_word": "fromage",
+      "target_word": "پنیر",
+      "source_phonetic": "/fʁɔ.maʒ/",
+      "target_phonetic": "panir",
+      "source_example": "J'ai mangé du fromage sur du pain grillé pour le déjeuner.",
+      "target_example": "من برای ناهار نان تست با پنیر خوردم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "chocolate",
+      "source_word": "chocolat",
+      "target_word": "شکلات",
+      "source_phonetic": "/ʃɔkɔla/",
+      "target_phonetic": "šokolāt",
+      "source_example": "J'ai acheté une tablette de chocolat.",
+      "target_example": "من یک تخته شکلات خریدم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "coffee",
+      "source_word": "café",
+      "target_word": "قهوه",
+      "source_phonetic": "/kafe/",
+      "target_phonetic": "qahve",
+      "source_example": "Je voudrais une tasse de café.",
+      "target_example": "من یک فنجان قهوه می‌خواهم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cook",
+      "source_word": "cuisiner",
+      "target_word": "پختن",
+      "source_phonetic": "/kɥizine/",
+      "target_phonetic": "pokhtan",
+      "source_example": "Il m'a préparé le déjeuner.",
+      "target_example": "او برای من ناهار پخت.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cooking",
+      "source_word": "cuisine",
+      "target_word": "آشپزی",
+      "source_phonetic": "/kɥizin/",
+      "target_phonetic": "āshpazi",
+      "source_example": "Mon mari fait toute la cuisine.",
+      "target_example": "همسرم همه آشپزی را انجام می‌دهد.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "cream",
+      "source_word": "crème",
+      "target_word": "خامه",
+      "source_phonetic": "/kʁɛm/",
+      "target_phonetic": "khāme",
+      "source_example": "Nous avons eu des fraises avec de la crème pour le dessert.",
+      "target_example": "ما برای دسر توت فرنگی با خامه داشتیم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "delicious",
+      "source_word": "délicieux",
+      "target_word": "خوشمزه",
+      "source_phonetic": "/de.li.sjø/",
+      "target_phonetic": "xoshmaze",
+      "source_example": "La nourriture était délicieuse.",
+      "target_example": "غذا خوشمزه بود.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dinner",
+      "source_word": "dîner",
+      "target_word": "شام",
+      "source_phonetic": "/di.ne/",
+      "target_phonetic": "shām",
+      "source_example": "Qu'est-ce qu'on mange ce soir pour le dîner ?",
+      "target_example": "امشب برای شام چه بخوریم؟",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dish",
+      "source_word": "plat",
+      "target_word": "ظرف",
+      "source_phonetic": "/pla/",
+      "target_phonetic": "zarf",
+      "source_example": "Nous avons besoin d'un plat propre pour les pâtes.",
+      "target_example": "برای ماکارونی به یک ظرف تمیز نیاز داریم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "dish",
+      "source_word": "plat",
+      "target_word": "غذا",
+      "source_phonetic": "/pla/",
+      "target_phonetic": "ghazā",
+      "source_example": "Ce plat de pâtes est délicieux.",
+      "target_example": "این غذای ماکارونی خوشمزه است.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "drink",
+      "source_word": "boisson",
+      "target_word": "نوشیدنی",
+      "source_phonetic": "/bwa.sɔ̃/",
+      "target_phonetic": "nushidani",
+      "source_example": "Puis-je avoir une boisson ?",
+      "target_example": "می‌توانم یک نوشیدنی داشته باشم؟",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "eat",
+      "source_word": "manger",
+      "target_word": "خوردن",
+      "source_phonetic": "/mɑ̃.ʒe/",
+      "target_phonetic": "khordan",
+      "source_example": "Je ne mange pas de viande.",
+      "target_example": "من گوشت نمی‌خورم.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "egg",
+      "source_word": "œuf",
+      "target_word": "تخم‌مرغ",
+      "source_phonetic": "/œf/",
+      "target_phonetic": "tokhm-e morgh",
+      "source_example": "Les poissons pondent des milliers d'œufs.",
+      "target_example": "ماهی‌ها هزاران تخم می‌گذارند.",
+      "topic": "food",
+      "level": "A1"
+    },
+    {
+      "base_word": "food",
+      "source_word": "nourriture",
+      "target_word": "غذا",
+      "source_phonetic": "/nu.ʁi.tyʁ/",
+      "target_phonetic": "ghazā",
+      "source_example": "Aimes-tu la nourriture italienne ?",
+      "target_example": "آیا غذای ایتالیایی دوست داری؟",
+      "topic": "food",
+      "level": "A1"
+    }
+  ]
+}

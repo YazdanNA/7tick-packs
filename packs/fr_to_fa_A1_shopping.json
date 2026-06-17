@@ -1,0 +1,41 @@
+{
+  "id": "fr_to_fa_A1__shopping",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__shopping",
+  "words": [
+    {
+      "base_word": "bag",
+      "source_word": "sac",
+      "target_word": "کیف",
+      "source_phonetic": "/sak/",
+      "target_phonetic": "kif",
+      "source_example": "Il portait un sac lourd.",
+      "target_example": "او یک کیف سنگین حمل می‌کرد.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "buy",
+      "source_word": "acheter",
+      "target_word": "خریدن",
+      "source_phonetic": "/aʃte/",
+      "target_phonetic": "xaridan",
+      "source_example": "Je veux acheter un nouveau téléphone.",
+      "target_example": "من می‌خواهم یک گوشی جدید بخرم.",
+      "topic": "shopping",
+      "level": "A1"
+    },
+    {
+      "base_word": "cheap",
+      "source_word": "bon marché",
+      "target_word": "ارزان",
+      "source_phonetic": "/bɔ̃ maʁ.ʃe/",
+      "target_phonetic": "arzān",
+      "source_example": "Le vélo est un moyen de transport bon marché.",
+      "target_example": "دوچرخه‌سواری یک راه ارزان برای رفت و آمد است.",
+      "topic": "shopping",
+      "level": "A1"
+    }
+  ]
+}

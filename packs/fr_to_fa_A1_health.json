@@ -1,0 +1,140 @@
+{
+  "id": "fr_to_fa_A1__health",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__health",
+  "words": [
+    {
+      "base_word": "body",
+      "source_word": "corps",
+      "target_word": "بدن",
+      "source_phonetic": "/kɔʁ/",
+      "target_phonetic": "badan",
+      "source_example": "Le corps humain est complexe.",
+      "target_example": "بدن انسان پیچیده است.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "cold",
+      "source_word": "rhume",
+      "target_word": "سرماخوردگی",
+      "source_phonetic": "/ʁym/",
+      "target_phonetic": "sarmāxordegi",
+      "source_example": "J'ai un rhume.",
+      "target_example": "من سرما خورده‌ام.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "dangerous",
+      "source_word": "dangereux",
+      "target_word": "خطرناک",
+      "source_phonetic": "/dɑ̃ʒ.ʁø/",
+      "target_phonetic": "khatarnāk",
+      "source_example": "La situation est extrêmement dangereuse.",
+      "target_example": "وضعیت بسیار خطرناک است.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "die",
+      "source_word": "mourir",
+      "target_word": "مردن",
+      "source_phonetic": "/mu.ʁiʁ/",
+      "target_phonetic": "mordan",
+      "source_example": "Mon père est mort subitement à l'âge de 48 ans.",
+      "target_example": "پدرم به طور ناگهانی در سن ۴۸ سالگی درگذشت.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "diet",
+      "source_word": "régime",
+      "target_word": "رژیم غذایی",
+      "source_phonetic": "/ʁe.ʒim/",
+      "target_phonetic": "rezhim-e ghazāyi",
+      "source_example": "Adopte une alimentation saine et équilibrée.",
+      "target_example": "یک رژیم غذایی سالم و متعادل داشته باش.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "doctor",
+      "source_word": "médecin",
+      "target_word": "پزشک",
+      "source_phonetic": "/med.sɛ̃/",
+      "target_phonetic": "pezeshk",
+      "source_example": "Tu ferais mieux de voir un médecin.",
+      "target_example": "بهتر است به پزشک مراجعه کنی.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "ear",
+      "source_word": "oreille",
+      "target_word": "گوش",
+      "source_phonetic": "/ɔ.ʁɛj/",
+      "target_phonetic": "gush",
+      "source_example": "Il a mis ses mains sur ses oreilles.",
+      "target_example": "او دست‌هایش را روی گوش‌هایش گذاشت.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "exercice",
+      "target_word": "ورزش",
+      "source_phonetic": "/ɛɡ.zɛʁ.sis/",
+      "target_phonetic": "varzesh",
+      "source_example": "La natation est un bon exercice.",
+      "target_example": "شنا ورزش خوبی است.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "exercise",
+      "source_word": "faire de l'exercice",
+      "target_word": "ورزش کردن",
+      "source_phonetic": "/fɛʁ də lɛɡ.zɛʁ.sis/",
+      "target_phonetic": "varzesh kardan",
+      "source_example": "À quelle fréquence fais-tu de l'exercice ?",
+      "target_example": "چند وقت یکبار ورزش می‌کنی؟",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "eye",
+      "source_word": "œil",
+      "target_word": "چشم",
+      "source_phonetic": "/œj/",
+      "target_phonetic": "cheshm",
+      "source_example": "Le suspect a les cheveux noirs et les yeux verts.",
+      "target_example": "مظنون موهای تیره و چشم‌های سبز دارد.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "fat",
+      "source_word": "gros",
+      "target_word": "چاق",
+      "source_phonetic": "/ɡʁo/",
+      "target_phonetic": "chāq",
+      "source_example": "Il est un peu gros.",
+      "target_example": "او کمی چاق است.",
+      "topic": "health",
+      "level": "A1"
+    },
+    {
+      "base_word": "foot",
+      "source_word": "pied",
+      "target_word": "پا",
+      "source_phonetic": "/pje/",
+      "target_phonetic": "pā",
+      "source_example": "Mes pieds me font mal.",
+      "target_example": "پاهایم درد می‌کنند.",
+      "topic": "health",
+      "level": "A1"
+    }
+  ]
+}

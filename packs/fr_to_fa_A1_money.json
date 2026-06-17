@@ -1,0 +1,74 @@
+{
+  "id": "fr_to_fa_A1__money",
+  "source": "fr",
+  "target": "fa",
+  "group": "A1__money",
+  "words": [
+    {
+      "base_word": "cent",
+      "source_word": "centime",
+      "target_word": "سنت",
+      "source_phonetic": "/sɑ̃.tim/",
+      "target_phonetic": "sent",
+      "source_example": "Un appel d'une minute a coûté 10 centimes.",
+      "target_example": "یک تماس تلفنی یک دقیقه‌ای ۱۰ سنت هزینه داشت.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "cost",
+      "source_word": "coût",
+      "target_word": "هزینه",
+      "source_phonetic": "/ku/",
+      "target_phonetic": "hazine",
+      "source_example": "Le coût du logement est très élevé.",
+      "target_example": "هزینه مسکن بسیار بالا است.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "cost",
+      "source_word": "coûter",
+      "target_word": "قیمت داشتن",
+      "source_phonetic": "/kute/",
+      "target_phonetic": "qeymat dāshtan",
+      "source_example": "Les billets coûtent dix dollars chacun.",
+      "target_example": "بلیط‌ها هر کدام ده دلار قیمت دارند.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "dollar",
+      "source_word": "dollar",
+      "target_word": "دلار",
+      "source_phonetic": "/dɔ.laʁ/",
+      "target_phonetic": "dolār",
+      "source_example": "As-tu un dollar ?",
+      "target_example": "آیا یک دلار داری؟",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "euro",
+      "source_word": "euro",
+      "target_word": "یورو",
+      "source_phonetic": "/ø.ʁo/",
+      "target_phonetic": "yuro",
+      "source_example": "Je l'ai payé cinq euros.",
+      "target_example": "من پنج یورو برای آن پرداختم.",
+      "topic": "money",
+      "level": "A1"
+    },
+    {
+      "base_word": "expensive",
+      "source_word": "cher",
+      "target_word": "گران",
+      "source_phonetic": "/ʃɛʁ/",
+      "target_phonetic": "gerān",
+      "source_example": "Je ne peux pas me le permettre – c'est trop cher.",
+      "target_example": "نمی‌توانم آن را بخرم—خیلی گران است.",
+      "topic": "money",
+      "level": "A1"
+    }
+  ]
+}
