@@ -1,0 +1,15 @@
+{
+  "levels": [
+    {
+      "level": "A1",
+      "packs": [
+        {
+          "id": "a1_en_fa_daily_life",
+          "title": "A1 EN → FA Daily Life",
+          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/7tick-packs/main/packs/a1_en_fa_daily_life.json",
+          "words": 120
+        }
+      ]
+    }
+  ]
+}
