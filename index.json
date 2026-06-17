@@ -1,0 +1,3146 @@
+{
+  "app": "7tick",
+  "version": "1.0",
+  "levels": [
+    {
+      "level": "de",
+      "packs": [
+        {
+          "id": "de_to_en_a1_001",
+          "title": "to → en (a1_001)",
+          "source": "to",
+          "target": "en",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__animals",
+          "title": "to → en (A1_animals)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__business",
+          "title": "to → en (A1_business)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__communication",
+          "title": "to → en (A1_communication)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__culture",
+          "title": "to → en (A1_culture)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__daily_life",
+          "title": "to → en (A1_daily_life)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__education",
+          "title": "to → en (A1_education)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__emotions",
+          "title": "to → en (A1_emotions)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__entertainment",
+          "title": "to → en (A1_entertainment)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__family",
+          "title": "to → en (A1_family)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__food",
+          "title": "to → en (A1_food)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__grammar",
+          "title": "to → en (A1_grammar)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__health",
+          "title": "to → en (A1_health)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__home",
+          "title": "to → en (A1_home)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__location",
+          "title": "to → en (A1_location)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__money",
+          "title": "to → en (A1_money)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__nature",
+          "title": "to → en (A1_nature)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__relationships",
+          "title": "to → en (A1_relationships)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__shopping",
+          "title": "to → en (A1_shopping)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__sports",
+          "title": "to → en (A1_sports)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__technology",
+          "title": "to → en (A1_technology)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__time",
+          "title": "to → en (A1_time)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__transportation",
+          "title": "to → en (A1_transportation)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__travel",
+          "title": "to → en (A1_travel)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__weather",
+          "title": "to → en (A1_weather)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_en_A1__work",
+          "title": "to → en (A1_work)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_en_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_a1_001",
+          "title": "to → fa (a1_001)",
+          "source": "to",
+          "target": "fa",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__animals",
+          "title": "to → fa (A1_animals)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__business",
+          "title": "to → fa (A1_business)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__communication",
+          "title": "to → fa (A1_communication)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__culture",
+          "title": "to → fa (A1_culture)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__daily_life",
+          "title": "to → fa (A1_daily_life)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__education",
+          "title": "to → fa (A1_education)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__emotions",
+          "title": "to → fa (A1_emotions)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__entertainment",
+          "title": "to → fa (A1_entertainment)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__family",
+          "title": "to → fa (A1_family)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__food",
+          "title": "to → fa (A1_food)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__grammar",
+          "title": "to → fa (A1_grammar)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__health",
+          "title": "to → fa (A1_health)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__home",
+          "title": "to → fa (A1_home)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__location",
+          "title": "to → fa (A1_location)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__money",
+          "title": "to → fa (A1_money)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__nature",
+          "title": "to → fa (A1_nature)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__relationships",
+          "title": "to → fa (A1_relationships)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__shopping",
+          "title": "to → fa (A1_shopping)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__sports",
+          "title": "to → fa (A1_sports)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__technology",
+          "title": "to → fa (A1_technology)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__time",
+          "title": "to → fa (A1_time)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__transportation",
+          "title": "to → fa (A1_transportation)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__travel",
+          "title": "to → fa (A1_travel)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__weather",
+          "title": "to → fa (A1_weather)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fa_A1__work",
+          "title": "to → fa (A1_work)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fa_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_a1_001",
+          "title": "to → fr (a1_001)",
+          "source": "to",
+          "target": "fr",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__animals",
+          "title": "to → fr (A1_animals)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__business",
+          "title": "to → fr (A1_business)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__communication",
+          "title": "to → fr (A1_communication)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__culture",
+          "title": "to → fr (A1_culture)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__daily_life",
+          "title": "to → fr (A1_daily_life)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__education",
+          "title": "to → fr (A1_education)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__emotions",
+          "title": "to → fr (A1_emotions)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__entertainment",
+          "title": "to → fr (A1_entertainment)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__family",
+          "title": "to → fr (A1_family)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__food",
+          "title": "to → fr (A1_food)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__grammar",
+          "title": "to → fr (A1_grammar)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__health",
+          "title": "to → fr (A1_health)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__home",
+          "title": "to → fr (A1_home)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__location",
+          "title": "to → fr (A1_location)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__money",
+          "title": "to → fr (A1_money)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__nature",
+          "title": "to → fr (A1_nature)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__relationships",
+          "title": "to → fr (A1_relationships)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__shopping",
+          "title": "to → fr (A1_shopping)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__sports",
+          "title": "to → fr (A1_sports)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__technology",
+          "title": "to → fr (A1_technology)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__time",
+          "title": "to → fr (A1_time)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__transportation",
+          "title": "to → fr (A1_transportation)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__travel",
+          "title": "to → fr (A1_travel)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__weather",
+          "title": "to → fr (A1_weather)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "de_to_fr_A1__work",
+          "title": "to → fr (A1_work)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/de_to_fr_A1_work.json",
+          "version": "1.0"
+        }
+      ]
+    },
+    {
+      "level": "en",
+      "packs": [
+        {
+          "id": "en_to_de_a1_001",
+          "title": "to → de (a1_001)",
+          "source": "to",
+          "target": "de",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__animals",
+          "title": "to → de (A1_animals)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__business",
+          "title": "to → de (A1_business)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__communication",
+          "title": "to → de (A1_communication)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__culture",
+          "title": "to → de (A1_culture)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__daily_life",
+          "title": "to → de (A1_daily_life)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__education",
+          "title": "to → de (A1_education)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__emotions",
+          "title": "to → de (A1_emotions)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__entertainment",
+          "title": "to → de (A1_entertainment)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__family",
+          "title": "to → de (A1_family)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__food",
+          "title": "to → de (A1_food)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__grammar",
+          "title": "to → de (A1_grammar)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__health",
+          "title": "to → de (A1_health)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__home",
+          "title": "to → de (A1_home)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__location",
+          "title": "to → de (A1_location)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__money",
+          "title": "to → de (A1_money)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__nature",
+          "title": "to → de (A1_nature)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__relationships",
+          "title": "to → de (A1_relationships)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__shopping",
+          "title": "to → de (A1_shopping)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__sports",
+          "title": "to → de (A1_sports)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__technology",
+          "title": "to → de (A1_technology)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__time",
+          "title": "to → de (A1_time)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__transportation",
+          "title": "to → de (A1_transportation)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__travel",
+          "title": "to → de (A1_travel)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__weather",
+          "title": "to → de (A1_weather)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_de_A1__work",
+          "title": "to → de (A1_work)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_de_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_a1_001",
+          "title": "to → fa (a1_001)",
+          "source": "to",
+          "target": "fa",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__animals",
+          "title": "to → fa (A1_animals)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__business",
+          "title": "to → fa (A1_business)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__communication",
+          "title": "to → fa (A1_communication)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__culture",
+          "title": "to → fa (A1_culture)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__daily_life",
+          "title": "to → fa (A1_daily_life)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__education",
+          "title": "to → fa (A1_education)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__emotions",
+          "title": "to → fa (A1_emotions)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__entertainment",
+          "title": "to → fa (A1_entertainment)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__family",
+          "title": "to → fa (A1_family)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__food",
+          "title": "to → fa (A1_food)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__grammar",
+          "title": "to → fa (A1_grammar)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__health",
+          "title": "to → fa (A1_health)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__home",
+          "title": "to → fa (A1_home)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__location",
+          "title": "to → fa (A1_location)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__money",
+          "title": "to → fa (A1_money)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__nature",
+          "title": "to → fa (A1_nature)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__relationships",
+          "title": "to → fa (A1_relationships)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__shopping",
+          "title": "to → fa (A1_shopping)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__sports",
+          "title": "to → fa (A1_sports)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__technology",
+          "title": "to → fa (A1_technology)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__time",
+          "title": "to → fa (A1_time)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__transportation",
+          "title": "to → fa (A1_transportation)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__travel",
+          "title": "to → fa (A1_travel)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__weather",
+          "title": "to → fa (A1_weather)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fa_A1__work",
+          "title": "to → fa (A1_work)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fa_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_a1_001",
+          "title": "to → fr (a1_001)",
+          "source": "to",
+          "target": "fr",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__animals",
+          "title": "to → fr (A1_animals)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__business",
+          "title": "to → fr (A1_business)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__communication",
+          "title": "to → fr (A1_communication)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__culture",
+          "title": "to → fr (A1_culture)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__daily_life",
+          "title": "to → fr (A1_daily_life)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__education",
+          "title": "to → fr (A1_education)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__emotions",
+          "title": "to → fr (A1_emotions)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__entertainment",
+          "title": "to → fr (A1_entertainment)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__family",
+          "title": "to → fr (A1_family)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__food",
+          "title": "to → fr (A1_food)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__grammar",
+          "title": "to → fr (A1_grammar)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__health",
+          "title": "to → fr (A1_health)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__home",
+          "title": "to → fr (A1_home)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__location",
+          "title": "to → fr (A1_location)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__money",
+          "title": "to → fr (A1_money)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__nature",
+          "title": "to → fr (A1_nature)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__relationships",
+          "title": "to → fr (A1_relationships)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__shopping",
+          "title": "to → fr (A1_shopping)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__sports",
+          "title": "to → fr (A1_sports)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__technology",
+          "title": "to → fr (A1_technology)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__time",
+          "title": "to → fr (A1_time)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__transportation",
+          "title": "to → fr (A1_transportation)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__travel",
+          "title": "to → fr (A1_travel)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__weather",
+          "title": "to → fr (A1_weather)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "en_to_fr_A1__work",
+          "title": "to → fr (A1_work)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/en_to_fr_A1_work.json",
+          "version": "1.0"
+        }
+      ]
+    },
+    {
+      "level": "fa",
+      "packs": [
+        {
+          "id": "fa_to_de_a1_001",
+          "title": "to → de (a1_001)",
+          "source": "to",
+          "target": "de",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__animals",
+          "title": "to → de (A1_animals)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__business",
+          "title": "to → de (A1_business)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__communication",
+          "title": "to → de (A1_communication)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__culture",
+          "title": "to → de (A1_culture)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__daily_life",
+          "title": "to → de (A1_daily_life)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__education",
+          "title": "to → de (A1_education)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__emotions",
+          "title": "to → de (A1_emotions)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__entertainment",
+          "title": "to → de (A1_entertainment)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__family",
+          "title": "to → de (A1_family)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__food",
+          "title": "to → de (A1_food)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__grammar",
+          "title": "to → de (A1_grammar)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__health",
+          "title": "to → de (A1_health)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__home",
+          "title": "to → de (A1_home)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__location",
+          "title": "to → de (A1_location)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__money",
+          "title": "to → de (A1_money)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__nature",
+          "title": "to → de (A1_nature)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__relationships",
+          "title": "to → de (A1_relationships)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__shopping",
+          "title": "to → de (A1_shopping)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__sports",
+          "title": "to → de (A1_sports)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__technology",
+          "title": "to → de (A1_technology)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__time",
+          "title": "to → de (A1_time)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__transportation",
+          "title": "to → de (A1_transportation)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__travel",
+          "title": "to → de (A1_travel)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__weather",
+          "title": "to → de (A1_weather)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_de_A1__work",
+          "title": "to → de (A1_work)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_de_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_a1_001",
+          "title": "to → en (a1_001)",
+          "source": "to",
+          "target": "en",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__animals",
+          "title": "to → en (A1_animals)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__business",
+          "title": "to → en (A1_business)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__communication",
+          "title": "to → en (A1_communication)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__culture",
+          "title": "to → en (A1_culture)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__daily_life",
+          "title": "to → en (A1_daily_life)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__education",
+          "title": "to → en (A1_education)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__emotions",
+          "title": "to → en (A1_emotions)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__entertainment",
+          "title": "to → en (A1_entertainment)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__family",
+          "title": "to → en (A1_family)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__food",
+          "title": "to → en (A1_food)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__grammar",
+          "title": "to → en (A1_grammar)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__health",
+          "title": "to → en (A1_health)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__home",
+          "title": "to → en (A1_home)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__location",
+          "title": "to → en (A1_location)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__money",
+          "title": "to → en (A1_money)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__nature",
+          "title": "to → en (A1_nature)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__relationships",
+          "title": "to → en (A1_relationships)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__shopping",
+          "title": "to → en (A1_shopping)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__sports",
+          "title": "to → en (A1_sports)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__technology",
+          "title": "to → en (A1_technology)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__time",
+          "title": "to → en (A1_time)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__transportation",
+          "title": "to → en (A1_transportation)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__travel",
+          "title": "to → en (A1_travel)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__weather",
+          "title": "to → en (A1_weather)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_en_A1__work",
+          "title": "to → en (A1_work)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_en_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_a1_001",
+          "title": "to → fr (a1_001)",
+          "source": "to",
+          "target": "fr",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__animals",
+          "title": "to → fr (A1_animals)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__business",
+          "title": "to → fr (A1_business)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__communication",
+          "title": "to → fr (A1_communication)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__culture",
+          "title": "to → fr (A1_culture)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__daily_life",
+          "title": "to → fr (A1_daily_life)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__education",
+          "title": "to → fr (A1_education)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__emotions",
+          "title": "to → fr (A1_emotions)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__entertainment",
+          "title": "to → fr (A1_entertainment)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__family",
+          "title": "to → fr (A1_family)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__food",
+          "title": "to → fr (A1_food)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__grammar",
+          "title": "to → fr (A1_grammar)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__health",
+          "title": "to → fr (A1_health)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__home",
+          "title": "to → fr (A1_home)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__location",
+          "title": "to → fr (A1_location)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__money",
+          "title": "to → fr (A1_money)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__nature",
+          "title": "to → fr (A1_nature)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__relationships",
+          "title": "to → fr (A1_relationships)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__shopping",
+          "title": "to → fr (A1_shopping)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__sports",
+          "title": "to → fr (A1_sports)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__technology",
+          "title": "to → fr (A1_technology)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__time",
+          "title": "to → fr (A1_time)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__transportation",
+          "title": "to → fr (A1_transportation)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__travel",
+          "title": "to → fr (A1_travel)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__weather",
+          "title": "to → fr (A1_weather)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fa_to_fr_A1__work",
+          "title": "to → fr (A1_work)",
+          "source": "to",
+          "target": "fr",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fa_to_fr_A1_work.json",
+          "version": "1.0"
+        }
+      ]
+    },
+    {
+      "level": "fr",
+      "packs": [
+        {
+          "id": "fr_to_de_a1_001",
+          "title": "to → de (a1_001)",
+          "source": "to",
+          "target": "de",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__animals",
+          "title": "to → de (A1_animals)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__business",
+          "title": "to → de (A1_business)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__communication",
+          "title": "to → de (A1_communication)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__culture",
+          "title": "to → de (A1_culture)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__daily_life",
+          "title": "to → de (A1_daily_life)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__education",
+          "title": "to → de (A1_education)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__emotions",
+          "title": "to → de (A1_emotions)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__entertainment",
+          "title": "to → de (A1_entertainment)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__family",
+          "title": "to → de (A1_family)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__food",
+          "title": "to → de (A1_food)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__grammar",
+          "title": "to → de (A1_grammar)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__health",
+          "title": "to → de (A1_health)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__home",
+          "title": "to → de (A1_home)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__location",
+          "title": "to → de (A1_location)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__money",
+          "title": "to → de (A1_money)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__nature",
+          "title": "to → de (A1_nature)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__relationships",
+          "title": "to → de (A1_relationships)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__shopping",
+          "title": "to → de (A1_shopping)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__sports",
+          "title": "to → de (A1_sports)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__technology",
+          "title": "to → de (A1_technology)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__time",
+          "title": "to → de (A1_time)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__transportation",
+          "title": "to → de (A1_transportation)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__travel",
+          "title": "to → de (A1_travel)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__weather",
+          "title": "to → de (A1_weather)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_de_A1__work",
+          "title": "to → de (A1_work)",
+          "source": "to",
+          "target": "de",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_de_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_a1_001",
+          "title": "to → en (a1_001)",
+          "source": "to",
+          "target": "en",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__animals",
+          "title": "to → en (A1_animals)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__business",
+          "title": "to → en (A1_business)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__communication",
+          "title": "to → en (A1_communication)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__culture",
+          "title": "to → en (A1_culture)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__daily_life",
+          "title": "to → en (A1_daily_life)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__education",
+          "title": "to → en (A1_education)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__emotions",
+          "title": "to → en (A1_emotions)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__entertainment",
+          "title": "to → en (A1_entertainment)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__family",
+          "title": "to → en (A1_family)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__food",
+          "title": "to → en (A1_food)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__grammar",
+          "title": "to → en (A1_grammar)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__health",
+          "title": "to → en (A1_health)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__home",
+          "title": "to → en (A1_home)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__location",
+          "title": "to → en (A1_location)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__money",
+          "title": "to → en (A1_money)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__nature",
+          "title": "to → en (A1_nature)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__relationships",
+          "title": "to → en (A1_relationships)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__shopping",
+          "title": "to → en (A1_shopping)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__sports",
+          "title": "to → en (A1_sports)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__technology",
+          "title": "to → en (A1_technology)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__time",
+          "title": "to → en (A1_time)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__transportation",
+          "title": "to → en (A1_transportation)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__travel",
+          "title": "to → en (A1_travel)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__weather",
+          "title": "to → en (A1_weather)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_en_A1__work",
+          "title": "to → en (A1_work)",
+          "source": "to",
+          "target": "en",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_en_A1_work.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_a1_001",
+          "title": "to → fa (a1_001)",
+          "source": "to",
+          "target": "fa",
+          "topic": "a1_001",
+          "words": 20,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_a1_001.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__animals",
+          "title": "to → fa (A1_animals)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_animals",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_animals.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__business",
+          "title": "to → fa (A1_business)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_business",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_business.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__communication",
+          "title": "to → fa (A1_communication)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_communication",
+          "words": 26,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_communication.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__culture",
+          "title": "to → fa (A1_culture)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_culture",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_culture.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__daily_life",
+          "title": "to → fa (A1_daily_life)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_daily_life",
+          "words": 138,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_daily_life.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__education",
+          "title": "to → fa (A1_education)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_education",
+          "words": 18,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_education.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__emotions",
+          "title": "to → fa (A1_emotions)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_emotions",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_emotions.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__entertainment",
+          "title": "to → fa (A1_entertainment)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_entertainment",
+          "words": 10,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_entertainment.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__family",
+          "title": "to → fa (A1_family)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_family",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_family.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__food",
+          "title": "to → fa (A1_food)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_food",
+          "words": 23,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_food.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__grammar",
+          "title": "to → fa (A1_grammar)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_grammar",
+          "words": 1,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_grammar.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__health",
+          "title": "to → fa (A1_health)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_health",
+          "words": 12,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_health.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__home",
+          "title": "to → fa (A1_home)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_home",
+          "words": 11,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_home.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__location",
+          "title": "to → fa (A1_location)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_location",
+          "words": 16,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_location.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__money",
+          "title": "to → fa (A1_money)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_money",
+          "words": 6,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_money.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__nature",
+          "title": "to → fa (A1_nature)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_nature",
+          "words": 4,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_nature.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__relationships",
+          "title": "to → fa (A1_relationships)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_relationships",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_relationships.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__shopping",
+          "title": "to → fa (A1_shopping)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_shopping",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_shopping.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__sports",
+          "title": "to → fa (A1_sports)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_sports",
+          "words": 3,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_sports.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__technology",
+          "title": "to → fa (A1_technology)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_technology",
+          "words": 9,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_technology.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__time",
+          "title": "to → fa (A1_time)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_time",
+          "words": 22,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_time.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__transportation",
+          "title": "to → fa (A1_transportation)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_transportation",
+          "words": 7,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_transportation.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__travel",
+          "title": "to → fa (A1_travel)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_travel",
+          "words": 8,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_travel.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__weather",
+          "title": "to → fa (A1_weather)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_weather",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_weather.json",
+          "version": "1.0"
+        },
+        {
+          "id": "fr_to_fa_A1__work",
+          "title": "to → fa (A1_work)",
+          "source": "to",
+          "target": "fa",
+          "topic": "A1_work",
+          "words": 2,
+          "url": "https://raw.githubusercontent.com/YazdanNA/7tick-packs/main/packs/fr_to_fa_A1_work.json",
+          "version": "1.0"
+        }
+      ]
+    }
+  ]
+}
